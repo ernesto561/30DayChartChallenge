@@ -1,0 +1,2742 @@
+{"Ubicaciones":
+[
+{"codigo":"N_A","nam":"Zona En Proceso De Demarcación","na2":"ZONAS DE FRONTERAS"}
+,{"codigo":"0000","nam":"Zona En Proceso De Demarcación","na2":"ZONAS DE FRONTERAS"}
+,{"codigo":"000000","nam":"Zona En Proceso De Demarcación","na2":"ZONAS DE FRONTERAS"}
+,{"codigo":"01","nam":"Ahuachapán","na2":"AHUACHAPÁN"}
+,{"codigo":"0101","nam":"Ahuachapán","na2":"AHUACHAPÁN"}
+,{"codigo":"010100","nam":"Area Urbana","na2":"AHUACHAPÁN"}
+,{"codigo":"010101","nam":"Ashapuco","na2":"AHUACHAPÁN"}
+,{"codigo":"010102","nam":"Chancuyo","na2":"AHUACHAPÁN"}
+,{"codigo":"010103","nam":"Chipilapa","na2":"AHUACHAPÁN"}
+,{"codigo":"010104","nam":"Cuyanausul","na2":"AHUACHAPÁN"}
+,{"codigo":"010105","nam":"El Anonal","na2":"AHUACHAPÁN"}
+,{"codigo":"010106","nam":"El Barro","na2":"AHUACHAPÁN"}
+,{"codigo":"010107","nam":"El Junquillo","na2":"AHUACHAPÁN"}
+,{"codigo":"010108","nam":"El Roble","na2":"AHUACHAPÁN"}
+,{"codigo":"010109","nam":"El Tigre","na2":"AHUACHAPÁN"}
+,{"codigo":"010110","nam":"La Coyotera","na2":"AHUACHAPÁN"}
+,{"codigo":"010111","nam":"La Danta","na2":"AHUACHAPÁN"}
+,{"codigo":"010112","nam":"Las Chinamas","na2":"AHUACHAPÁN"}
+,{"codigo":"010113","nam":"Llano De Doña Maria","na2":"AHUACHAPÁN"}
+,{"codigo":"010114","nam":"Llano De La Laguna","na2":"AHUACHAPÁN"}
+,{"codigo":"010115","nam":"Loma De La Gloria","na2":"AHUACHAPÁN"}
+,{"codigo":"010116","nam":"Los Huatales","na2":"AHUACHAPÁN"}
+,{"codigo":"010117","nam":"Los Magueyes","na2":"AHUACHAPÁN"}
+,{"codigo":"010118","nam":"Los Toles","na2":"AHUACHAPÁN"}
+,{"codigo":"010119","nam":"La Montañita","na2":"AHUACHAPÁN"}
+,{"codigo":"010120","nam":"Palo Pique","na2":"AHUACHAPÁN"}
+,{"codigo":"010121","nam":"Rio Frio","na2":"AHUACHAPÁN"}
+,{"codigo":"010122","nam":"San Lazaro","na2":"AHUACHAPÁN"}
+,{"codigo":"010123","nam":"San Ramon","na2":"AHUACHAPÁN"}
+,{"codigo":"010124","nam":"Santa Cruz","na2":"AHUACHAPÁN"}
+,{"codigo":"010125","nam":"Santa Rosa Acacalco","na2":"AHUACHAPÁN"}
+,{"codigo":"010126","nam":"Suntecumat","na2":"AHUACHAPÁN"}
+,{"codigo":"010127","nam":"Tacubita","na2":"AHUACHAPÁN"}
+,{"codigo":"0102","nam":"Apaneca","na2":"APANECA"}
+,{"codigo":"010200","nam":"Area Urbana","na2":"APANECA"}
+,{"codigo":"010201","nam":"El Saitillal","na2":"APANECA"}
+,{"codigo":"010202","nam":"Palo Verde","na2":"APANECA"}
+,{"codigo":"010203","nam":"Quezalapa","na2":"APANECA"}
+,{"codigo":"010204","nam":"San Ramoncito","na2":"APANECA"}
+,{"codigo":"010205","nam":"Taltapanca","na2":"APANECA"}
+,{"codigo":"010206","nam":"Tizapa","na2":"APANECA"}
+,{"codigo":"010207","nam":"Tulapa","na2":"APANECA"}
+,{"codigo":"0103","nam":"Atiquizaya","na2":"ATIQUIZAYA"}
+,{"codigo":"010300","nam":"Area Urbana","na2":"ATIQUIZAYA"}
+,{"codigo":"010301","nam":"El Chayal","na2":"ATIQUIZAYA"}
+,{"codigo":"010302","nam":"El Salitrero","na2":"ATIQUIZAYA"}
+,{"codigo":"010303","nam":"El Tortuguero","na2":"ATIQUIZAYA"}
+,{"codigo":"010304","nam":"El Tapacun","na2":"ATIQUIZAYA"}
+,{"codigo":"010305","nam":"Izcaquilio","na2":"ATIQUIZAYA"}
+,{"codigo":"010306","nam":"Joya Del Platanar","na2":"ATIQUIZAYA"}
+,{"codigo":"010307","nam":"Joya Del Zapote","na2":"ATIQUIZAYA"}
+,{"codigo":"010308","nam":"La Esperanza","na2":"ATIQUIZAYA"}
+,{"codigo":"010309","nam":"Loma De Alarcon","na2":"ATIQUIZAYA"}
+,{"codigo":"010310","nam":"Pepenance","na2":"ATIQUIZAYA"}
+,{"codigo":"010311","nam":"Rincon Grande","na2":"ATIQUIZAYA"}
+,{"codigo":"010312","nam":"San Juan","na2":"ATIQUIZAYA"}
+,{"codigo":"010313","nam":"Santa Rita","na2":"ATIQUIZAYA"}
+,{"codigo":"010314","nam":"Zunca","na2":"ATIQUIZAYA"}
+,{"codigo":"0104","nam":"Concepción De Ataco","na2":"CONCEPCIÓN DE ATACO"}
+,{"codigo":"010400","nam":"Area Urbana","na2":"ATACO"}
+,{"codigo":"010401","nam":"El Arco","na2":"ATACO"}
+,{"codigo":"010402","nam":"El Carrizal","na2":"ATACO"}
+,{"codigo":"010403","nam":"El Limo","na2":"ATACO"}
+,{"codigo":"010404","nam":"El Molino","na2":"ATACO"}
+,{"codigo":"010405","nam":"El Naranjito","na2":"ATACO"}
+,{"codigo":"010406","nam":"El Tronconal","na2":"ATACO"}
+,{"codigo":"010407","nam":"La Ceiba","na2":"ATACO"}
+,{"codigo":"010408","nam":"La Joya De Los Apantes","na2":"ATACO"}
+,{"codigo":"010409","nam":"Los Tablones","na2":"ATACO"}
+,{"codigo":"010410","nam":"San Jose","na2":"ATACO"}
+,{"codigo":"010411","nam":"Shucutitan","na2":"ATACO"}
+,{"codigo":"010412","nam":"Texusin Chirizo","na2":"ATACO"}
+,{"codigo":"0105","nam":"El Refugio","na2":"EL REFUGIO"}
+,{"codigo":"010500","nam":"Area Urbana","na2":"EL REFUGIO"}
+,{"codigo":"010501","nam":"Comapa","na2":"EL REFUGIO"}
+,{"codigo":"010502","nam":"El Rosario","na2":"EL REFUGIO"}
+,{"codigo":"010503","nam":"San Antonio","na2":"EL REFUGIO"}
+,{"codigo":"010504","nam":"San Juan","na2":"EL REFUGIO"}
+,{"codigo":"0106","nam":"Guaymango","na2":"GUAYMANGO"}
+,{"codigo":"010600","nam":"Area Urbana","na2":"GUAYMANGO"}
+,{"codigo":"010601","nam":"Cauta Abajo","na2":"GUAYMANGO"}
+,{"codigo":"010602","nam":"Cauta Arriba","na2":"GUAYMANGO"}
+,{"codigo":"010603","nam":"El Carmen","na2":"GUAYMANGO"}
+,{"codigo":"010604","nam":"El Escalon","na2":"GUAYMANGO"}
+,{"codigo":"010605","nam":"El Rosario","na2":"GUAYMANGO"}
+,{"codigo":"010606","nam":"El Zarzal","na2":"GUAYMANGO"}
+,{"codigo":"010607","nam":"Istagapan","na2":"GUAYMANGO"}
+,{"codigo":"010608","nam":"La Esperanza","na2":"GUAYMANGO"}
+,{"codigo":"010609","nam":"La Paz","na2":"GUAYMANGO"}
+,{"codigo":"010610","nam":"Los Platanares","na2":"GUAYMANGO"}
+,{"codigo":"010611","nam":"Los Puentecitos","na2":"GUAYMANGO"}
+,{"codigo":"010612","nam":"Morro Grande","na2":"GUAYMANGO"}
+,{"codigo":"010613","nam":"San Andres","na2":"GUAYMANGO"}
+,{"codigo":"010614","nam":"San Martin","na2":"GUAYMANGO"}
+,{"codigo":"0107","nam":"Jujutla","na2":"JUJUTLA"}
+,{"codigo":"010700","nam":"Area Urbana","na2":"JUJUTLA"}
+,{"codigo":"010701","nam":"Barra De Santiago","na2":"JUJUTLA"}
+,{"codigo":"010702","nam":"El Diamante","na2":"JUJUTLA"}
+,{"codigo":"010703","nam":"Faya","na2":"JUJUTLA"}
+,{"codigo":"010704","nam":"Guayapa Abajo","na2":"JUJUTLA"}
+,{"codigo":"010705","nam":"Guayapa Arriba","na2":"JUJUTLA"}
+,{"codigo":"010706","nam":"Las Mesas","na2":"JUJUTLA"}
+,{"codigo":"010707","nam":"Los Amates","na2":"JUJUTLA"}
+,{"codigo":"010708","nam":"Rosario Abajo","na2":"JUJUTLA"}
+,{"codigo":"010709","nam":"Rosario Arriba","na2":"JUJUTLA"}
+,{"codigo":"010710","nam":"San Antonio","na2":"JUJUTLA"}
+,{"codigo":"010711","nam":"San Jose El Naranjo","na2":"JUJUTLA"}
+,{"codigo":"010712","nam":"Tihuicha","na2":"JUJUTLA"}
+,{"codigo":"010713","nam":"Zapua","na2":"JUJUTLA"}
+,{"codigo":"0108","nam":"San Francisco Menéndez","na2":"SAN FRANCISCO MENÉNDEZ"}
+,{"codigo":"010800","nam":"Area Urbana","na2":"SAN FRANCISCO MENÉNDEZ"}
+,{"codigo":"010801","nam":"Cara Sucia","na2":"SAN FRANCISCO MENÉNDEZ"}
+,{"codigo":"010802","nam":"El Corozo","na2":"SAN FRANCISCO MENÉNDEZ"}
+,{"codigo":"010803","nam":"El Jocotillo","na2":"SAN FRANCISCO MENÉNDEZ"}
+,{"codigo":"010804","nam":"El Sacramento","na2":"SAN FRANCISCO MENÉNDEZ"}
+,{"codigo":"010805","nam":"El Zapote","na2":"SAN FRANCISCO MENÉNDEZ"}
+,{"codigo":"010806","nam":"Garita Palmera","na2":"SAN FRANCISCO MENÉNDEZ"}
+,{"codigo":"010807","nam":"La Ceiba","na2":"SAN FRANCISCO MENÉNDEZ"}
+,{"codigo":"010808","nam":"La Hachadura","na2":"SAN FRANCISCO MENÉNDEZ"}
+,{"codigo":"010809","nam":"San Benito","na2":"SAN FRANCISCO MENÉNDEZ"}
+,{"codigo":"010810","nam":"Agua Fria","na2":"SAN FRANCISCO MENÉNDEZ"}
+,{"codigo":"0109","nam":"San Lorenzo","na2":"SAN LORENZO"}
+,{"codigo":"010900","nam":"Area Urbana","na2":"SAN LORENZO"}
+,{"codigo":"010901","nam":"El Conacaste","na2":"SAN LORENZO"}
+,{"codigo":"010902","nam":"El Jicaral","na2":"SAN LORENZO"}
+,{"codigo":"010903","nam":"El Portillo","na2":"SAN LORENZO"}
+,{"codigo":"010904","nam":"La Guascota","na2":"SAN LORENZO"}
+,{"codigo":"010905","nam":"Las Pozas","na2":"SAN LORENZO"}
+,{"codigo":"010906","nam":"San Juan Buena Vista","na2":"SAN LORENZO"}
+,{"codigo":"0110","nam":"San Pedro Puxtla","na2":"SAN PEDRO PUXTLA"}
+,{"codigo":"011000","nam":"Area Urbana","na2":"SAN PEDRO PUXTLA"}
+,{"codigo":"011001","nam":"El Cortez","na2":"SAN PEDRO PUXTLA"}
+,{"codigo":"011002","nam":"El Durazno","na2":"SAN PEDRO PUXTLA"}
+,{"codigo":"011003","nam":"El Guachipilin","na2":"SAN PEDRO PUXTLA"}
+,{"codigo":"011004","nam":"La Concepcion","na2":"SAN PEDRO PUXTLA"}
+,{"codigo":"011005","nam":"Pululapa","na2":"SAN PEDRO PUXTLA"}
+,{"codigo":"011006","nam":"Texispulco","na2":"SAN PEDRO PUXTLA"}
+,{"codigo":"0111","nam":"Tacuba","na2":"TACUBA"}
+,{"codigo":"011100","nam":"Area Urbana","na2":"TACUBA"}
+,{"codigo":"011101","nam":"Agua Fria","na2":"TACUBA"}
+,{"codigo":"011102","nam":"El Chaguite","na2":"TACUBA"}
+,{"codigo":"011103","nam":"El Jicaro","na2":"TACUBA"}
+,{"codigo":"011104","nam":"El Nispero","na2":"TACUBA"}
+,{"codigo":"011105","nam":"El Rodeo","na2":"TACUBA"}
+,{"codigo":"011106","nam":"El Rosario","na2":"TACUBA"}
+,{"codigo":"011107","nam":"El Sincuyo","na2":"TACUBA"}
+,{"codigo":"011108","nam":"La Montaña","na2":"TACUBA"}
+,{"codigo":"011109","nam":"La Pandeadura","na2":"TACUBA"}
+,{"codigo":"011110","nam":"La Puerta","na2":"TACUBA"}
+,{"codigo":"011111","nam":"Loma Larga","na2":"TACUBA"}
+,{"codigo":"011112","nam":"Monte Hermoso","na2":"TACUBA"}
+,{"codigo":"011113","nam":"San Juan","na2":"TACUBA"}
+,{"codigo":"011114","nam":"San Rafael","na2":"TACUBA"}
+,{"codigo":"0112","nam":"Turín","na2":"TURÍN"}
+,{"codigo":"011200","nam":"Area Urbana","na2":"TURÍN"}
+,{"codigo":"011201","nam":"El Jobo","na2":"TURÍN"}
+,{"codigo":"011202","nam":"El Paraiso","na2":"TURÍN"}
+,{"codigo":"011203","nam":"Santa Rita","na2":"TURÍN"}
+,{"codigo":"02","nam":"Santa Ana","na2":"SANTA ANA"}
+,{"codigo":"0201","nam":"Candelaria De La Frontera","na2":"CANDELARIA DE LA FRONTERA"}
+,{"codigo":"020100","nam":"Area Urbana","na2":"CANDELARIA DE LA FRONTERA"}
+,{"codigo":"020101","nam":"Barranquilla","na2":"CANDELARIA DE LA FRONTERA"}
+,{"codigo":"020102","nam":"Casas De Teja","na2":"CANDELARIA DE LA FRONTERA"}
+,{"codigo":"020103","nam":"El Chilamate","na2":"CANDELARIA DE LA FRONTERA"}
+,{"codigo":"020104","nam":"El Jute","na2":"CANDELARIA DE LA FRONTERA"}
+,{"codigo":"020105","nam":"El Paste","na2":"CANDELARIA DE LA FRONTERA"}
+,{"codigo":"020106","nam":"El Zacamil","na2":"CANDELARIA DE LA FRONTERA"}
+,{"codigo":"020107","nam":"La Criba","na2":"CANDELARIA DE LA FRONTERA"}
+,{"codigo":"020108","nam":"La Magdalena","na2":"CANDELARIA DE LA FRONTERA"}
+,{"codigo":"020109","nam":"La Parada","na2":"CANDELARIA DE LA FRONTERA"}
+,{"codigo":"020110","nam":"Monte Verde","na2":"CANDELARIA DE LA FRONTERA"}
+,{"codigo":"020111","nam":"Piedras Azules","na2":"CANDELARIA DE LA FRONTERA"}
+,{"codigo":"020112","nam":"San Cristóbal","na2":"CANDELARIA DE LA FRONTERA"}
+,{"codigo":"020113","nam":"San Jerónimo","na2":"CANDELARIA DE LA FRONTERA"}
+,{"codigo":"020114","nam":"San Miguel","na2":"CANDELARIA DE LA FRONTERA"}
+,{"codigo":"020115","nam":"San Vicente","na2":"CANDELARIA DE LA FRONTERA"}
+,{"codigo":"020116","nam":"Santa Cruz","na2":"CANDELARIA DE LA FRONTERA"}
+,{"codigo":"020117","nam":"Tierra Blanca","na2":"CANDELARIA DE LA FRONTERA"}
+,{"codigo":"0202","nam":"Coatepeque","na2":"COATEPEQUE"}
+,{"codigo":"020200","nam":"Area Urbana","na2":"COATEPEQUE"}
+,{"codigo":"020201","nam":"Caña Brava","na2":"COATEPEQUE"}
+,{"codigo":"020202","nam":"Conacastes","na2":"COATEPEQUE"}
+,{"codigo":"020203","nam":"Concepción","na2":"COATEPEQUE"}
+,{"codigo":"020204","nam":"El Cerro","na2":"COATEPEQUE"}
+,{"codigo":"020205","nam":"El Güineo","na2":"COATEPEQUE"}
+,{"codigo":"020206","nam":"El Jocotón","na2":"COATEPEQUE"}
+,{"codigo":"020207","nam":"El Junquillo","na2":"COATEPEQUE"}
+,{"codigo":"020208","nam":"El Pezote","na2":"COATEPEQUE"}
+,{"codigo":"020209","nam":"El Tinteral","na2":"COATEPEQUE"}
+,{"codigo":"020210","nam":"La Joya","na2":"COATEPEQUE"}
+,{"codigo":"020211","nam":"Las Aradas","na2":"COATEPEQUE"}
+,{"codigo":"020212","nam":"Nancintepeque","na2":"COATEPEQUE"}
+,{"codigo":"020213","nam":"Palo Negro","na2":"COATEPEQUE"}
+,{"codigo":"020214","nam":"Piletas","na2":"COATEPEQUE"}
+,{"codigo":"020215","nam":"Primavera","na2":"COATEPEQUE"}
+,{"codigo":"020216","nam":"Resbaladero","na2":"COATEPEQUE"}
+,{"codigo":"020217","nam":"San Felipe","na2":"COATEPEQUE"}
+,{"codigo":"020218","nam":"San Jacinto","na2":"COATEPEQUE"}
+,{"codigo":"020219","nam":"San José Las Flores","na2":"COATEPEQUE"}
+,{"codigo":"020220","nam":"Siete Principes","na2":"COATEPEQUE"}
+,{"codigo":"020221","nam":"Solimán","na2":"COATEPEQUE"}
+,{"codigo":"020222","nam":"Zacatal","na2":"COATEPEQUE"}
+,{"codigo":"0203","nam":"Chalchuapa","na2":"CHALCHUAPA"}
+,{"codigo":"020300","nam":"Area Urbana","na2":"CHALCHUAPA"}
+,{"codigo":"020301","nam":"Ayutepeque","na2":"CHALCHUAPA"}
+,{"codigo":"020302","nam":"Buenos Aires","na2":"CHALCHUAPA"}
+,{"codigo":"020303","nam":"El Arado","na2":"CHALCHUAPA"}
+,{"codigo":"020304","nam":"El Coco","na2":"CHALCHUAPA"}
+,{"codigo":"020305","nam":"El Cuje","na2":"CHALCHUAPA"}
+,{"codigo":"020306","nam":"El Duraznillo","na2":"CHALCHUAPA"}
+,{"codigo":"020307","nam":"El Paste","na2":"CHALCHUAPA"}
+,{"codigo":"020308","nam":"El Tanque","na2":"CHALCHUAPA"}
+,{"codigo":"020309","nam":"El Zacamil","na2":"CHALCHUAPA"}
+,{"codigo":"020310","nam":"Galeano","na2":"CHALCHUAPA"}
+,{"codigo":"020311","nam":"Guachipilín","na2":"CHALCHUAPA"}
+,{"codigo":"020312","nam":"La Libertad","na2":"CHALCHUAPA"}
+,{"codigo":"020313","nam":"La Magdalena","na2":"CHALCHUAPA"}
+,{"codigo":"020314","nam":"La Montañita","na2":"CHALCHUAPA"}
+,{"codigo":"020315","nam":"Las Cruces","na2":"CHALCHUAPA"}
+,{"codigo":"020316","nam":"Las Flores","na2":"CHALCHUAPA"}
+,{"codigo":"020317","nam":"Los Arenales","na2":"CHALCHUAPA"}
+,{"codigo":"020318","nam":"Los Huatales","na2":"CHALCHUAPA"}
+,{"codigo":"020319","nam":"Ojo De Agua","na2":"CHALCHUAPA"}
+,{"codigo":"020320","nam":"Piedra Rajada","na2":"CHALCHUAPA"}
+,{"codigo":"020321","nam":"Porvenir Jocotillo","na2":"CHALCHUAPA"}
+,{"codigo":"020322","nam":"San José","na2":"CHALCHUAPA"}
+,{"codigo":"020323","nam":"San Sebastián","na2":"CHALCHUAPA"}
+,{"codigo":"0204","nam":"El Congo","na2":"EL CONGO"}
+,{"codigo":"020400","nam":"Area Urbana","na2":"EL CONGO"}
+,{"codigo":"020401","nam":"El Güineo","na2":"EL CONGO"}
+,{"codigo":"020402","nam":"El Pezote","na2":"EL CONGO"}
+,{"codigo":"020403","nam":"El Rodeo","na2":"EL CONGO"}
+,{"codigo":"020404","nam":"La Laguna","na2":"EL CONGO"}
+,{"codigo":"020405","nam":"La Presa","na2":"EL CONGO"}
+,{"codigo":"020406","nam":"Los Pinos","na2":"EL CONGO"}
+,{"codigo":"020407","nam":"Montebello","na2":"EL CONGO"}
+,{"codigo":"020408","nam":"San José Las Flores","na2":"EL CONGO"}
+,{"codigo":"020409","nam":"Siete Principes","na2":"EL CONGO"}
+,{"codigo":"0205","nam":"El Porvenir","na2":"EL PORVENIR"}
+,{"codigo":"020500","nam":"Area Urbana","na2":"EL PORVENIR"}
+,{"codigo":"020501","nam":"El Rosario","na2":"EL PORVENIR"}
+,{"codigo":"020502","nam":"Galeano","na2":"EL PORVENIR"}
+,{"codigo":"020503","nam":"La Magdalena","na2":"EL PORVENIR"}
+,{"codigo":"020504","nam":"San Cristóbal","na2":"EL PORVENIR"}
+,{"codigo":"020505","nam":"San Juan Chiquito","na2":"EL PORVENIR"}
+,{"codigo":"020506","nam":"Santa Rosa Senca","na2":"EL PORVENIR"}
+,{"codigo":"0206","nam":"Masahuat","na2":"MASAHUAT"}
+,{"codigo":"020600","nam":"Area Urbana","na2":"MASAHUAT"}
+,{"codigo":"020601","nam":"Costa Rica","na2":"MASAHUAT"}
+,{"codigo":"020602","nam":"El Carmen","na2":"MASAHUAT"}
+,{"codigo":"020603","nam":"El Jute","na2":"MASAHUAT"}
+,{"codigo":"020604","nam":"Honduritas","na2":"MASAHUAT"}
+,{"codigo":"020605","nam":"La Joya","na2":"MASAHUAT"}
+,{"codigo":"020606","nam":"La Ruda","na2":"MASAHUAT"}
+,{"codigo":"020607","nam":"Laguna Seca","na2":"MASAHUAT"}
+,{"codigo":"020608","nam":"San Sebastián","na2":"MASAHUAT"}
+,{"codigo":"0207","nam":"Metapan","na2":"METAPAN"}
+,{"codigo":"020700","nam":"Area Urbana","na2":"METAPÁN"}
+,{"codigo":"020701","nam":"Aldea  Zapote","na2":"METAPÁN"}
+,{"codigo":"020702","nam":"Belén Guijat","na2":"METAPÁN"}
+,{"codigo":"020703","nam":"Cañas Dulces","na2":"METAPÁN"}
+,{"codigo":"020704","nam":"Cuyuiscat","na2":"METAPÁN"}
+,{"codigo":"020705","nam":"El Brujo","na2":"METAPÁN"}
+,{"codigo":"020706","nam":"El Capulín","na2":"METAPÁN"}
+,{"codigo":"020707","nam":"El Carmen","na2":"METAPÁN"}
+,{"codigo":"020708","nam":"El Carrizalillo","na2":"METAPÁN"}
+,{"codigo":"020709","nam":"El Limo","na2":"METAPÁN"}
+,{"codigo":"020710","nam":"El Panal","na2":"METAPÁN"}
+,{"codigo":"020711","nam":"El Rosario","na2":"METAPÁN"}
+,{"codigo":"020712","nam":"El Shiste","na2":"METAPÁN"}
+,{"codigo":"020713","nam":"La Ceibita","na2":"METAPÁN"}
+,{"codigo":"020714","nam":"La Isla","na2":"METAPÁN"}
+,{"codigo":"020715","nam":"La Joya","na2":"METAPÁN"}
+,{"codigo":"020716","nam":"Lagunetas","na2":"METAPÁN"}
+,{"codigo":"020717","nam":"Las Pavas","na2":"METAPÁN"}
+,{"codigo":"020718","nam":"Las Piedras","na2":"METAPÁN"}
+,{"codigo":"020719","nam":"Llano De La Virgen","na2":"METAPÁN"}
+,{"codigo":"020720","nam":"Mal Paso","na2":"METAPÁN"}
+,{"codigo":"020721","nam":"Matalapa","na2":"METAPÁN"}
+,{"codigo":"020722","nam":"Montenegro","na2":"METAPÁN"}
+,{"codigo":"020723","nam":"Ostúa","na2":"METAPÁN"}
+,{"codigo":"020724","nam":"San Antonio La Junta","na2":"METAPÁN"}
+,{"codigo":"020725","nam":"San Antonio Masahuat","na2":"METAPÁN"}
+,{"codigo":"020726","nam":"San Jerónimo","na2":"METAPÁN"}
+,{"codigo":"020727","nam":"San José Camulian","na2":"METAPÁN"}
+,{"codigo":"020728","nam":"San José Ingenio","na2":"METAPÁN"}
+,{"codigo":"020729","nam":"San Juan Las Minas","na2":"METAPÁN"}
+,{"codigo":"020730","nam":"San Miguel Ingenio","na2":"METAPÁN"}
+,{"codigo":"020731","nam":"San Sebastián","na2":"METAPÁN"}
+,{"codigo":"020732","nam":"Santa Rita","na2":"METAPÁN"}
+,{"codigo":"020733","nam":"Santo Tomás","na2":"METAPÁN"}
+,{"codigo":"020734","nam":"Tahuilapa","na2":"METAPÁN"}
+,{"codigo":"020735","nam":"Tecomapa","na2":"METAPÁN"}
+,{"codigo":"0208","nam":"San Antonio Pajonal","na2":"SAN ANTONIO PAJONAL"}
+,{"codigo":"020800","nam":"Area Urbana","na2":"SAN ANTONIO PAJONAL"}
+,{"codigo":"020801","nam":"Belén Guijat","na2":"SAN ANTONIO PAJONAL"}
+,{"codigo":"020802","nam":"El Ángel","na2":"SAN ANTONIO PAJONAL"}
+,{"codigo":"020803","nam":"El Barrial","na2":"SAN ANTONIO PAJONAL"}
+,{"codigo":"020804","nam":"El Mojón","na2":"SAN ANTONIO PAJONAL"}
+,{"codigo":"020805","nam":"El Tablón","na2":"SAN ANTONIO PAJONAL"}
+,{"codigo":"020806","nam":"La Danta","na2":"SAN ANTONIO PAJONAL"}
+,{"codigo":"020807","nam":"La Piedrona","na2":"SAN ANTONIO PAJONAL"}
+,{"codigo":"020808","nam":"Las Pilas","na2":"SAN ANTONIO PAJONAL"}
+,{"codigo":"020809","nam":"San Cayetano","na2":"SAN ANTONIO PAJONAL"}
+,{"codigo":"020810","nam":"San Miguel","na2":"SAN ANTONIO PAJONAL"}
+,{"codigo":"0209","nam":"San Sebastián Salitrillo","na2":"SAN SEBASTIÁN SALITRILLO"}
+,{"codigo":"020900","nam":"Area Urbana","na2":"SAN SEBASTIÁN SALITRILLO"}
+,{"codigo":"020901","nam":"Los Amates","na2":"SAN SEBASTIÁN SALITRILLO"}
+,{"codigo":"020902","nam":"Monte Largo","na2":"SAN SEBASTIÁN SALITRILLO"}
+,{"codigo":"020903","nam":"San José","na2":"SAN SEBASTIÁN SALITRILLO"}
+,{"codigo":"020904","nam":"San Luis","na2":"SAN SEBASTIÁN SALITRILLO"}
+,{"codigo":"020905","nam":"Santa Bárbara","na2":"SAN SEBASTIÁN SALITRILLO"}
+,{"codigo":"020906","nam":"Santa Rosa","na2":"SAN SEBASTIÁN SALITRILLO"}
+,{"codigo":"0210","nam":"Santa Ana","na2":"SANTA ANA"}
+,{"codigo":"021000","nam":"Area Urbana","na2":"SANTA ANA"}
+,{"codigo":"021001","nam":"Ayuta","na2":"SANTA ANA"}
+,{"codigo":"021002","nam":"Ayutepeque","na2":"SANTA ANA"}
+,{"codigo":"021003","nam":"Buenos Aires","na2":"SANTA ANA"}
+,{"codigo":"021004","nam":"Calzontes Abajo","na2":"SANTA ANA"}
+,{"codigo":"021005","nam":"Calzontes Arriba","na2":"SANTA ANA"}
+,{"codigo":"021006","nam":"Cantarrana","na2":"SANTA ANA"}
+,{"codigo":"021007","nam":"Chilcuyo","na2":"SANTA ANA"}
+,{"codigo":"021008","nam":"Chupaderos","na2":"SANTA ANA"}
+,{"codigo":"021009","nam":"Comecayo","na2":"SANTA ANA"}
+,{"codigo":"021010","nam":"Cujucuyo","na2":"SANTA ANA"}
+,{"codigo":"021011","nam":"Cutumay Camones","na2":"SANTA ANA"}
+,{"codigo":"021012","nam":"El Jute","na2":"SANTA ANA"}
+,{"codigo":"021013","nam":"El Portezuelo","na2":"SANTA ANA"}
+,{"codigo":"021014","nam":"Flor Amarilla Abajo","na2":"SANTA ANA"}
+,{"codigo":"021015","nam":"Flor Amarilla Arriba","na2":"SANTA ANA"}
+,{"codigo":"021016","nam":"La Empalizada","na2":"SANTA ANA"}
+,{"codigo":"021017","nam":"La Montañita","na2":"SANTA ANA"}
+,{"codigo":"021018","nam":"La Parada","na2":"SANTA ANA"}
+,{"codigo":"021019","nam":"Las Aradas","na2":"SANTA ANA"}
+,{"codigo":"021020","nam":"Loma Alta","na2":"SANTA ANA"}
+,{"codigo":"021021","nam":"Lomas De San Marcelino","na2":"SANTA ANA"}
+,{"codigo":"021022","nam":"Los Amates","na2":"SANTA ANA"}
+,{"codigo":"021023","nam":"Los Apoyos","na2":"SANTA ANA"}
+,{"codigo":"021024","nam":"Monte Largo","na2":"SANTA ANA"}
+,{"codigo":"021025","nam":"Nancintepeque","na2":"SANTA ANA"}
+,{"codigo":"021026","nam":"Natividad","na2":"SANTA ANA"}
+,{"codigo":"021027","nam":"Ochupse Abajo","na2":"SANTA ANA"}
+,{"codigo":"021028","nam":"Ochupse Arriba","na2":"SANTA ANA"}
+,{"codigo":"021029","nam":"Palo De Campana","na2":"SANTA ANA"}
+,{"codigo":"021030","nam":"Pinalito","na2":"SANTA ANA"}
+,{"codigo":"021031","nam":"Pinalón","na2":"SANTA ANA"}
+,{"codigo":"021032","nam":"Planes De La Laguna","na2":"SANTA ANA"}
+,{"codigo":"021033","nam":"Potrerillos Abajo De La Laguna","na2":"SANTA ANA"}
+,{"codigo":"021034","nam":"Potrerillos De La Laguna","na2":"SANTA ANA"}
+,{"codigo":"021035","nam":"Potrerillos Del Matazano","na2":"SANTA ANA"}
+,{"codigo":"021036","nam":"Potrero Grande Abajo","na2":"SANTA ANA"}
+,{"codigo":"021037","nam":"Potrero Grande Arriba","na2":"SANTA ANA"}
+,{"codigo":"021038","nam":"Primavera","na2":"SANTA ANA"}
+,{"codigo":"021039","nam":"Ranchador","na2":"SANTA ANA"}
+,{"codigo":"021040","nam":"San Juan Buena Vista","na2":"SANTA ANA"}
+,{"codigo":"021041","nam":"Tablón Del Matazano","na2":"SANTA ANA"}
+,{"codigo":"021042","nam":"Valle Del Matazano","na2":"SANTA ANA"}
+,{"codigo":"0211","nam":"Santa Rosa Guachipilín","na2":"SANTA ROSA GUACHIPILÍN"}
+,{"codigo":"021100","nam":"Area Urbana","na2":"SANTA ROSA GUACHIPILÍN"}
+,{"codigo":"021101","nam":"El Despoblado","na2":"SANTA ROSA GUACHIPILÍN"}
+,{"codigo":"021102","nam":"El Matazano","na2":"SANTA ROSA GUACHIPILÍN"}
+,{"codigo":"021104","nam":"Las Piedras","na2":"SANTA ROSA GUACHIPILÍN"}
+,{"codigo":"021105","nam":"Llano De Las Majadas","na2":"SANTA ROSA GUACHIPILÍN"}
+,{"codigo":"021106","nam":"Palo Galán","na2":"SANTA ROSA GUACHIPILÍN"}
+,{"codigo":"021107","nam":"San Francisco Apanta","na2":"SANTA ROSA GUACHIPILÍN"}
+,{"codigo":"021108","nam":"San José Capulín","na2":"SANTA ROSA GUACHIPILÍN"}
+,{"codigo":"021109","nam":"Santa Rita Cimarrón","na2":"SANTA ROSA GUACHIPILÍN"}
+,{"codigo":"021110","nam":"Sunapa","na2":"SANTA ROSA GUACHIPILÍN"}
+,{"codigo":"0212","nam":"Santiago De La Frontera","na2":"SANTIAGO DE LA FRONTERA"}
+,{"codigo":"021200","nam":"Area Urbana","na2":"SANTIAGO DE LA FRONTERA"}
+,{"codigo":"021201","nam":"Barranquilla","na2":"SANTIAGO DE LA FRONTERA"}
+,{"codigo":"021202","nam":"Chilamates","na2":"SANTIAGO DE LA FRONTERA"}
+,{"codigo":"021203","nam":"El Flor","na2":"SANTIAGO DE LA FRONTERA"}
+,{"codigo":"021204","nam":"Guacamayas","na2":"SANTIAGO DE LA FRONTERA"}
+,{"codigo":"021205","nam":"La Danta","na2":"SANTIAGO DE LA FRONTERA"}
+,{"codigo":"021206","nam":"Las Piletas","na2":"SANTIAGO DE LA FRONTERA"}
+,{"codigo":"021207","nam":"Piedras Azules","na2":"SANTIAGO DE LA FRONTERA"}
+,{"codigo":"021208","nam":"San Cayetano","na2":"SANTIAGO DE LA FRONTERA"}
+,{"codigo":"021209","nam":"San Vicente","na2":"SANTIAGO DE LA FRONTERA"}
+,{"codigo":"021210","nam":"Santa Cruz","na2":"SANTIAGO DE LA FRONTERA"}
+,{"codigo":"0213","nam":"Texistepeque","na2":"TEXISTEPEQUE"}
+,{"codigo":"021300","nam":"Area Urbana","na2":"TEXISTEPEQUE"}
+,{"codigo":"021301","nam":"Chilcuyo","na2":"TEXISTEPEQUE"}
+,{"codigo":"021302","nam":"Costa Rica","na2":"TEXISTEPEQUE"}
+,{"codigo":"021303","nam":"Cujucuyo","na2":"TEXISTEPEQUE"}
+,{"codigo":"021304","nam":"El Jute","na2":"TEXISTEPEQUE"}
+,{"codigo":"021305","nam":"Pinalón","na2":"TEXISTEPEQUE"}
+,{"codigo":"021306","nam":"San Antonio Masahuat","na2":"TEXISTEPEQUE"}
+,{"codigo":"021307","nam":"San Jerónimo","na2":"TEXISTEPEQUE"}
+,{"codigo":"021308","nam":"San Miguel","na2":"TEXISTEPEQUE"}
+,{"codigo":"021309","nam":"Santo Tomás","na2":"TEXISTEPEQUE"}
+,{"codigo":"03","nam":"Sonsonate","na2":"SONSONATE"}
+,{"codigo":"0301","nam":"Acajutla","na2":"ACAJUTLA"}
+,{"codigo":"030100","nam":"Area Urbana","na2":"ACAJUTLA"}
+,{"codigo":"030101","nam":"El Coyol","na2":"ACAJUTLA"}
+,{"codigo":"030102","nam":"El Salamo","na2":"ACAJUTLA"}
+,{"codigo":"030103","nam":"El Suncita","na2":"ACAJUTLA"}
+,{"codigo":"030104","nam":"Metalio","na2":"ACAJUTLA"}
+,{"codigo":"030105","nam":"Morro Grande","na2":"ACAJUTLA"}
+,{"codigo":"030106","nam":"Punta Remedios","na2":"ACAJUTLA"}
+,{"codigo":"030107","nam":"San Julian","na2":"ACAJUTLA"}
+,{"codigo":"030108","nam":"Valle Nuevo","na2":"ACAJUTLA"}
+,{"codigo":"0302","nam":"Armenia","na2":"ARMENIA"}
+,{"codigo":"030200","nam":"Area Urbana","na2":"ARMENIA"}
+,{"codigo":"030201","nam":"Azacualpa","na2":"ARMENIA"}
+,{"codigo":"030202","nam":"El Cerro","na2":"ARMENIA"}
+,{"codigo":"030203","nam":"El Guayabo","na2":"ARMENIA"}
+,{"codigo":"030204","nam":"El Rosario","na2":"ARMENIA"}
+,{"codigo":"030205","nam":"La Puerta","na2":"ARMENIA"}
+,{"codigo":"030206","nam":"Las Crucitas","na2":"ARMENIA"}
+,{"codigo":"030207","nam":"Los Mangos","na2":"ARMENIA"}
+,{"codigo":"030208","nam":"Tres Ceibas","na2":"ARMENIA"}
+,{"codigo":"030209","nam":"Valle Nuevo","na2":"ARMENIA"}
+,{"codigo":"0303","nam":"Caluco","na2":"CALUCO"}
+,{"codigo":"030300","nam":"Area Urbana","na2":"CALUCO"}
+,{"codigo":"030301","nam":"Agua Caliente","na2":"CALUCO"}
+,{"codigo":"030302","nam":"Cerro Alto","na2":"CALUCO"}
+,{"codigo":"030303","nam":"El Castaño","na2":"CALUCO"}
+,{"codigo":"030304","nam":"El Zapote","na2":"CALUCO"}
+,{"codigo":"030305","nam":"Las Flores","na2":"CALUCO"}
+,{"codigo":"030306","nam":"Los Gramales","na2":"CALUCO"}
+,{"codigo":"030307","nam":"Plan De Amayo","na2":"CALUCO"}
+,{"codigo":"030308","nam":"Suquiat","na2":"CALUCO"}
+,{"codigo":"0304","nam":"Cuisnahuat","na2":"CUISNAHUAT"}
+,{"codigo":"030400","nam":"Area Urbana","na2":"CUISNAHUAT"}
+,{"codigo":"030401","nam":"Agua Shuca","na2":"CUISNAHUAT"}
+,{"codigo":"030402","nam":"Apancoyo","na2":"CUISNAHUAT"}
+,{"codigo":"030403","nam":"Chiquihuat","na2":"CUISNAHUAT"}
+,{"codigo":"030404","nam":"Coquiama","na2":"CUISNAHUAT"}
+,{"codigo":"030405","nam":"Los Dos Rios","na2":"CUISNAHUAT"}
+,{"codigo":"030406","nam":"El Achiotal","na2":"CUISNAHUAT"}
+,{"codigo":"030407","nam":"El Balsamar","na2":"CUISNAHUAT"}
+,{"codigo":"030408","nam":"Salinas De Ayacachapa","na2":"CUISNAHUAT"}
+,{"codigo":"030409","nam":"San Lucas","na2":"CUISNAHUAT"}
+,{"codigo":"0305","nam":"Santa Isabel Ishuatán","na2":"SANTA ISABEL ISHUATÁN"}
+,{"codigo":"030500","nam":"Area Urbana","na2":"SANTA ISABEL ISHUATÁN"}
+,{"codigo":"030501","nam":"Acachapa","na2":"SANTA ISABEL ISHUATÁN"}
+,{"codigo":"030502","nam":"Apancoyo","na2":"SANTA ISABEL ISHUATÁN"}
+,{"codigo":"030503","nam":"Atiluya","na2":"SANTA ISABEL ISHUATÁN"}
+,{"codigo":"030504","nam":"El Corozal","na2":"SANTA ISABEL ISHUATÁN"}
+,{"codigo":"030505","nam":"El Paraiso","na2":"SANTA ISABEL ISHUATÁN"}
+,{"codigo":"030506","nam":"Las Piedras","na2":"SANTA ISABEL ISHUATÁN"}
+,{"codigo":"030507","nam":"Miramar","na2":"SANTA ISABEL ISHUATÁN"}
+,{"codigo":"030508","nam":"Paso De Canoas","na2":"SANTA ISABEL ISHUATÁN"}
+,{"codigo":"030509","nam":"Salinas De Ayacachapa","na2":"SANTA ISABEL ISHUATÁN"}
+,{"codigo":"0306","nam":"Izalco","na2":"IZALCO"}
+,{"codigo":"030600","nam":"Area Urbana","na2":"IZALCO"}
+,{"codigo":"030601","nam":"Cangrejera","na2":"IZALCO"}
+,{"codigo":"030602","nam":"Ceiba Del Charco","na2":"IZALCO"}
+,{"codigo":"030603","nam":"Chorro Abajo","na2":"IZALCO"}
+,{"codigo":"030604","nam":"Chorro Arriba","na2":"IZALCO"}
+,{"codigo":"030605","nam":"Cruz Grande","na2":"IZALCO"}
+,{"codigo":"030606","nam":"Cuntan","na2":"IZALCO"}
+,{"codigo":"030607","nam":"Cuyagualo","na2":"IZALCO"}
+,{"codigo":"030608","nam":"El Sunza","na2":"IZALCO"}
+,{"codigo":"030609","nam":"Huiscoyolate","na2":"IZALCO"}
+,{"codigo":"030610","nam":"Joya De Ceren","na2":"IZALCO"}
+,{"codigo":"030611","nam":"La Chapina","na2":"IZALCO"}
+,{"codigo":"030612","nam":"Las Higueras","na2":"IZALCO"}
+,{"codigo":"030613","nam":"Las Lajas","na2":"IZALCO"}
+,{"codigo":"030614","nam":"Las Marías","na2":"IZALCO"}
+,{"codigo":"030615","nam":"Piedras Pachas","na2":"IZALCO"}
+,{"codigo":"030616","nam":"Quebrada Española","na2":"IZALCO"}
+,{"codigo":"030617","nam":"San Isidro","na2":"IZALCO"}
+,{"codigo":"030618","nam":"Shon Shon","na2":"IZALCO"}
+,{"codigo":"030619","nam":"Talcomunca","na2":"IZALCO"}
+,{"codigo":"030620","nam":"Tapalshucut","na2":"IZALCO"}
+,{"codigo":"030621","nam":"Tecuma","na2":"IZALCO"}
+,{"codigo":"030622","nam":"Teshcal","na2":"IZALCO"}
+,{"codigo":"030623","nam":"Tres Ceibas","na2":"IZALCO"}
+,{"codigo":"030624","nam":"Tunalmiles","na2":"IZALCO"}
+,{"codigo":"0307","nam":"Juayua","na2":"JUAYUA"}
+,{"codigo":"030700","nam":"Area Urbana","na2":"JUAYÚA"}
+,{"codigo":"030701","nam":"Buenos Aires","na2":"JUAYÚA"}
+,{"codigo":"030702","nam":"La Puente","na2":"JUAYÚA"}
+,{"codigo":"030703","nam":"La Unión","na2":"JUAYÚA"}
+,{"codigo":"030704","nam":"Los Apantes","na2":"JUAYÚA"}
+,{"codigo":"030705","nam":"Los Cañales","na2":"JUAYÚA"}
+,{"codigo":"030706","nam":"Los Naranjos","na2":"JUAYÚA"}
+,{"codigo":"030707","nam":"Ojo De Agua","na2":"JUAYÚA"}
+,{"codigo":"030708","nam":"San José La Majada","na2":"JUAYÚA"}
+,{"codigo":"030709","nam":"San Juan De Dios","na2":"JUAYÚA"}
+,{"codigo":"030710","nam":"Valle Nuevo","na2":"JUAYÚA"}
+,{"codigo":"0308","nam":"Nahuizalco","na2":"NAHUIZALCO"}
+,{"codigo":"030800","nam":"Area Urbana","na2":"NAHUIZALCO"}
+,{"codigo":"030801","nam":"Anal Abajo","na2":"NAHUIZALCO"}
+,{"codigo":"030802","nam":"Anal Arriba","na2":"NAHUIZALCO"}
+,{"codigo":"030803","nam":"Cusamaluco","na2":"NAHUIZALCO"}
+,{"codigo":"030804","nam":"El Canelo","na2":"NAHUIZALCO"}
+,{"codigo":"030805","nam":"El Carrizal","na2":"NAHUIZALCO"}
+,{"codigo":"030806","nam":"El Cerrito","na2":"NAHUIZALCO"}
+,{"codigo":"030807","nam":"El Chaparrón","na2":"NAHUIZALCO"}
+,{"codigo":"030808","nam":"La Guacamaya","na2":"NAHUIZALCO"}
+,{"codigo":"030809","nam":"Los Arenales","na2":"NAHUIZALCO"}
+,{"codigo":"030810","nam":"Pushtán","na2":"NAHUIZALCO"}
+,{"codigo":"030811","nam":"Sabana Grande","na2":"NAHUIZALCO"}
+,{"codigo":"030812","nam":"Sabana San Juan Abajo","na2":"NAHUIZALCO"}
+,{"codigo":"030813","nam":"Sabana San Juan Arriba","na2":"NAHUIZALCO"}
+,{"codigo":"030814","nam":"Sisimitepec","na2":"NAHUIZALCO"}
+,{"codigo":"030815","nam":"Tajcuilujlan","na2":"NAHUIZALCO"}
+,{"codigo":"030816","nam":"Loma Del Muerto","na2":"NAHUIZALCO"}
+,{"codigo":"030817","nam":"Los Apantes","na2":"NAHUIZALCO"}
+,{"codigo":"0309","nam":"Nahulingo","na2":"NAHULINGO"}
+,{"codigo":"030900","nam":"Area Urbana","na2":"NAHULINGO"}
+,{"codigo":"030901","nam":"Aleman","na2":"NAHULINGO"}
+,{"codigo":"030902","nam":"Conacaste Herrado","na2":"NAHULINGO"}
+,{"codigo":"030903","nam":"El Guayabo","na2":"NAHULINGO"}
+,{"codigo":"030904","nam":"Piedra De Moler","na2":"NAHULINGO"}
+,{"codigo":"0310","nam":"Salcoatitán","na2":"SALCOATITÁN"}
+,{"codigo":"031000","nam":"Area Urbana","na2":"SALCOATITÁN"}
+,{"codigo":"031001","nam":"El Puente","na2":"SALCOATITÁN"}
+,{"codigo":"031002","nam":"Los Anizales","na2":"SALCOATITÁN"}
+,{"codigo":"0311","nam":"San Antonio Del Monte","na2":"SAN ANTONIO DEL MONTE"}
+,{"codigo":"031100","nam":"Area Urbana","na2":"SAN ANTONIO DEL MOSCO"}
+,{"codigo":"031101","nam":"Agua Santa","na2":"SAN ANTONIO DEL MOSCO"}
+,{"codigo":"031102","nam":"Cuyuapa Abajo","na2":"SAN ANTONIO DEL MOSCO"}
+,{"codigo":"031103","nam":"Cuyuapa Arriba","na2":"SAN ANTONIO DEL MOSCO"}
+,{"codigo":"031104","nam":"El Castaño","na2":"SAN ANTONIO DEL MOSCO"}
+,{"codigo":"031105","nam":"Las Hojas","na2":"SAN ANTONIO DEL MOSCO"}
+,{"codigo":"031106","nam":"San Ramón","na2":"SAN ANTONIO DEL MOSCO"}
+,{"codigo":"0312","nam":"San Julián","na2":"SAN JULIÁN"}
+,{"codigo":"031200","nam":"Area Urbana","na2":"SAN JULIÁN"}
+,{"codigo":"031201","nam":"Agua Shuca","na2":"SAN JULIÁN"}
+,{"codigo":"031202","nam":"Chilata","na2":"SAN JULIÁN"}
+,{"codigo":"031203","nam":"El Achiotal","na2":"SAN JULIÁN"}
+,{"codigo":"031204","nam":"El Bebedero","na2":"SAN JULIÁN"}
+,{"codigo":"031205","nam":"Los Lagartos","na2":"SAN JULIÁN"}
+,{"codigo":"031206","nam":"Palo Verde","na2":"SAN JULIÁN"}
+,{"codigo":"031207","nam":"Peña Blanca","na2":"SAN JULIÁN"}
+,{"codigo":"031208","nam":"Petacas","na2":"SAN JULIÁN"}
+,{"codigo":"031209","nam":"San Julian","na2":"SAN JULIÁN"}
+,{"codigo":"031210","nam":"Tierra Colorada","na2":"SAN JULIÁN"}
+,{"codigo":"0313","nam":"Santa Catarina Masahuat","na2":"SANTA CATARINA MASAHUAT"}
+,{"codigo":"031300","nam":"Area Urbana","na2":"SANTA CATARINA MASAHUAT"}
+,{"codigo":"031301","nam":"Cuyuapa","na2":"SANTA CATARINA MASAHUAT"}
+,{"codigo":"031302","nam":"El Matazano","na2":"SANTA CATARINA MASAHUAT"}
+,{"codigo":"031303","nam":"Las Peñas","na2":"SANTA CATARINA MASAHUAT"}
+,{"codigo":"031304","nam":"San Rafael","na2":"SANTA CATARINA MASAHUAT"}
+,{"codigo":"031305","nam":"Cuyuapa Arriba","na2":"SANTA CATARINA MASAHUAT"}
+,{"codigo":"0314","nam":"Santo Domingo De Guzmán","na2":"SANTO DOMINGO DE GUZMÁN"}
+,{"codigo":"031400","nam":"Area Urbana","na2":"SANTO DOMINGO DE GUZMÁN"}
+,{"codigo":"031401","nam":"El Carrizal","na2":"SANTO DOMINGO DE GUZMÁN"}
+,{"codigo":"031402","nam":"El Caulote","na2":"SANTO DOMINGO DE GUZMÁN"}
+,{"codigo":"031403","nam":"El Zarzal","na2":"SANTO DOMINGO DE GUZMÁN"}
+,{"codigo":"031404","nam":"El Zope","na2":"SANTO DOMINGO DE GUZMÁN"}
+,{"codigo":"0315","nam":"Sonsonate","na2":"SONSONATE"}
+,{"codigo":"031500","nam":"Area Urbana","na2":"SONSONATE"}
+,{"codigo":"031501","nam":"Chiquihuat","na2":"SONSONATE"}
+,{"codigo":"031502","nam":"El Cacao","na2":"SONSONATE"}
+,{"codigo":"031503","nam":"El Edén","na2":"SONSONATE"}
+,{"codigo":"031504","nam":"El Presidio","na2":"SONSONATE"}
+,{"codigo":"031505","nam":"La Ensenada","na2":"SONSONATE"}
+,{"codigo":"031506","nam":"Las Delicias","na2":"SONSONATE"}
+,{"codigo":"031507","nam":"Las Tablas","na2":"SONSONATE"}
+,{"codigo":"031508","nam":"Loma Del Muerto","na2":"SONSONATE"}
+,{"codigo":"031509","nam":"Miravalle","na2":"SONSONATE"}
+,{"codigo":"031510","nam":"Salinas De Ayacachapa","na2":"SONSONATE"}
+,{"codigo":"031511","nam":"San Julián","na2":"SONSONATE"}
+,{"codigo":"031512","nam":"Santa Emilia","na2":"SONSONATE"}
+,{"codigo":"031513","nam":"Tonalá","na2":"SONSONATE"}
+,{"codigo":"0316","nam":"Sonzacate","na2":"SONZACATE"}
+,{"codigo":"031600","nam":"Area Urbana","na2":"SONZACATE"}
+,{"codigo":"031601","nam":"El Almendro","na2":"SONZACATE"}
+,{"codigo":"04","nam":"Chalatenango","na2":"CHALATENANGO"}
+,{"codigo":"0401","nam":"Agua Caliente","na2":"AGUA CALIENTE"}
+,{"codigo":"040100","nam":"Area Urbana","na2":"AGUA CALIENTE"}
+,{"codigo":"040101","nam":"Agua Fría","na2":"AGUA CALIENTE"}
+,{"codigo":"040102","nam":"Agua Zarca","na2":"AGUA CALIENTE"}
+,{"codigo":"040103","nam":"Cerro Grande","na2":"AGUA CALIENTE"}
+,{"codigo":"040104","nam":"Encumbrado","na2":"AGUA CALIENTE"}
+,{"codigo":"040105","nam":"Obrajuelo","na2":"AGUA CALIENTE"}
+,{"codigo":"040106","nam":"Ojos De Agua","na2":"AGUA CALIENTE"}
+,{"codigo":"040107","nam":"Santa Rosa","na2":"AGUA CALIENTE"}
+,{"codigo":"0402","nam":"Arcatao","na2":"ARCATAO"}
+,{"codigo":"040200","nam":"Area Urbana","na2":"ARCATAO"}
+,{"codigo":"040201","nam":"Cerro Grande","na2":"ARCATAO"}
+,{"codigo":"040203","nam":"Las Vegas","na2":"ARCATAO"}
+,{"codigo":"040204","nam":"Los Filos","na2":"ARCATAO"}
+,{"codigo":"040205","nam":"Los Sitios","na2":"ARCATAO"}
+,{"codigo":"040206","nam":"Teosinte","na2":"ARCATAO"}
+,{"codigo":"0403","nam":"Azacualpa","na2":"AZACUALPA"}
+,{"codigo":"040300","nam":"Area Urbana","na2":"AZACUALPA"}
+,{"codigo":"040301","nam":"Cuesta Marina","na2":"AZACUALPA"}
+,{"codigo":"040302","nam":"El Llano","na2":"AZACUALPA"}
+,{"codigo":"0404","nam":"Citalá","na2":"CITALÁ"}
+,{"codigo":"040400","nam":"Area Urbana","na2":"CITALÁ"}
+,{"codigo":"040401","nam":"Gualcho","na2":"CITALÁ"}
+,{"codigo":"040402","nam":"Lagunetas","na2":"CITALÁ"}
+,{"codigo":"040403","nam":"Los Planes","na2":"CITALÁ"}
+,{"codigo":"040404","nam":"Llano De La Virgen","na2":"CITALÁ"}
+,{"codigo":"040405","nam":"San Francisco","na2":"CITALÁ"}
+,{"codigo":"040406","nam":"San Lorenzo","na2":"CITALÁ"}
+,{"codigo":"040407","nam":"San Ramón","na2":"CITALÁ"}
+,{"codigo":"040408","nam":"Talquezalar","na2":"CITALÁ"}
+,{"codigo":"040409","nam":"El Rosario","na2":"CITALÁ"}
+,{"codigo":"0405","nam":"Comalapa","na2":"COMALAPA"}
+,{"codigo":"040500","nam":"Area Urbana","na2":"COMALAPA"}
+,{"codigo":"040501","nam":"Candelaria","na2":"COMALAPA"}
+,{"codigo":"040502","nam":"El Morro","na2":"COMALAPA"}
+,{"codigo":"040503","nam":"Guachipilín","na2":"COMALAPA"}
+,{"codigo":"040504","nam":"La Junta","na2":"COMALAPA"}
+,{"codigo":"040505","nam":"Los Achotes","na2":"COMALAPA"}
+,{"codigo":"0406","nam":"Concepción Quezaltepeque","na2":"CONCEPCIÓN QUEZALTEPEQUE"}
+,{"codigo":"040600","nam":"Area Urbana","na2":"CONCEPCION QUEZALTEPEQUE"}
+,{"codigo":"040601","nam":"El Conacaste","na2":"CONCEPCION QUEZALTEPEQUE"}
+,{"codigo":"040602","nam":"El Rosario","na2":"CONCEPCION QUEZALTEPEQUE"}
+,{"codigo":"040603","nam":"Llano Grande","na2":"CONCEPCION QUEZALTEPEQUE"}
+,{"codigo":"040604","nam":"Monte Redondo","na2":"CONCEPCION QUEZALTEPEQUE"}
+,{"codigo":"040605","nam":"Olosingo","na2":"CONCEPCION QUEZALTEPEQUE"}
+,{"codigo":"0407","nam":"Chalatenango","na2":"CHALATENANGO"}
+,{"codigo":"040700","nam":"Area Urbana","na2":"CHALATENANGO"}
+,{"codigo":"040701","nam":"Chiapas","na2":"CHALATENANGO"}
+,{"codigo":"040702","nam":"Guarjila","na2":"CHALATENANGO"}
+,{"codigo":"040703","nam":"Las Minas","na2":"CHALATENANGO"}
+,{"codigo":"040704","nam":"San Bartolo","na2":"CHALATENANGO"}
+,{"codigo":"040705","nam":"San José","na2":"CHALATENANGO"}
+,{"codigo":"040706","nam":"Upatoro","na2":"CHALATENANGO"}
+,{"codigo":"0408","nam":"Dulce Nombre De María","na2":"DULCE NOMBRE DE MARÍA"}
+,{"codigo":"040800","nam":"Area Urbana","na2":"DULCE NOMBRE DE MARÍA"}
+,{"codigo":"040801","nam":"Cuevitas","na2":"DULCE NOMBRE DE MARÍA"}
+,{"codigo":"040802","nam":"Chorro Blanco","na2":"DULCE NOMBRE DE MARÍA"}
+,{"codigo":"040803","nam":"El Común","na2":"DULCE NOMBRE DE MARÍA"}
+,{"codigo":"040804","nam":"El Ocotal","na2":"DULCE NOMBRE DE MARÍA"}
+,{"codigo":"040805","nam":"El Rosario","na2":"DULCE NOMBRE DE MARÍA"}
+,{"codigo":"040806","nam":"Los Achiotes","na2":"DULCE NOMBRE DE MARÍA"}
+,{"codigo":"040807","nam":"Los Encuentros","na2":"DULCE NOMBRE DE MARÍA"}
+,{"codigo":"040808","nam":"Los Gutiérrez","na2":"DULCE NOMBRE DE MARÍA"}
+,{"codigo":"040809","nam":"Los Sitios","na2":"DULCE NOMBRE DE MARÍA"}
+,{"codigo":"0409","nam":"El Carrizal","na2":"EL CARRIZAL"}
+,{"codigo":"040900","nam":"Area Urbana","na2":"EL CARRIZAL"}
+,{"codigo":"040901","nam":"La Trinidad","na2":"EL CARRIZAL"}
+,{"codigo":"040902","nam":"Petapa","na2":"EL CARRIZAL"}
+,{"codigo":"040903","nam":"Potrerillos","na2":"EL CARRIZAL"}
+,{"codigo":"040904","nam":"Vainillas","na2":"EL CARRIZAL"}
+,{"codigo":"040905","nam":"La Cuchilla","na2":"EL CARRIZAL"}
+,{"codigo":"0410","nam":"El Paraiso","na2":"EL PARAISO"}
+,{"codigo":"041000","nam":"Area Urbana","na2":"EL PARAISO"}
+,{"codigo":"041001","nam":"El Tablón","na2":"EL PARAISO"}
+,{"codigo":"041002","nam":"Santa Bárbara","na2":"EL PARAISO"}
+,{"codigo":"041003","nam":"Valle Nuevo","na2":"EL PARAISO"}
+,{"codigo":"0411","nam":"La Laguna","na2":"LA LAGUNA"}
+,{"codigo":"041100","nam":"Area Urbana","na2":"LA LAGUNA"}
+,{"codigo":"041101","nam":"La Cuchilla","na2":"LA LAGUNA"}
+,{"codigo":"041102","nam":"Las Pacayas","na2":"LA LAGUNA"}
+,{"codigo":"041103","nam":"Los Prados","na2":"LA LAGUNA"}
+,{"codigo":"041104","nam":"Plan Verde","na2":"LA LAGUNA"}
+,{"codigo":"041105","nam":"San José","na2":"LA LAGUNA"}
+,{"codigo":"0412","nam":"La Palma","na2":"LA PALMA"}
+,{"codigo":"041200","nam":"Area Urbana","na2":"LA PALMA"}
+,{"codigo":"041201","nam":"El Aguacatal","na2":"LA PALMA"}
+,{"codigo":"041202","nam":"El Gramal","na2":"LA PALMA"}
+,{"codigo":"041203","nam":"El Túnel","na2":"LA PALMA"}
+,{"codigo":"041204","nam":"Las Granadillas","na2":"LA PALMA"}
+,{"codigo":"041205","nam":"Los Horcones","na2":"LA PALMA"}
+,{"codigo":"041206","nam":"Los Planes","na2":"LA PALMA"}
+,{"codigo":"041207","nam":"San José Calera","na2":"LA PALMA"}
+,{"codigo":"041208","nam":"San José Sacare","na2":"LA PALMA"}
+,{"codigo":"0413","nam":"La Reina","na2":"LA REINA"}
+,{"codigo":"041300","nam":"Area Urbana","na2":"LA REINA"}
+,{"codigo":"041301","nam":"El Pepeto","na2":"LA REINA"}
+,{"codigo":"041302","nam":"El Tigre","na2":"LA REINA"}
+,{"codigo":"041303","nam":"Las Cañas","na2":"LA REINA"}
+,{"codigo":"041305","nam":"Los Tecomates","na2":"LA REINA"}
+,{"codigo":"041306","nam":"Talchaluya","na2":"LA REINA"}
+,{"codigo":"041307","nam":"Tilapa","na2":"LA REINA"}
+,{"codigo":"0414","nam":"Las Vueltas","na2":"LAS VUELTAS"}
+,{"codigo":"041400","nam":"Area Urbana","na2":"LAS VUELTAS"}
+,{"codigo":"041401","nam":"Conacaste","na2":"LAS VUELTAS"}
+,{"codigo":"041402","nam":"La Ceiba","na2":"LAS VUELTAS"}
+,{"codigo":"041403","nam":"La Laguna","na2":"LAS VUELTAS"}
+,{"codigo":"041404","nam":"Los Naranjos","na2":"LAS VUELTAS"}
+,{"codigo":"041405","nam":"San José","na2":"LAS VUELTAS"}
+,{"codigo":"041406","nam":"Sicahuite","na2":"LAS VUELTAS"}
+,{"codigo":"0415","nam":"Nombre De Jesús","na2":"NOMBRE DE JESÚS"}
+,{"codigo":"041500","nam":"Area Urbana","na2":"NOMBRE DE JESÚS"}
+,{"codigo":"041501","nam":"Los Escalante","na2":"NOMBRE DE JESÚS"}
+,{"codigo":"041502","nam":"Los Henríquez","na2":"NOMBRE DE JESÚS"}
+,{"codigo":"041503","nam":"Patamera","na2":"NOMBRE DE JESÚS"}
+,{"codigo":"041504","nam":"Plazuelas","na2":"NOMBRE DE JESÚS"}
+,{"codigo":"041505","nam":"Potrerillos","na2":"NOMBRE DE JESÚS"}
+,{"codigo":"041506","nam":"Quipure","na2":"NOMBRE DE JESÚS"}
+,{"codigo":"0416","nam":"Nueva Concepción","na2":"NUEVA CONCEPCIÓN"}
+,{"codigo":"041600","nam":"Area Urbana","na2":"NUEVA CONCEPCIÓN"}
+,{"codigo":"041601","nam":"El Gavilán","na2":"NUEVA CONCEPCIÓN"}
+,{"codigo":"041602","nam":"El Zapote","na2":"NUEVA CONCEPCIÓN"}
+,{"codigo":"041603","nam":"Laguna Seca","na2":"NUEVA CONCEPCIÓN"}
+,{"codigo":"041604","nam":"Las Tablas","na2":"NUEVA CONCEPCIÓN"}
+,{"codigo":"041605","nam":"Chilamates","na2":"NUEVA CONCEPCIÓN"}
+,{"codigo":"041606","nam":"Potenciana","na2":"NUEVA CONCEPCIÓN"}
+,{"codigo":"041607","nam":"Potrero Sula","na2":"NUEVA CONCEPCIÓN"}
+,{"codigo":"041608","nam":"Santa Rita Cimarrón","na2":"NUEVA CONCEPCIÓN"}
+,{"codigo":"041609","nam":"Santa Rosa","na2":"NUEVA CONCEPCIÓN"}
+,{"codigo":"041610","nam":"Sunapa","na2":"NUEVA CONCEPCIÓN"}
+,{"codigo":"0417","nam":"Nueva Trinidad","na2":"NUEVA TRINIDAD"}
+,{"codigo":"041700","nam":"Area Urbana","na2":"NUEVA TRINIDAD"}
+,{"codigo":"041701","nam":"Carasque","na2":"NUEVA TRINIDAD"}
+,{"codigo":"041702","nam":"El Sitio","na2":"NUEVA TRINIDAD"}
+,{"codigo":"041703","nam":"El Zacamil","na2":"NUEVA TRINIDAD"}
+,{"codigo":"041704","nam":"Las Vegas","na2":"NUEVA TRINIDAD"}
+,{"codigo":"041705","nam":"Huizucar","na2":"NUEVA TRINIDAD"}
+,{"codigo":"041706","nam":"Jaguatalla","na2":"NUEVA TRINIDAD"}
+,{"codigo":"0418","nam":"Ojos De Agua","na2":"OJOS DE AGUA"}
+,{"codigo":"041800","nam":"Area Urbana","na2":"OJOS DE AGUA"}
+,{"codigo":"041801","nam":"Coyolar","na2":"OJOS DE AGUA"}
+,{"codigo":"041802","nam":"El Portillo","na2":"OJOS DE AGUA"}
+,{"codigo":"041803","nam":"El Sitio","na2":"OJOS DE AGUA"}
+,{"codigo":"041804","nam":"El Tablón","na2":"OJOS DE AGUA"}
+,{"codigo":"041805","nam":"El Zapotal","na2":"OJOS DE AGUA"}
+,{"codigo":"041806","nam":"La Montañita","na2":"OJOS DE AGUA"}
+,{"codigo":"041807","nam":"Yurique","na2":"OJOS DE AGUA"}
+,{"codigo":"0419","nam":"Potonico","na2":"POTONICO"}
+,{"codigo":"041900","nam":"Area Urbana","na2":"POTONICO"}
+,{"codigo":"041901","nam":"Corral Falso","na2":"POTONICO"}
+,{"codigo":"041902","nam":"La Montaña","na2":"POTONICO"}
+,{"codigo":"041903","nam":"Monte Redondo","na2":"POTONICO"}
+,{"codigo":"041904","nam":"Plan De Las Pozas","na2":"POTONICO"}
+,{"codigo":"041905","nam":"Santa Teresa","na2":"POTONICO"}
+,{"codigo":"0420","nam":"San Antonio De La Cruz","na2":"SAN ANTONIO DE LA CRUZ"}
+,{"codigo":"042000","nam":"Area Urbana","na2":"SAN ANTONIO DE LA CRUZ"}
+,{"codigo":"042001","nam":"Copalío","na2":"SAN ANTONIO DE LA CRUZ"}
+,{"codigo":"042002","nam":"El Zapote","na2":"SAN ANTONIO DE LA CRUZ"}
+,{"codigo":"042003","nam":"San Benito","na2":"SAN ANTONIO DE LA CRUZ"}
+,{"codigo":"042004","nam":"Santa Ana","na2":"SAN ANTONIO DE LA CRUZ"}
+,{"codigo":"0421","nam":"San Antonio Los Ranchos","na2":"SAN ANTONIO LOS RANCHOS"}
+,{"codigo":"042100","nam":"Area Urbana","na2":"SAN ANTONIO LOS RANCHOS"}
+,{"codigo":"042101","nam":"El Gramal","na2":"SAN ANTONIO LOS RANCHOS"}
+,{"codigo":"0422","nam":"San Fernando","na2":"SAN FERNANDO"}
+,{"codigo":"042200","nam":"Area Urbana","na2":"SAN FERNANDO"}
+,{"codigo":"042201","nam":"Los Llanitos","na2":"SAN FERNANDO"}
+,{"codigo":"042202","nam":"Jocotán","na2":"SAN FERNANDO"}
+,{"codigo":"042203","nam":"Nuevo San Fernando Roblar","na2":"SAN FERNANDO"}
+,{"codigo":"042204","nam":"San Juan De La Cruz","na2":"SAN FERNANDO"}
+,{"codigo":"042205","nam":"Valle De Jesús","na2":"SAN FERNANDO"}
+,{"codigo":"0423","nam":"San Francisco Lempa","na2":"SAN FRANCISCO LEMPA"}
+,{"codigo":"042300","nam":"Area Urbana","na2":"SAN FRANCISCO LEMPA"}
+,{"codigo":"042301","nam":"Los Menjivar","na2":"SAN FRANCISCO LEMPA"}
+,{"codigo":"042302","nam":"Los Zepeda","na2":"SAN FRANCISCO LEMPA"}
+,{"codigo":"0424","nam":"San Francisco Morazán","na2":"SAN FRANCISCO MORAZÁN"}
+,{"codigo":"042400","nam":"Area Urbana","na2":"SAN FRANCISCO MORAZÁN"}
+,{"codigo":"042401","nam":"Higueral","na2":"SAN FRANCISCO MORAZÁN"}
+,{"codigo":"042402","nam":"Las Cañitas","na2":"SAN FRANCISCO MORAZÁN"}
+,{"codigo":"042403","nam":"Las Parvitas","na2":"SAN FRANCISCO MORAZÁN"}
+,{"codigo":"042404","nam":"Los Naranjos","na2":"SAN FRANCISCO MORAZÁN"}
+,{"codigo":"042405","nam":"Plan Del Horno","na2":"SAN FRANCISCO MORAZÁN"}
+,{"codigo":"042406","nam":"San Miguelito","na2":"SAN FRANCISCO MORAZÁN"}
+,{"codigo":"042407","nam":"Teosinte","na2":"SAN FRANCISCO MORAZÁN"}
+,{"codigo":"042408","nam":"Tremedal","na2":"SAN FRANCISCO MORAZÁN"}
+,{"codigo":"042409","nam":"Sumpul De Avelar","na2":"SAN FRANCISCO MORAZÁN"}
+,{"codigo":"042410","nam":"Sumpul De Chacón","na2":"SAN FRANCISCO MORAZÁN"}
+,{"codigo":"042411","nam":"Río Grande De Alvarado","na2":"SAN FRANCISCO MORAZÁN"}
+,{"codigo":"0425","nam":"San Ignacio","na2":"SAN IGNACIO"}
+,{"codigo":"042500","nam":"Area Urbana","na2":"SAN IGNACIO"}
+,{"codigo":"042501","nam":"El Carmen","na2":"SAN IGNACIO"}
+,{"codigo":"042502","nam":"El Centro","na2":"SAN IGNACIO"}
+,{"codigo":"042503","nam":"El Pinar","na2":"SAN IGNACIO"}
+,{"codigo":"042504","nam":"El Rosario","na2":"SAN IGNACIO"}
+,{"codigo":"042505","nam":"Las Pilas","na2":"SAN IGNACIO"}
+,{"codigo":"042506","nam":"Río Chiquito","na2":"SAN IGNACIO"}
+,{"codigo":"042507","nam":"Santa Rosa","na2":"SAN IGNACIO"}
+,{"codigo":"0426","nam":"San Isidro Labrador","na2":"SAN ISIDRO LABRADOR"}
+,{"codigo":"042600","nam":"Area Urbana","na2":"SAN ISIDRO LABRADOR"}
+,{"codigo":"042601","nam":"Alvarenga","na2":"SAN ISIDRO LABRADOR"}
+,{"codigo":"042602","nam":"El Mojón","na2":"SAN ISIDRO LABRADOR"}
+,{"codigo":"042603","nam":"Los Amates","na2":"SAN ISIDRO LABRADOR"}
+,{"codigo":"042604","nam":"San José De La Montaña","na2":"SAN ISIDRO LABRADOR"}
+,{"codigo":"042605","nam":"El Sicahuital","na2":"SAN ISIDRO LABRADOR"}
+,{"codigo":"0427","nam":"Cancasque","na2":"CANCASQUE"}
+,{"codigo":"042700","nam":"Area Urbana","na2":"SAN JOSÉ CANCASQUE"}
+,{"codigo":"042701","nam":"Candelaria","na2":"SAN JOSÉ CANCASQUE"}
+,{"codigo":"042702","nam":"Concepción","na2":"SAN JOSÉ CANCASQUE"}
+,{"codigo":"042703","nam":"Los Guillen","na2":"SAN JOSÉ CANCASQUE"}
+,{"codigo":"042704","nam":"Portillo Del Norte","na2":"SAN JOSÉ CANCASQUE"}
+,{"codigo":"0428","nam":"Las Flores","na2":"LAS FLORES"}
+,{"codigo":"042800","nam":"Area Urbana","na2":"LAS FLORES"}
+,{"codigo":"042801","nam":"Aldea Vieja","na2":"LAS FLORES"}
+,{"codigo":"042802","nam":"Hacienda","na2":"LAS FLORES"}
+,{"codigo":"042803","nam":"Hacienda Vieja","na2":"LAS FLORES"}
+,{"codigo":"042804","nam":"Lagunita","na2":"LAS FLORES"}
+,{"codigo":"042805","nam":"Las Limas","na2":"LAS FLORES"}
+,{"codigo":"042806","nam":"Llano Verde","na2":"LAS FLORES"}
+,{"codigo":"0429","nam":"San Luis Del Carmen","na2":"SAN LUIS DEL CARMEN"}
+,{"codigo":"042900","nam":"Area Urbana","na2":"SAN LUIS DEL CARMEN"}
+,{"codigo":"042901","nam":"El Pital","na2":"SAN LUIS DEL CARMEN"}
+,{"codigo":"042902","nam":"El Sitio","na2":"SAN LUIS DEL CARMEN"}
+,{"codigo":"042903","nam":"Los Naranjos","na2":"SAN LUIS DEL CARMEN"}
+,{"codigo":"042904","nam":"Santa Cruz","na2":"SAN LUIS DEL CARMEN"}
+,{"codigo":"0430","nam":"San Miguel De Mercedes","na2":"SAN MIGUEL DE MERCEDES"}
+,{"codigo":"043000","nam":"Area Urbana","na2":"SAN MIGUEL DE MERCEDES"}
+,{"codigo":"043001","nam":"Cerro De La Cruz","na2":"SAN MIGUEL DE MERCEDES"}
+,{"codigo":"043002","nam":"El Matazano","na2":"SAN MIGUEL DE MERCEDES"}
+,{"codigo":"043003","nam":"El Salitre","na2":"SAN MIGUEL DE MERCEDES"}
+,{"codigo":"043004","nam":"Los Guardado","na2":"SAN MIGUEL DE MERCEDES"}
+,{"codigo":"043005","nam":"Piedras Gordas","na2":"SAN MIGUEL DE MERCEDES"}
+,{"codigo":"0431","nam":"San Rafael","na2":"SAN RAFAEL"}
+,{"codigo":"043100","nam":"Area Urbana","na2":"SAN RAFAEL"}
+,{"codigo":"043101","nam":"Ojos De Agua","na2":"SAN RAFAEL"}
+,{"codigo":"043102","nam":"Los Desamparados","na2":"SAN RAFAEL"}
+,{"codigo":"043103","nam":"San Antonio Buena Vista","na2":"SAN RAFAEL"}
+,{"codigo":"043104","nam":"San José Los Sitios","na2":"SAN RAFAEL"}
+,{"codigo":"0432","nam":"Santa Rita","na2":"SANTA RITA"}
+,{"codigo":"043200","nam":"Area Urbana","na2":"SANTA RITA"}
+,{"codigo":"043201","nam":"Barillas","na2":"SANTA RITA"}
+,{"codigo":"043202","nam":"El Chilamate","na2":"SANTA RITA"}
+,{"codigo":"043203","nam":"San Miguel Tobías","na2":"SANTA RITA"}
+,{"codigo":"043204","nam":"San Nicolás Piedras Gordas","na2":"SANTA RITA"}
+,{"codigo":"0433","nam":"Tejutla","na2":"TEJUTLA"}
+,{"codigo":"043300","nam":"Area Urbana","na2":"TEJUTLA"}
+,{"codigo":"043301","nam":"Aguaje Escondido","na2":"TEJUTLA"}
+,{"codigo":"043302","nam":"Aldeita","na2":"TEJUTLA"}
+,{"codigo":"043303","nam":"Concepción","na2":"TEJUTLA"}
+,{"codigo":"043304","nam":"El Carrizal","na2":"TEJUTLA"}
+,{"codigo":"043305","nam":"El Cerrón","na2":"TEJUTLA"}
+,{"codigo":"043306","nam":"El Izotal","na2":"TEJUTLA"}
+,{"codigo":"043307","nam":"El Salitre","na2":"TEJUTLA"}
+,{"codigo":"043308","nam":"El Transito","na2":"TEJUTLA"}
+,{"codigo":"043309","nam":"Estanzuelas","na2":"TEJUTLA"}
+,{"codigo":"043310","nam":"Los Aposentos","na2":"TEJUTLA"}
+,{"codigo":"043311","nam":"Los Martínez","na2":"TEJUTLA"}
+,{"codigo":"043312","nam":"Quitasol","na2":"TEJUTLA"}
+,{"codigo":"043313","nam":"Río Grande De Alvarados","na2":"TEJUTLA"}
+,{"codigo":"043314","nam":"Río Grande De Cardoza","na2":"TEJUTLA"}
+,{"codigo":"043315","nam":"San José","na2":"TEJUTLA"}
+,{"codigo":"05","nam":"La Libertad","na2":"LA LIBERTAD"}
+,{"codigo":"0501","nam":"Antiguo Cuscatlán","na2":"ANTIGUO CUSCATLÁN"}
+,{"codigo":"050100","nam":"Area Urbana","na2":"ANTIGUO CUSCATLÁN"}
+,{"codigo":"050101","nam":"El Espino","na2":"ANTIGUO CUSCATLÁN"}
+,{"codigo":"050102","nam":"La Labranza","na2":"ANTIGUO CUSCATLÁN"}
+,{"codigo":"0502","nam":"Ciudad Arce","na2":"CIUDAD ARCE"}
+,{"codigo":"050200","nam":"Area Urbana","na2":"CIUDAD ARCE"}
+,{"codigo":"050201","nam":"El Conacaste","na2":"CIUDAD ARCE"}
+,{"codigo":"050202","nam":"Flor Amarilla","na2":"CIUDAD ARCE"}
+,{"codigo":"050203","nam":"La Esperanza","na2":"CIUDAD ARCE"}
+,{"codigo":"050204","nam":"La Reforma","na2":"CIUDAD ARCE"}
+,{"codigo":"050205","nam":"Las Cruces","na2":"CIUDAD ARCE"}
+,{"codigo":"050206","nam":"Lomas De Andalucía","na2":"CIUDAD ARCE"}
+,{"codigo":"050207","nam":"Los Acostas","na2":"CIUDAD ARCE"}
+,{"codigo":"050208","nam":"San Andrés","na2":"CIUDAD ARCE"}
+,{"codigo":"050209","nam":"San Antonio Abad","na2":"CIUDAD ARCE"}
+,{"codigo":"050210","nam":"Santa Lucía","na2":"CIUDAD ARCE"}
+,{"codigo":"050211","nam":"Santa Rosa","na2":"CIUDAD ARCE"}
+,{"codigo":"050212","nam":"Veracruz","na2":"CIUDAD ARCE"}
+,{"codigo":"050213","nam":"Zapotitán","na2":"CIUDAD ARCE"}
+,{"codigo":"0503","nam":"Colón","na2":"COLÓN"}
+,{"codigo":"050300","nam":"Area Urbana","na2":"COLÓN"}
+,{"codigo":"050301","nam":"Botoncillal","na2":"COLÓN"}
+,{"codigo":"050302","nam":"El Capulín","na2":"COLÓN"}
+,{"codigo":"050303","nam":"El Cobanal","na2":"COLÓN"}
+,{"codigo":"050304","nam":"El Manguito","na2":"COLÓN"}
+,{"codigo":"050305","nam":"Entre Ríos","na2":"COLÓN"}
+,{"codigo":"050306","nam":"Las Angosturas","na2":"COLÓN"}
+,{"codigo":"050307","nam":"Las Brisas","na2":"COLÓN"}
+,{"codigo":"050308","nam":"Las Delicias","na2":"COLÓN"}
+,{"codigo":"050309","nam":"Lourdes","na2":"COLÓN"}
+,{"codigo":"050310","nam":"San José Los Sitios","na2":"COLÓN"}
+,{"codigo":"050311","nam":"Victoria","na2":"COLÓN"}
+,{"codigo":"0504","nam":"Comasagua","na2":"COMASAGUA"}
+,{"codigo":"050400","nam":"Area Urbana","na2":"COMASAGUA"}
+,{"codigo":"050401","nam":"El Conacaste","na2":"COMASAGUA"}
+,{"codigo":"050402","nam":"El Faro","na2":"COMASAGUA"}
+,{"codigo":"050403","nam":"El Majahual","na2":"COMASAGUA"}
+,{"codigo":"050404","nam":"El Matazano","na2":"COMASAGUA"}
+,{"codigo":"050405","nam":"El Peñón","na2":"COMASAGUA"}
+,{"codigo":"050406","nam":"El Rosario","na2":"COMASAGUA"}
+,{"codigo":"050407","nam":"La Shila","na2":"COMASAGUA"}
+,{"codigo":"050408","nam":"Los Amates","na2":"COMASAGUA"}
+,{"codigo":"050409","nam":"San Antonio","na2":"COMASAGUA"}
+,{"codigo":"050410","nam":"Sana Lucia","na2":"COMASAGUA"}
+,{"codigo":"050411","nam":"Tarpeya","na2":"COMASAGUA"}
+,{"codigo":"0505","nam":"Chiltiupán","na2":"CHILTIUPÁN"}
+,{"codigo":"050500","nam":"Area Urbana","na2":"CHILTIUPAN"}
+,{"codigo":"050501","nam":"Cuervo Abajo","na2":"CHILTIUPÁN"}
+,{"codigo":"050502","nam":"Cuervo Arriba","na2":"CHILTIUPÁN"}
+,{"codigo":"050503","nam":"El Zonte","na2":"CHILTIUPÁN"}
+,{"codigo":"050504","nam":"El Regadillo","na2":"CHILTIUPÁN"}
+,{"codigo":"050505","nam":"Juan Higinio O La Cumbre","na2":"CHILTIUPÁN"}
+,{"codigo":"050506","nam":"Julupe","na2":"CHILTIUPÁN"}
+,{"codigo":"050507","nam":"La Perla","na2":"CHILTIUPÁN"}
+,{"codigo":"050508","nam":"Las Flores","na2":"CHILTIUPÁN"}
+,{"codigo":"050509","nam":"Santa Lucia","na2":"CHILTIUPÁN"}
+,{"codigo":"050510","nam":"Santa Marta","na2":"CHILTIUPÁN"}
+,{"codigo":"050511","nam":"Siberia","na2":"CHILTIUPÁN"}
+,{"codigo":"050512","nam":"Sunzacuapa","na2":"CHILTIUPÁN"}
+,{"codigo":"050513","nam":"Taquillo","na2":"CHILTIUPÁN"}
+,{"codigo":"050514","nam":"Termopilas","na2":"CHILTIUPÁN"}
+,{"codigo":"0506","nam":"Huizucar","na2":"HUIZUCAR"}
+,{"codigo":"050600","nam":"Area Urbana","na2":"HUIZUCAR"}
+,{"codigo":"050601","nam":"Amaquilco","na2":"HUIZUCAR"}
+,{"codigo":"050602","nam":"Amulunca","na2":"HUIZUCAR"}
+,{"codigo":"050603","nam":"El Cedro","na2":"HUIZUCAR"}
+,{"codigo":"050604","nam":"La Lima","na2":"HUIZUCAR"}
+,{"codigo":"050605","nam":"Ojos De Agua","na2":"HUIZUCAR"}
+,{"codigo":"050606","nam":"Nazareth","na2":"HUIZUCAR"}
+,{"codigo":"050607","nam":"Tilapa","na2":"HUIZUCAR"}
+,{"codigo":"050608","nam":"San Juan Buenavista","na2":"HUIZUCAR"}
+,{"codigo":"0507","nam":"Jayaque","na2":"JAYAQUE"}
+,{"codigo":"050700","nam":"Area Urbana","na2":"JAYAQUE"}
+,{"codigo":"050701","nam":"Juan Higinio O La Cumbre","na2":"JAYAQUE"}
+,{"codigo":"050702","nam":"La Labor","na2":"JAYAQUE"}
+,{"codigo":"050703","nam":"Las Flores","na2":"JAYAQUE"}
+,{"codigo":"050704","nam":"Las Minas","na2":"JAYAQUE"}
+,{"codigo":"050705","nam":"Los Alpes","na2":"JAYAQUE"}
+,{"codigo":"050706","nam":"San José Los Sitios","na2":"JAYAQUE"}
+,{"codigo":"050707","nam":"Las Tinieblas","na2":"JAYAQUE"}
+,{"codigo":"0508","nam":"Jicalapa","na2":"JICALAPA"}
+,{"codigo":"050800","nam":"Area Urbana","na2":"JICALAPA"}
+,{"codigo":"050801","nam":"Candelaria","na2":"JICALAPA"}
+,{"codigo":"050802","nam":"El Angel","na2":"JICALAPA"}
+,{"codigo":"050803","nam":"El Carrizo","na2":"JICALAPA"}
+,{"codigo":"050804","nam":"El Níspero","na2":"JICALAPA"}
+,{"codigo":"050805","nam":"La Argentina","na2":"JICALAPA"}
+,{"codigo":"050806","nam":"La Perla","na2":"JICALAPA"}
+,{"codigo":"050807","nam":"Metayo","na2":"JICALAPA"}
+,{"codigo":"050808","nam":"San Isidro","na2":"JICALAPA"}
+,{"codigo":"050809","nam":"San Jose El Tablon","na2":"JICALAPA"}
+,{"codigo":"050810","nam":"Santa Lucía","na2":"JICALAPA"}
+,{"codigo":"0509","nam":"La Libertad","na2":"LA LIBERTAD"}
+,{"codigo":"050900","nam":"Area Urbana","na2":"LA LIBERTAD"}
+,{"codigo":"050901","nam":"Cangrejera","na2":"LA LIBERTAD"}
+,{"codigo":"050902","nam":"El Cimarrón","na2":"LA LIBERTAD"}
+,{"codigo":"050903","nam":"El Majahual","na2":"LA LIBERTAD"}
+,{"codigo":"050904","nam":"El Rosario","na2":"LA LIBERTAD"}
+,{"codigo":"050905","nam":"El Palomar","na2":"LA LIBERTAD"}
+,{"codigo":"050906","nam":"San Juan Buena Vista","na2":"LA LIBERTAD"}
+,{"codigo":"050907","nam":"San Diego","na2":"LA LIBERTAD"}
+,{"codigo":"050908","nam":"Melara","na2":"LA LIBERTAD"}
+,{"codigo":"050909","nam":"San Rafael","na2":"LA LIBERTAD"}
+,{"codigo":"050911","nam":"Tecualuya","na2":"LA LIBERTAD"}
+,{"codigo":"0510","nam":"Nuevo Cuscatlán","na2":"NUEVO CUSCATLÁN"}
+,{"codigo":"051000","nam":"Area Urbana","na2":"NUEVO CUSCATLÁN"}
+,{"codigo":"051001","nam":"Florencia","na2":"NUEVO CUSCATLÁN"}
+,{"codigo":"051099","nam":"Resto De Area Rural","na2":"NUEVO CUSCATLÁN"}
+,{"codigo":"0511","nam":"Santa Tecla","na2":"SANTA TECLA"}
+,{"codigo":"051100","nam":"Area Urbana","na2":"SANTA TECLA"}
+,{"codigo":"051101","nam":"Álvarez","na2":"SANTA TECLA"}
+,{"codigo":"051102","nam":"Ayagualo","na2":"SANTA TECLA"}
+,{"codigo":"051103","nam":"Buena Vista","na2":"SANTA TECLA"}
+,{"codigo":"051104","nam":"El Cobanal","na2":"SANTA TECLA"}
+,{"codigo":"051105","nam":"El Limon","na2":"SANTA TECLA"}
+,{"codigo":"051106","nam":"El Matazano","na2":"SANTA TECLA"}
+,{"codigo":"051107","nam":"El Progreso","na2":"SANTA TECLA"}
+,{"codigo":"051108","nam":"El Quequeishque","na2":"SANTA TECLA"}
+,{"codigo":"051109","nam":"El Sacazil","na2":"SANTA TECLA"}
+,{"codigo":"051110","nam":"El Triunfo","na2":"SANTA TECLA"}
+,{"codigo":"051111","nam":"Las Granadillas","na2":"SANTA TECLA"}
+,{"codigo":"051112","nam":"Loma Larga","na2":"SANTA TECLA"}
+,{"codigo":"051113","nam":"Los Amates","na2":"SANTA TECLA"}
+,{"codigo":"051114","nam":"Los Pajales","na2":"SANTA TECLA"}
+,{"codigo":"051115","nam":"Victoria","na2":"SANTA TECLA"}
+,{"codigo":"0512","nam":"Quezaltepeque","na2":"QUEZALTEPEQUE"}
+,{"codigo":"051200","nam":"Area Urbana","na2":"QUEZALTEPEQUE"}
+,{"codigo":"051201","nam":"Sitio Los Nejapa","na2":"QUEZALTEPEQUE"}
+,{"codigo":"051202","nam":"El Matazano","na2":"QUEZALTEPEQUE"}
+,{"codigo":"051203","nam":"El Puente","na2":"QUEZALTEPEQUE"}
+,{"codigo":"051204","nam":"El Señor","na2":"QUEZALTEPEQUE"}
+,{"codigo":"051205","nam":"Girón","na2":"QUEZALTEPEQUE"}
+,{"codigo":"051206","nam":"Las Granadillas","na2":"QUEZALTEPEQUE"}
+,{"codigo":"051208","nam":"Las Mercedes","na2":"QUEZALTEPEQUE"}
+,{"codigo":"051209","nam":"Macance","na2":"QUEZALTEPEQUE"}
+,{"codigo":"051210","nam":"Platanillos","na2":"QUEZALTEPEQUE"}
+,{"codigo":"051211","nam":"Primavera","na2":"QUEZALTEPEQUE"}
+,{"codigo":"051212","nam":"San Francisco","na2":"QUEZALTEPEQUE"}
+,{"codigo":"051213","nam":"San Juan Los Planes","na2":"QUEZALTEPEQUE"}
+,{"codigo":"051214","nam":"Segura","na2":"QUEZALTEPEQUE"}
+,{"codigo":"051215","nam":"Tacachico","na2":"QUEZALTEPEQUE"}
+,{"codigo":"0513","nam":"Sacacoyo","na2":"SACACOYO"}
+,{"codigo":"051300","nam":"Area Urbana","na2":"SACACOYO"}
+,{"codigo":"051301","nam":"Ateos","na2":"SACACOYO"}
+,{"codigo":"051302","nam":"Buena Vista","na2":"SACACOYO"}
+,{"codigo":"051303","nam":"El Tigre","na2":"SACACOYO"}
+,{"codigo":"051304","nam":"El Transito","na2":"SACACOYO"}
+,{"codigo":"051305","nam":"La Montañita","na2":"SACACOYO"}
+,{"codigo":"051306","nam":"Lomas De Cerna","na2":"SACACOYO"}
+,{"codigo":"051307","nam":"San Antonio","na2":"SACACOYO"}
+,{"codigo":"051308","nam":"Tres Ceibas","na2":"SACACOYO"}
+,{"codigo":"051309","nam":"Zapotitan","na2":"SACACOYO"}
+,{"codigo":"0514","nam":"San José Villanueva","na2":"SAN JOSÉ VILLANUEVA"}
+,{"codigo":"051400","nam":"Area Urbana","na2":"SAN JOSÉ VILLANUEVA"}
+,{"codigo":"051401","nam":"El Escalón","na2":"SAN JOSÉ VILLANUEVA"}
+,{"codigo":"051402","nam":"El Matazano","na2":"SAN JOSÉ VILLANUEVA"}
+,{"codigo":"051403","nam":"El Palomar","na2":"SAN JOSÉ VILLANUEVA"}
+,{"codigo":"051404","nam":"Las Dispensas","na2":"SAN JOSÉ VILLANUEVA"}
+,{"codigo":"051405","nam":"Tula","na2":"SAN JOSÉ VILLANUEVA"}
+,{"codigo":"0515","nam":"San Juan Opico","na2":"SAN JUAN OPICO"}
+,{"codigo":"051500","nam":"Area Urbana","na2":"SAN JUAN OPICO"}
+,{"codigo":"051501","nam":"Agua Escondida","na2":"SAN JUAN OPICO"}
+,{"codigo":"051502","nam":"Barranca Honda","na2":"SAN JUAN OPICO"}
+,{"codigo":"051503","nam":"Buena Vista","na2":"SAN JUAN OPICO"}
+,{"codigo":"051504","nam":"Chanmico","na2":"SAN JUAN OPICO"}
+,{"codigo":"051505","nam":"Chantusnene","na2":"SAN JUAN OPICO"}
+,{"codigo":"051506","nam":"El Carmen","na2":"SAN JUAN OPICO"}
+,{"codigo":"051507","nam":"El Castillo","na2":"SAN JUAN OPICO"}
+,{"codigo":"051508","nam":"El Jabalí","na2":"SAN JUAN OPICO"}
+,{"codigo":"051509","nam":"El Matazano","na2":"SAN JUAN OPICO"}
+,{"codigo":"051510","nam":"Flor Amarilla","na2":"SAN JUAN OPICO"}
+,{"codigo":"051511","nam":"Joya De Ceren","na2":"SAN JUAN OPICO"}
+,{"codigo":"051512","nam":"La Puebla","na2":"SAN JUAN OPICO"}
+,{"codigo":"051513","nam":"La Nueva Encarnación","na2":"SAN JUAN OPICO"}
+,{"codigo":"051514","nam":"Las Delicias","na2":"SAN JUAN OPICO"}
+,{"codigo":"051515","nam":"Las Granadillas","na2":"SAN JUAN OPICO"}
+,{"codigo":"051516","nam":"Los Amates","na2":"SAN JUAN OPICO"}
+,{"codigo":"051517","nam":"Minas De Plomo","na2":"SAN JUAN OPICO"}
+,{"codigo":"051518","nam":"Moncagua","na2":"SAN JUAN OPICO"}
+,{"codigo":"051519","nam":"Nombre De Dios","na2":"SAN JUAN OPICO"}
+,{"codigo":"051520","nam":"Pitichorro","na2":"SAN JUAN OPICO"}
+,{"codigo":"051521","nam":"Primavera","na2":"SAN JUAN OPICO"}
+,{"codigo":"051522","nam":"San Antonio","na2":"SAN JUAN OPICO"}
+,{"codigo":"051523","nam":"San Antonio Tehuicho","na2":"SAN JUAN OPICO"}
+,{"codigo":"051524","nam":"San Felipe","na2":"SAN JUAN OPICO"}
+,{"codigo":"051525","nam":"San José La Cueva","na2":"SAN JUAN OPICO"}
+,{"codigo":"051526","nam":"San Pedro Martír","na2":"SAN JUAN OPICO"}
+,{"codigo":"051527","nam":"San Pedro Oriente","na2":"SAN JUAN OPICO"}
+,{"codigo":"051528","nam":"San Nicolás Encarnación","na2":"SAN JUAN OPICO"}
+,{"codigo":"051529","nam":"San Nicolás Los Encuentros","na2":"SAN JUAN OPICO"}
+,{"codigo":"051530","nam":"Sitio Del Niño","na2":"SAN JUAN OPICO"}
+,{"codigo":"051531","nam":"Sitio Grande","na2":"SAN JUAN OPICO"}
+,{"codigo":"051532","nam":"Sitio Roma","na2":"SAN JUAN OPICO"}
+,{"codigo":"051533","nam":"Lomas De Santiago","na2":"SAN JUAN OPICO"}
+,{"codigo":"051599","nam":"Resto De Area Rural","na2":"SAN JUAN OPICO"}
+,{"codigo":"0516","nam":"San Matías","na2":"SAN MATÍAS"}
+,{"codigo":"051600","nam":"Area Urbana","na2":"SAN MATÍAS"}
+,{"codigo":"051601","nam":"El Jícaro","na2":"SAN MATÍAS"}
+,{"codigo":"051602","nam":"El Jocote","na2":"SAN MATÍAS"}
+,{"codigo":"051603","nam":"La Puebla","na2":"SAN MATÍAS"}
+,{"codigo":"051604","nam":"Las Anonas","na2":"SAN MATÍAS"}
+,{"codigo":"051605","nam":"Masajapa","na2":"SAN MATÍAS"}
+,{"codigo":"051606","nam":"San Pedro Las Flores","na2":"SAN MATÍAS"}
+,{"codigo":"051607","nam":"Santa Rosa","na2":"SAN MATÍAS"}
+,{"codigo":"051608","nam":"Santa Teresa","na2":"SAN MATÍAS"}
+,{"codigo":"0517","nam":"San Pablo Tacachico","na2":"SAN PABLO TACACHICO"}
+,{"codigo":"051700","nam":"Area Urbana","na2":"SAN PABLO TACACHICO"}
+,{"codigo":"051701","nam":"Atiocoyo","na2":"SAN PABLO TACACHICO"}
+,{"codigo":"051702","nam":"Campana","na2":"SAN PABLO TACACHICO"}
+,{"codigo":"051703","nam":"El Transito","na2":"SAN PABLO TACACHICO"}
+,{"codigo":"051704","nam":"Las Anonas","na2":"SAN PABLO TACACHICO"}
+,{"codigo":"051705","nam":"Las Mesas","na2":"SAN PABLO TACACHICO"}
+,{"codigo":"051706","nam":"Mogotes","na2":"SAN PABLO TACACHICO"}
+,{"codigo":"051707","nam":"Moncagua","na2":"SAN PABLO TACACHICO"}
+,{"codigo":"051708","nam":"Obraje Nuevo","na2":"SAN PABLO TACACHICO"}
+,{"codigo":"051709","nam":"San Isidro","na2":"SAN PABLO TACACHICO"}
+,{"codigo":"051710","nam":"San Pedro Las Flores","na2":"SAN PABLO TACACHICO"}
+,{"codigo":"0518","nam":"Tamanique","na2":"TAMANIQUE"}
+,{"codigo":"051800","nam":"Area Urbana","na2":"TAMANIQUE"}
+,{"codigo":"051801","nam":"Buenos Aires","na2":"TAMANIQUE"}
+,{"codigo":"051802","nam":"El Cuervo","na2":"TAMANIQUE"}
+,{"codigo":"051803","nam":"El Palmar","na2":"TAMANIQUE"}
+,{"codigo":"051804","nam":"El Peñón","na2":"TAMANIQUE"}
+,{"codigo":"051805","nam":"El Sunzal","na2":"TAMANIQUE"}
+,{"codigo":"051806","nam":"Juan Higinio O La Cumbre","na2":"TAMANIQUE"}
+,{"codigo":"051807","nam":"San Alfonso","na2":"TAMANIQUE"}
+,{"codigo":"051808","nam":"San Benito","na2":"TAMANIQUE"}
+,{"codigo":"051809","nam":"Santa Lucía","na2":"TAMANIQUE"}
+,{"codigo":"051810","nam":"Siberia","na2":"TAMANIQUE"}
+,{"codigo":"051811","nam":"Tarpeya","na2":"TAMANIQUE"}
+,{"codigo":"0519","nam":"Talnique","na2":"TALNIQUE"}
+,{"codigo":"051900","nam":"Area Urbana","na2":"TALNIQUE"}
+,{"codigo":"051901","nam":"Juan Higinio O La Cumbre","na2":"TALNIQUE"}
+,{"codigo":"051902","nam":"Las Quebradas","na2":"TALNIQUE"}
+,{"codigo":"051903","nam":"Loma Larga","na2":"TALNIQUE"}
+,{"codigo":"051904","nam":"Los Amates","na2":"TALNIQUE"}
+,{"codigo":"051905","nam":"Los Cipreses","na2":"TALNIQUE"}
+,{"codigo":"051906","nam":"Los Laureles","na2":"TALNIQUE"}
+,{"codigo":"051907","nam":"San Carlos","na2":"TALNIQUE"}
+,{"codigo":"051908","nam":"San José Los Sitios","na2":"TALNIQUE"}
+,{"codigo":"051909","nam":"Santa Lucía","na2":"TALNIQUE"}
+,{"codigo":"0520","nam":"Teotepeque","na2":"TEOTEPEQUE"}
+,{"codigo":"052000","nam":"Area Urbana","na2":"TEOTEPEQUE"}
+,{"codigo":"052001","nam":"El Ángel","na2":"TEOTEPEQUE"}
+,{"codigo":"052002","nam":"El Matazano","na2":"TEOTEPEQUE"}
+,{"codigo":"052003","nam":"El Níspero","na2":"TEOTEPEQUE"}
+,{"codigo":"052004","nam":"Las Tinieblas","na2":"TEOTEPEQUE"}
+,{"codigo":"052005","nam":"Los Izotes","na2":"TEOTEPEQUE"}
+,{"codigo":"052006","nam":"San Benito","na2":"TEOTEPEQUE"}
+,{"codigo":"052007","nam":"San Isidro","na2":"TEOTEPEQUE"}
+,{"codigo":"052008","nam":"San Jose El Tablon","na2":"TEOTEPEQUE"}
+,{"codigo":"052009","nam":"San Marcos","na2":"TEOTEPEQUE"}
+,{"codigo":"052010","nam":"Santa María Mizata","na2":"TEOTEPEQUE"}
+,{"codigo":"052011","nam":"Sihuapilapa","na2":"TEOTEPEQUE"}
+,{"codigo":"0521","nam":"Tepecoyo","na2":"TEPECOYO"}
+,{"codigo":"052100","nam":"Area Urbana","na2":"TEPECOYO"}
+,{"codigo":"052101","nam":"El Carrizo","na2":"TEPECOYO"}
+,{"codigo":"052102","nam":"El Guamo","na2":"TEPECOYO"}
+,{"codigo":"052103","nam":"El Mojón","na2":"TEPECOYO"}
+,{"codigo":"052104","nam":"El Zacamil","na2":"TEPECOYO"}
+,{"codigo":"052105","nam":"La Javia","na2":"TEPECOYO"}
+,{"codigo":"052106","nam":"Las Flores","na2":"TEPECOYO"}
+,{"codigo":"052107","nam":"Los Alpes","na2":"TEPECOYO"}
+,{"codigo":"052108","nam":"Los Laureles","na2":"TEPECOYO"}
+,{"codigo":"052109","nam":"San Antonio","na2":"TEPECOYO"}
+,{"codigo":"052110","nam":"Tierra Colorada","na2":"TEPECOYO"}
+,{"codigo":"0522","nam":"Zaragoza","na2":"ZARAGOZA"}
+,{"codigo":"052200","nam":"Area Urbana","na2":"ZARAGOZA"}
+,{"codigo":"052201","nam":"El Barillo","na2":"ZARAGOZA"}
+,{"codigo":"052202","nam":"El Cimarrón","na2":"ZARAGOZA"}
+,{"codigo":"052203","nam":"El Riel","na2":"ZARAGOZA"}
+,{"codigo":"052204","nam":"Guadalupe","na2":"ZARAGOZA"}
+,{"codigo":"052205","nam":"Las Granadillas","na2":"ZARAGOZA"}
+,{"codigo":"052206","nam":"San Francisco","na2":"ZARAGOZA"}
+,{"codigo":"052207","nam":"San Sebastián","na2":"ZARAGOZA"}
+,{"codigo":"06","nam":"San Salvador","na2":"SAN SALVADOR"}
+,{"codigo":"0601","nam":"Aguilares","na2":"AGUILARES"}
+,{"codigo":"060100","nam":"Area Urbana","na2":"AGUILARES"}
+,{"codigo":"060101","nam":"La Florida","na2":"AGUILARES"}
+,{"codigo":"060102","nam":"La Toma","na2":"AGUILARES"}
+,{"codigo":"060103","nam":"Pishishapa","na2":"AGUILARES"}
+,{"codigo":"060104","nam":"Las Tunas","na2":"AGUILARES"}
+,{"codigo":"060105","nam":"Los Mangos","na2":"AGUILARES"}
+,{"codigo":"060106","nam":"Piñalitos","na2":"AGUILARES"}
+,{"codigo":"0602","nam":"Apopa","na2":"APOPA"}
+,{"codigo":"060200","nam":"Area Urbana","na2":"APOPA"}
+,{"codigo":"060201","nam":"El Ángel","na2":"APOPA"}
+,{"codigo":"060202","nam":"Guadalupe","na2":"APOPA"}
+,{"codigo":"060203","nam":"Joya Galana","na2":"APOPA"}
+,{"codigo":"060204","nam":"Joya Grande","na2":"APOPA"}
+,{"codigo":"060205","nam":"Las Delicias","na2":"APOPA"}
+,{"codigo":"060206","nam":"San Nicolás","na2":"APOPA"}
+,{"codigo":"060207","nam":"Suchinango","na2":"APOPA"}
+,{"codigo":"060208","nam":"Tres Ceibas","na2":"APOPA"}
+,{"codigo":"060209","nam":"Santa Bárbara","na2":"APOPA"}
+,{"codigo":"0603","nam":"Ayutuxtepeque","na2":"AYUTUXTEPEQUE"}
+,{"codigo":"060300","nam":"Area Urbana","na2":"AYUTUXTEPEQUE"}
+,{"codigo":"060301","nam":"El Zapote","na2":"AYUTUXTEPEQUE"}
+,{"codigo":"060302","nam":"Los Llanitos","na2":"AYUTUXTEPEQUE"}
+,{"codigo":"0604","nam":"Cuscatancingo","na2":"CUSCATANCINGO"}
+,{"codigo":"060400","nam":"Area Urbana","na2":"CUSCATANCINGO"}
+,{"codigo":"060401","nam":"San Luis Mariona","na2":"CUSCATANCINGO"}
+,{"codigo":"0605","nam":"El Paisnal","na2":"EL PAISNAL"}
+,{"codigo":"060500","nam":"Area Urbana","na2":"EL PAISNAL"}
+,{"codigo":"060501","nam":"El Jicarón","na2":"EL PAISNAL"}
+,{"codigo":"060502","nam":"El Matazano","na2":"EL PAISNAL"}
+,{"codigo":"060503","nam":"El Tronador","na2":"EL PAISNAL"}
+,{"codigo":"060504","nam":"La Cabaña","na2":"EL PAISNAL"}
+,{"codigo":"060505","nam":"Las Delicias","na2":"EL PAISNAL"}
+,{"codigo":"060506","nam":"Las Ventanas","na2":"EL PAISNAL"}
+,{"codigo":"060507","nam":"Natividad","na2":"EL PAISNAL"}
+,{"codigo":"060508","nam":"Potrero Grande","na2":"EL PAISNAL"}
+,{"codigo":"060509","nam":"San Antonio Grande","na2":"EL PAISNAL"}
+,{"codigo":"060510","nam":"San Diego","na2":"EL PAISNAL"}
+,{"codigo":"060511","nam":"San Francisco Dos Cerros","na2":"EL PAISNAL"}
+,{"codigo":"060512","nam":"San Rafael","na2":"EL PAISNAL"}
+,{"codigo":"0606","nam":"Guazapa","na2":"GUAZAPA"}
+,{"codigo":"060600","nam":"Area Urbana","na2":"GUAZAPA"}
+,{"codigo":"060601","nam":"Calle Nueva","na2":"GUAZAPA"}
+,{"codigo":"060602","nam":"Loma De Ramos","na2":"GUAZAPA"}
+,{"codigo":"060603","nam":"Nance Verde","na2":"GUAZAPA"}
+,{"codigo":"060604","nam":"San Cristóbal","na2":"GUAZAPA"}
+,{"codigo":"060605","nam":"San Jerónimo","na2":"GUAZAPA"}
+,{"codigo":"060606","nam":"San Lucas","na2":"GUAZAPA"}
+,{"codigo":"060607","nam":"Santa Bárbara","na2":"GUAZAPA"}
+,{"codigo":"060608","nam":"Zacamil","na2":"GUAZAPA"}
+,{"codigo":"0607","nam":"Ilopango","na2":"ILOPANGO"}
+,{"codigo":"060700","nam":"Area Urbana","na2":"ILOPANGO"}
+,{"codigo":"060701","nam":"Changallo","na2":"ILOPANGO"}
+,{"codigo":"060702","nam":"Dolores Apulo","na2":"ILOPANGO"}
+,{"codigo":"0608","nam":"Mejicanos","na2":"MEJICANOS"}
+,{"codigo":"060800","nam":"Area Urbana","na2":"MEJICANOS"}
+,{"codigo":"060801","nam":"Chancala","na2":"MEJICANOS"}
+,{"codigo":"060802","nam":"San Miguel","na2":"MEJICANOS"}
+,{"codigo":"060803","nam":"San Roque","na2":"MEJICANOS"}
+,{"codigo":"060804","nam":"Zacamil","na2":"MEJICANOS"}
+,{"codigo":"0609","nam":"Nejapa","na2":"NEJAPA"}
+,{"codigo":"060900","nam":"Area Urbana","na2":"NEJAPA"}
+,{"codigo":"060901","nam":"Aldea Mercedes","na2":"NEJAPA"}
+,{"codigo":"060902","nam":"Camotepeque","na2":"NEJAPA"}
+,{"codigo":"060903","nam":"Conacaste","na2":"NEJAPA"}
+,{"codigo":"060904","nam":"El Bonete","na2":"NEJAPA"}
+,{"codigo":"060905","nam":"El Salitre","na2":"NEJAPA"}
+,{"codigo":"060906","nam":"Galera Quemada","na2":"NEJAPA"}
+,{"codigo":"060907","nam":"San Jerónimo Los Planes","na2":"NEJAPA"}
+,{"codigo":"060908","nam":"Tutultepeque","na2":"NEJAPA"}
+,{"codigo":"0610","nam":"Panchimalco","na2":"PANCHIMALCO"}
+,{"codigo":"061000","nam":"Area Urbana","na2":"PANCHIMALCO"}
+,{"codigo":"061001","nam":"Amayón","na2":"PANCHIMALCO"}
+,{"codigo":"061002","nam":"Azacualpa","na2":"PANCHIMALCO"}
+,{"codigo":"061003","nam":"El Cedro","na2":"PANCHIMALCO"}
+,{"codigo":"061004","nam":"El Divisadero","na2":"PANCHIMALCO"}
+,{"codigo":"061005","nam":"El Guayabo","na2":"PANCHIMALCO"}
+,{"codigo":"061006","nam":"Las Crucitas","na2":"PANCHIMALCO"}
+,{"codigo":"061007","nam":"Loma Y Media","na2":"PANCHIMALCO"}
+,{"codigo":"061008","nam":"Los Pajales","na2":"PANCHIMALCO"}
+,{"codigo":"061009","nam":"Los Palones","na2":"PANCHIMALCO"}
+,{"codigo":"061010","nam":"Los Troncones","na2":"PANCHIMALCO"}
+,{"codigo":"061011","nam":"Planes De Renderos","na2":"PANCHIMALCO"}
+,{"codigo":"061012","nam":"Panchimalco","na2":"PANCHIMALCO"}
+,{"codigo":"061013","nam":"Quezalapa","na2":"PANCHIMALCO"}
+,{"codigo":"061014","nam":"San Isidro","na2":"PANCHIMALCO"}
+,{"codigo":"0611","nam":"Rosario De Mora","na2":"ROSARIO DE MORA"}
+,{"codigo":"061100","nam":"Area Urbana","na2":"ROSARIO DE MORA"}
+,{"codigo":"061101","nam":"Cerco De Piedra","na2":"ROSARIO DE MORA"}
+,{"codigo":"061102","nam":"El Carrizal","na2":"ROSARIO DE MORA"}
+,{"codigo":"061103","nam":"El Jutillo","na2":"ROSARIO DE MORA"}
+,{"codigo":"061104","nam":"Las Barrosas","na2":"ROSARIO DE MORA"}
+,{"codigo":"061105","nam":"Palo Grande","na2":"ROSARIO DE MORA"}
+,{"codigo":"061106","nam":"Plan Del Mango","na2":"ROSARIO DE MORA"}
+,{"codigo":"061107","nam":"San Ramón","na2":"ROSARIO DE MORA"}
+,{"codigo":"061108","nam":"Loma Y Media","na2":"ROSARIO DE MORA"}
+,{"codigo":"061109","nam":"Las Margaritas","na2":"ROSARIO DE MORA"}
+,{"codigo":"0612","nam":"San Marcos","na2":"SAN MARCOS"}
+,{"codigo":"061200","nam":"Area Urbana","na2":"SAN MARCOS"}
+,{"codigo":"061201","nam":"Ahuacatitán","na2":"SAN MARCOS"}
+,{"codigo":"061202","nam":"Casa De Piedra","na2":"SAN MARCOS"}
+,{"codigo":"061203","nam":"Cerro Amatepec","na2":"SAN MARCOS"}
+,{"codigo":"061204","nam":"Planes De Renderos","na2":"SAN MARCOS"}
+,{"codigo":"061205","nam":"Florencia","na2":"SAN MARCOS"}
+,{"codigo":"0613","nam":"San Martín","na2":"SAN MARTÍN"}
+,{"codigo":"061300","nam":"Area Urbana","na2":"SAN MARTÍN"}
+,{"codigo":"061301","nam":"El Rosario","na2":"SAN MARTÍN"}
+,{"codigo":"061302","nam":"El Sauce","na2":"SAN MARTÍN"}
+,{"codigo":"061303","nam":"La Flor","na2":"SAN MARTÍN"}
+,{"codigo":"061304","nam":"La Palma","na2":"SAN MARTÍN"}
+,{"codigo":"061305","nam":"Las Animas","na2":"SAN MARTÍN"}
+,{"codigo":"061306","nam":"Las Delicias","na2":"SAN MARTÍN"}
+,{"codigo":"061307","nam":"San José Primero","na2":"SAN MARTÍN"}
+,{"codigo":"061308","nam":"San José Segundo","na2":"SAN MARTÍN"}
+,{"codigo":"061309","nam":"Corinto","na2":"SAN MARTÍN"}
+,{"codigo":"0614","nam":"San Salvador","na2":"SAN SALVADOR"}
+,{"codigo":"061400","nam":"Area Urbana","na2":"SAN SALVADOR"}
+,{"codigo":"061401","nam":"Casa De Piedra","na2":"SAN SALVADOR"}
+,{"codigo":"061402","nam":"El Carmen","na2":"SAN SALVADOR"}
+,{"codigo":"061403","nam":"Llanitos","na2":"SAN SALVADOR"}
+,{"codigo":"061404","nam":"Lomas De Candelaria","na2":"SAN SALVADOR"}
+,{"codigo":"061405","nam":"Planes De Renderos","na2":"SAN SALVADOR"}
+,{"codigo":"061406","nam":"San Isidro Los Planes","na2":"SAN SALVADOR"}
+,{"codigo":"061407","nam":"Cerro Amatepec O San Jacinto","na2":"SAN SALVADOR"}
+,{"codigo":"0615","nam":"Santiago Texacuangos","na2":"SANTIAGO TEXACUANGOS"}
+,{"codigo":"061500","nam":"Area Urbana","na2":"SANTIAGO TEXACUANGOS"}
+,{"codigo":"061501","nam":"Asino","na2":"SANTIAGO TEXACUANGOS"}
+,{"codigo":"061502","nam":"El Morro","na2":"SANTIAGO TEXACUANGOS"}
+,{"codigo":"061503","nam":"Joya Grande","na2":"SANTIAGO TEXACUANGOS"}
+,{"codigo":"061504","nam":"La Cuchilla","na2":"SANTIAGO TEXACUANGOS"}
+,{"codigo":"061505","nam":"Shaltipa","na2":"SANTIAGO TEXACUANGOS"}
+,{"codigo":"0616","nam":"Santo Tomas","na2":"SANTO TOMAS"}
+,{"codigo":"061600","nam":"Area Urbana","na2":"SANTO TOMAS"}
+,{"codigo":"061601","nam":"Caña Brava","na2":"SANTO TOMAS"}
+,{"codigo":"061602","nam":"Chaltepe","na2":"SANTO TOMAS"}
+,{"codigo":"061603","nam":"El Ciprés","na2":"SANTO TOMAS"}
+,{"codigo":"061604","nam":"El Guaje","na2":"SANTO TOMAS"}
+,{"codigo":"061605","nam":"El Carmen","na2":"SANTO TOMAS"}
+,{"codigo":"061606","nam":"El Porvenir","na2":"SANTO TOMAS"}
+,{"codigo":"061608","nam":"Las Casitas","na2":"SANTO TOMAS"}
+,{"codigo":"061609","nam":"Potrerillos","na2":"SANTO TOMAS"}
+,{"codigo":"061610","nam":"Los Palones","na2":"SANTO TOMAS"}
+,{"codigo":"0617","nam":"Soyapango","na2":"SOYAPANGO"}
+,{"codigo":"061700","nam":"Area Urbana","na2":"SOYAPANGO"}
+,{"codigo":"061701","nam":"Buena Vista","na2":"SOYAPANGO"}
+,{"codigo":"061702","nam":"El Cacao","na2":"SOYAPANGO"}
+,{"codigo":"061703","nam":"El Guaje","na2":"SOYAPANGO"}
+,{"codigo":"061704","nam":"El Limon","na2":"SOYAPANGO"}
+,{"codigo":"061705","nam":"El Transito","na2":"SOYAPANGO"}
+,{"codigo":"0618","nam":"Tonacatepeque","na2":"TONACATEPEQUE"}
+,{"codigo":"061800","nam":"Area Urbana","na2":"TONACATEPEQUE"}
+,{"codigo":"061801","nam":"El Rosario","na2":"TONACATEPEQUE"}
+,{"codigo":"061802","nam":"El Sauce","na2":"TONACATEPEQUE"}
+,{"codigo":"061803","nam":"El Transito","na2":"TONACATEPEQUE"}
+,{"codigo":"061804","nam":"La Fuente","na2":"TONACATEPEQUE"}
+,{"codigo":"061805","nam":"La Unión","na2":"TONACATEPEQUE"}
+,{"codigo":"061806","nam":"Las Flores","na2":"TONACATEPEQUE"}
+,{"codigo":"061807","nam":"Malacoff","na2":"TONACATEPEQUE"}
+,{"codigo":"061808","nam":"Veracruz","na2":"TONACATEPEQUE"}
+,{"codigo":"061809","nam":"Buenos Aires","na2":"TONACATEPEQUE"}
+,{"codigo":"0619","nam":"Delgado","na2":"DELGADO"}
+,{"codigo":"061900","nam":"Area Urbana","na2":"CIUDAD DELGADO"}
+,{"codigo":"061901","nam":"Calle Real","na2":"CIUDAD DELGADO"}
+,{"codigo":"061902","nam":"La Cabaña","na2":"CIUDAD DELGADO"}
+,{"codigo":"061903","nam":"Plan Del Pino","na2":"CIUDAD DELGADO"}
+,{"codigo":"061904","nam":"San José Cortez","na2":"CIUDAD DELGADO"}
+,{"codigo":"061905","nam":"San Laureano","na2":"CIUDAD DELGADO"}
+,{"codigo":"061906","nam":"El Arenal","na2":"CIUDAD DELGADO"}
+,{"codigo":"07","nam":"Cuscatlán","na2":"CUSCATLÁN"}
+,{"codigo":"0701","nam":"Candelaria","na2":"CANDELARIA"}
+,{"codigo":"070100","nam":"Area Urbana","na2":"CANDELARIA"}
+,{"codigo":"070101","nam":"Concepción","na2":"CANDELARIA"}
+,{"codigo":"070102","nam":"El Rosario","na2":"CANDELARIA"}
+,{"codigo":"070103","nam":"Nance Verde","na2":"CANDELARIA"}
+,{"codigo":"070104","nam":"San Antonio","na2":"CANDELARIA"}
+,{"codigo":"070105","nam":"San José La Ceiba","na2":"CANDELARIA"}
+,{"codigo":"070106","nam":"San Juan Miraflores Abajo","na2":"CANDELARIA"}
+,{"codigo":"070107","nam":"San Juan Miraflores Arriba","na2":"CANDELARIA"}
+,{"codigo":"070108","nam":"San Rafael La Loma","na2":"CANDELARIA"}
+,{"codigo":"070109","nam":"La Palma","na2":"CANDELARIA"}
+,{"codigo":"0702","nam":"Cojutepeque","na2":"COJUTEPEQUE"}
+,{"codigo":"070200","nam":"Area Urbana","na2":"COJUTEPEQUE"}
+,{"codigo":"070201","nam":"Cujuapa","na2":"COJUTEPEQUE"}
+,{"codigo":"070202","nam":"El Carrizal","na2":"COJUTEPEQUE"}
+,{"codigo":"070203","nam":"Jiñuco","na2":"COJUTEPEQUE"}
+,{"codigo":"070204","nam":"La Palma","na2":"COJUTEPEQUE"}
+,{"codigo":"070205","nam":"Los Naranjos","na2":"COJUTEPEQUE"}
+,{"codigo":"070206","nam":"Ojos De Agua","na2":"COJUTEPEQUE"}
+,{"codigo":"0703","nam":"El Carmen","na2":"EL CARMEN"}
+,{"codigo":"070300","nam":"Area Urbana","na2":"EL CARMEN"}
+,{"codigo":"070301","nam":"Candelaria","na2":"EL CARMEN"}
+,{"codigo":"070302","nam":"Concepción","na2":"EL CARMEN"}
+,{"codigo":"070303","nam":"El Carmen","na2":"EL CARMEN"}
+,{"codigo":"070304","nam":"La Paz","na2":"EL CARMEN"}
+,{"codigo":"070306","nam":"San Sebastián","na2":"EL CARMEN"}
+,{"codigo":"070307","nam":"Santa Lucía","na2":"EL CARMEN"}
+,{"codigo":"0704","nam":"El Rosario","na2":"EL ROSARIO"}
+,{"codigo":"070400","nam":"Area Urbana","na2":"EL ROSARIO"}
+,{"codigo":"070401","nam":"El Amatillo","na2":"EL ROSARIO"}
+,{"codigo":"070402","nam":"El Calvario","na2":"EL ROSARIO"}
+,{"codigo":"070403","nam":"San Martín","na2":"EL ROSARIO"}
+,{"codigo":"070404","nam":"Veracruz","na2":"EL ROSARIO"}
+,{"codigo":"0705","nam":"Monte San Juan","na2":"MONTE SAN JUAN"}
+,{"codigo":"070500","nam":"Area Urbana","na2":"MONTE SAN JUAN"}
+,{"codigo":"070501","nam":"Candelaria","na2":"MONTE SAN JUAN"}
+,{"codigo":"070502","nam":"Concepción","na2":"MONTE SAN JUAN"}
+,{"codigo":"070503","nam":"El Carmen","na2":"MONTE SAN JUAN"}
+,{"codigo":"070504","nam":"El Rosario","na2":"MONTE SAN JUAN"}
+,{"codigo":"070505","nam":"La Soledad","na2":"MONTE SAN JUAN"}
+,{"codigo":"070506","nam":"San Andrés","na2":"MONTE SAN JUAN"}
+,{"codigo":"070507","nam":"San Antonio","na2":"MONTE SAN JUAN"}
+,{"codigo":"070508","nam":"San José","na2":"MONTE SAN JUAN"}
+,{"codigo":"070509","nam":"San Martín","na2":"MONTE SAN JUAN"}
+,{"codigo":"070510","nam":"San Nicolás","na2":"MONTE SAN JUAN"}
+,{"codigo":"0706","nam":"Oratorio De Concepción","na2":"ORATORIO DE CONCEPCIÓN"}
+,{"codigo":"070600","nam":"Area Urbana","na2":"ORATORIO DE CONCEPCIÓN"}
+,{"codigo":"070601","nam":"Palacios","na2":"ORATORIO DE CONCEPCIÓN"}
+,{"codigo":"070602","nam":"Tacanagua","na2":"ORATORIO DE CONCEPCIÓN"}
+,{"codigo":"0707","nam":"San Bartolome Perulapía","na2":"SAN BARTOLOME PERULAPÍA"}
+,{"codigo":"070700","nam":"Area Urbana","na2":"SAN BARTOLOMÉ PERULAPÍA"}
+,{"codigo":"070701","nam":"El Triunfo","na2":"SAN BARTOLOMÉ PERULAPÍA"}
+,{"codigo":"070702","nam":"Las Lomas","na2":"SAN BARTOLOMÉ PERULAPÍA"}
+,{"codigo":"0708","nam":"San Cristobal","na2":"SAN CRISTOBAL"}
+,{"codigo":"070800","nam":"Area Urbana","na2":"SAN CRISTOBAL"}
+,{"codigo":"070801","nam":"La Virgen","na2":"SAN CRISTOBAL"}
+,{"codigo":"070802","nam":"San Antonio","na2":"SAN CRISTOBAL"}
+,{"codigo":"070803","nam":"San Francisco","na2":"SAN CRISTOBAL"}
+,{"codigo":"070804","nam":"San José","na2":"SAN CRISTOBAL"}
+,{"codigo":"070805","nam":"Santa Anita","na2":"SAN CRISTOBAL"}
+,{"codigo":"070806","nam":"Santa Cruz","na2":"SAN CRISTOBAL"}
+,{"codigo":"0709","nam":"San José Guayabal","na2":"SAN JOSÉ GUAYABAL"}
+,{"codigo":"070900","nam":"Area Urbana","na2":"SAN JOSÉ GUAYABAL"}
+,{"codigo":"070901","nam":"Animas","na2":"SAN JOSÉ GUAYABAL"}
+,{"codigo":"070902","nam":"El Salitre","na2":"SAN JOSÉ GUAYABAL"}
+,{"codigo":"070903","nam":"La Cruz","na2":"SAN JOSÉ GUAYABAL"}
+,{"codigo":"070904","nam":"Llano Grande","na2":"SAN JOSÉ GUAYABAL"}
+,{"codigo":"070905","nam":"Los Meléndez","na2":"SAN JOSÉ GUAYABAL"}
+,{"codigo":"070906","nam":"Los Rodríguez","na2":"SAN JOSÉ GUAYABAL"}
+,{"codigo":"070907","nam":"Palacios","na2":"SAN JOSÉ GUAYABAL"}
+,{"codigo":"070908","nam":"Piedra Labrada","na2":"SAN JOSÉ GUAYABAL"}
+,{"codigo":"070909","nam":"Ramírez","na2":"SAN JOSÉ GUAYABAL"}
+,{"codigo":"070910","nam":"Montepeque","na2":"SAN JOSÉ GUAYABAL"}
+,{"codigo":"0710","nam":"San Pedro Perulapán","na2":"SAN PEDRO PERULAPÁN"}
+,{"codigo":"071000","nam":"Area Urbana","na2":"SAN PEDRO PERULAPÍA"}
+,{"codigo":"071001","nam":"Buena Vista","na2":"SAN PEDRO PERULAPÍA"}
+,{"codigo":"071002","nam":"Buenos Aires","na2":"SAN PEDRO PERULAPÍA"}
+,{"codigo":"071003","nam":"El Carmen","na2":"SAN PEDRO PERULAPÍA"}
+,{"codigo":"071004","nam":"El Espino","na2":"SAN PEDRO PERULAPÍA"}
+,{"codigo":"071005","nam":"El Limon","na2":"SAN PEDRO PERULAPÍA"}
+,{"codigo":"071006","nam":"El Paraiso","na2":"SAN PEDRO PERULAPÍA"}
+,{"codigo":"071007","nam":"El Rodeo","na2":"SAN PEDRO PERULAPÍA"}
+,{"codigo":"071008","nam":"Huisiltepeque","na2":"SAN PEDRO PERULAPÍA"}
+,{"codigo":"071009","nam":"Istagua","na2":"SAN PEDRO PERULAPÍA"}
+,{"codigo":"071010","nam":"La Cruz","na2":"SAN PEDRO PERULAPÍA"}
+,{"codigo":"071011","nam":"La Esperanza","na2":"SAN PEDRO PERULAPÍA"}
+,{"codigo":"071012","nam":"La Loma","na2":"SAN PEDRO PERULAPÍA"}
+,{"codigo":"071013","nam":"Miraflores","na2":"SAN PEDRO PERULAPÍA"}
+,{"codigo":"071014","nam":"San Agustín","na2":"SAN PEDRO PERULAPÍA"}
+,{"codigo":"071015","nam":"San Francisco","na2":"SAN PEDRO PERULAPÍA"}
+,{"codigo":"071016","nam":"Tecoluco","na2":"SAN PEDRO PERULAPÍA"}
+,{"codigo":"071017","nam":"Tecomatepe","na2":"SAN PEDRO PERULAPÍA"}
+,{"codigo":"0711","nam":"San Rafael Cedros","na2":"SAN RAFAEL CEDROS"}
+,{"codigo":"071100","nam":"Area Urbana","na2":"SAN RAFAEL CEDROS"}
+,{"codigo":"071101","nam":"Cerro Colorado","na2":"SAN RAFAEL CEDROS"}
+,{"codigo":"071102","nam":"Copinol","na2":"SAN RAFAEL CEDROS"}
+,{"codigo":"071103","nam":"El Espinal","na2":"SAN RAFAEL CEDROS"}
+,{"codigo":"071104","nam":"Jiboa","na2":"SAN RAFAEL CEDROS"}
+,{"codigo":"071105","nam":"Palacios","na2":"SAN RAFAEL CEDROS"}
+,{"codigo":"0712","nam":"San Ramón","na2":"SAN RAMÓN"}
+,{"codigo":"071200","nam":"Area Urbana","na2":"SAN RAMÓN"}
+,{"codigo":"071201","nam":"San Agustín","na2":"SAN RAMÓN"}
+,{"codigo":"071202","nam":"San Pablo","na2":"SAN RAMÓN"}
+,{"codigo":"071203","nam":"San Pedro","na2":"SAN RAMÓN"}
+,{"codigo":"071204","nam":"Santa Isabel","na2":"SAN RAMÓN"}
+,{"codigo":"0713","nam":"Santa Cruz Analquito","na2":"SANTA CRUZ ANALQUITO"}
+,{"codigo":"071300","nam":"Area Urbana","na2":"SANTA CRUZ ANALQUITO"}
+,{"codigo":"071301","nam":"Barrio Abajo","na2":"SANTA CRUZ ANALQUITO"}
+,{"codigo":"0714","nam":"Santa Cruz Michapa","na2":"SANTA CRUZ MICHAPA"}
+,{"codigo":"071400","nam":"Area Urbana","na2":"SANTA CRUZ MICHAPA"}
+,{"codigo":"071401","nam":"Animas","na2":"SANTA CRUZ MICHAPA"}
+,{"codigo":"071402","nam":"Buena Vista","na2":"SANTA CRUZ MICHAPA"}
+,{"codigo":"071403","nam":"Delicias","na2":"SANTA CRUZ MICHAPA"}
+,{"codigo":"071404","nam":"El Centro","na2":"SANTA CRUZ MICHAPA"}
+,{"codigo":"071405","nam":"Michapa","na2":"SANTA CRUZ MICHAPA"}
+,{"codigo":"071406","nam":"Rosales","na2":"SANTA CRUZ MICHAPA"}
+,{"codigo":"071407","nam":"Jiñuco","na2":"SANTA CRUZ MICHAPA"}
+,{"codigo":"0715","nam":"Suchitoto","na2":"SUCHITOTO"}
+,{"codigo":"071500","nam":"Area Urbana","na2":"SUCHITOTO"}
+,{"codigo":"071501","nam":"Aguacayo","na2":"SUCHITOTO"}
+,{"codigo":"071502","nam":"Buena Vista","na2":"SUCHITOTO"}
+,{"codigo":"071503","nam":"Colima","na2":"SUCHITOTO"}
+,{"codigo":"071504","nam":"Consolación","na2":"SUCHITOTO"}
+,{"codigo":"071505","nam":"Copapayo","na2":"SUCHITOTO"}
+,{"codigo":"071506","nam":"Corozal","na2":"SUCHITOTO"}
+,{"codigo":"071507","nam":"El Caulote","na2":"SUCHITOTO"}
+,{"codigo":"071508","nam":"El Molino","na2":"SUCHITOTO"}
+,{"codigo":"071509","nam":"El Roble","na2":"SUCHITOTO"}
+,{"codigo":"071510","nam":"El Zapote","na2":"SUCHITOTO"}
+,{"codigo":"071511","nam":"Estanzuelas","na2":"SUCHITOTO"}
+,{"codigo":"071512","nam":"Guadalupe","na2":"SUCHITOTO"}
+,{"codigo":"071513","nam":"Haciendita","na2":"SUCHITOTO"}
+,{"codigo":"071514","nam":"Ichanquezo","na2":"SUCHITOTO"}
+,{"codigo":"071515","nam":"La Bermuda","na2":"SUCHITOTO"}
+,{"codigo":"071516","nam":"Las Delicias","na2":"SUCHITOTO"}
+,{"codigo":"071517","nam":"Milingo","na2":"SUCHITOTO"}
+,{"codigo":"071518","nam":"Mirandilla","na2":"SUCHITOTO"}
+,{"codigo":"071519","nam":"Montepeque","na2":"SUCHITOTO"}
+,{"codigo":"071521","nam":"Palo Grande","na2":"SUCHITOTO"}
+,{"codigo":"071522","nam":"Pepeshtenango","na2":"SUCHITOTO"}
+,{"codigo":"071524","nam":"San Cristóbal","na2":"SUCHITOTO"}
+,{"codigo":"071526","nam":"Tenango","na2":"SUCHITOTO"}
+,{"codigo":"0716","nam":"Tenancingo","na2":"TENANCINGO"}
+,{"codigo":"071600","nam":"Area Urbana","na2":"TENANCINGO"}
+,{"codigo":"071601","nam":"Ajuluco","na2":"TENANCINGO"}
+,{"codigo":"071602","nam":"Copalchan","na2":"TENANCINGO"}
+,{"codigo":"071603","nam":"Corral Viejo","na2":"TENANCINGO"}
+,{"codigo":"071604","nam":"El Pepeto","na2":"TENANCINGO"}
+,{"codigo":"071605","nam":"Huisiltepeque","na2":"TENANCINGO"}
+,{"codigo":"071606","nam":"Jiñuco","na2":"TENANCINGO"}
+,{"codigo":"071607","nam":"Rosario Perico","na2":"TENANCINGO"}
+,{"codigo":"071608","nam":"Rosario Tablón","na2":"TENANCINGO"}
+,{"codigo":"071609","nam":"Santa Anita","na2":"TENANCINGO"}
+,{"codigo":"08","nam":"La Paz","na2":"LA PAZ"}
+,{"codigo":"0801","nam":"Cuyultitán","na2":"CUYULTITÁN"}
+,{"codigo":"080100","nam":"Area Urbana","na2":"CUYULTITÁN"}
+,{"codigo":"080101","nam":"San Antonio","na2":"CUYULTITÁN"}
+,{"codigo":"080102","nam":"San Isidro","na2":"CUYULTITÁN"}
+,{"codigo":"0802","nam":"El Rosario","na2":"EL ROSARIO"}
+,{"codigo":"080200","nam":"Area Urbana","na2":"EL ROSARIO"}
+,{"codigo":"080201","nam":"Amatepec","na2":"EL ROSARIO"}
+,{"codigo":"080202","nam":"El Cerro","na2":"EL ROSARIO"}
+,{"codigo":"080203","nam":"El Pedregal","na2":"EL ROSARIO"}
+,{"codigo":"080204","nam":"Tilapa","na2":"EL ROSARIO"}
+,{"codigo":"0803","nam":"Jerusalén","na2":"JERUSALÉN"}
+,{"codigo":"080300","nam":"Area Urbana","na2":"JERUSALÉN"}
+,{"codigo":"080301","nam":"El Conacaste","na2":"JERUSALÉN"}
+,{"codigo":"080302","nam":"El Espino","na2":"JERUSALÉN"}
+,{"codigo":"080303","nam":"Los Romero","na2":"JERUSALÉN"}
+,{"codigo":"080304","nam":"Veracruz","na2":"JERUSALÉN"}
+,{"codigo":"080305","nam":"San Juan Buena Vista","na2":"JERUSALÉN"}
+,{"codigo":"0804","nam":"Mercedes La Ceiba","na2":"MERCEDES LA CEIBA"}
+,{"codigo":"080400","nam":"Area Urbana","na2":"MERCEDES LA CEIBA"}
+,{"codigo":"080401","nam":"San Antonio","na2":"MERCEDES LA CEIBA"}
+,{"codigo":"080402","nam":"San Luis","na2":"MERCEDES LA CEIBA"}
+,{"codigo":"0805","nam":"Olocuilta","na2":"OLOCUILTA"}
+,{"codigo":"080500","nam":"Area Urbana","na2":"OLOCUILTA"}
+,{"codigo":"080501","nam":"Cupinco","na2":"OLOCUILTA"}
+,{"codigo":"080502","nam":"El Chilamate","na2":"OLOCUILTA"}
+,{"codigo":"080503","nam":"Los Guachipilines","na2":"OLOCUILTA"}
+,{"codigo":"080504","nam":"Joya De Girón","na2":"OLOCUILTA"}
+,{"codigo":"080505","nam":"La Esperanza","na2":"OLOCUILTA"}
+,{"codigo":"080506","nam":"Planes De Las Delicias","na2":"OLOCUILTA"}
+,{"codigo":"080507","nam":"San Antonio Girón","na2":"OLOCUILTA"}
+,{"codigo":"080508","nam":"San José Buenavista","na2":"OLOCUILTA"}
+,{"codigo":"080509","nam":"Jayuca","na2":"OLOCUILTA"}
+,{"codigo":"080510","nam":"San Sebastián","na2":"OLOCUILTA"}
+,{"codigo":"080511","nam":"Santa Fe","na2":"OLOCUILTA"}
+,{"codigo":"080512","nam":"Santa Lucía La Barranca","na2":"OLOCUILTA"}
+,{"codigo":"080513","nam":"Santo Tomás","na2":"OLOCUILTA"}
+,{"codigo":"080514","nam":"Valle Nuevo","na2":"OLOCUILTA"}
+,{"codigo":"080515","nam":"Santa Lucía Orcoyo","na2":"OLOCUILTA"}
+,{"codigo":"0806","nam":"Paraiso De Osorio","na2":"PARAISO DE OSORIO"}
+,{"codigo":"080600","nam":"Area Urbana","na2":"PARAISO DE OSORIO"}
+,{"codigo":"080601","nam":"El Copinol","na2":"PARAISO DE OSORIO"}
+,{"codigo":"080602","nam":"Los Zacatales","na2":"PARAISO DE OSORIO"}
+,{"codigo":"080603","nam":"El Rincón","na2":"PARAISO DE OSORIO"}
+,{"codigo":"0807","nam":"San Antonio Masahuat","na2":"SAN ANTONIO MASAHUAT"}
+,{"codigo":"080700","nam":"Area Urbana","na2":"SAN ANTONIO MASAHUAT"}
+,{"codigo":"080701","nam":"Belén","na2":"SAN ANTONIO MASAHUAT"}
+,{"codigo":"080702","nam":"El Socorro","na2":"SAN ANTONIO MASAHUAT"}
+,{"codigo":"080703","nam":"San Antonio La Loma","na2":"SAN ANTONIO MASAHUAT"}
+,{"codigo":"080704","nam":"San José La Instancia","na2":"SAN ANTONIO MASAHUAT"}
+,{"codigo":"080705","nam":"San José Los Solares","na2":"SAN ANTONIO MASAHUAT"}
+,{"codigo":"0808","nam":"San Emigdio","na2":"SAN EMIGDIO"}
+,{"codigo":"080800","nam":"Area Urbana","na2":"SAN EMIGDIO"}
+,{"codigo":"080801","nam":"Concepción Lourdes","na2":"SAN EMIGDIO"}
+,{"codigo":"080802","nam":"San José Costa Rica","na2":"SAN EMIGDIO"}
+,{"codigo":"0809","nam":"San Francisco Chinameca","na2":"SAN FRANCISCO CHINAMECA"}
+,{"codigo":"080900","nam":"Area Urbana","na2":"SAN FRANCISCO CHINAMECA"}
+,{"codigo":"080901","nam":"San Antonio Panchimilama","na2":"SAN FRANCISCO CHINAMECA"}
+,{"codigo":"080902","nam":"Concepción Los Planes","na2":"SAN FRANCISCO CHINAMECA"}
+,{"codigo":"080903","nam":"Candelaria","na2":"SAN FRANCISCO CHINAMECA"}
+,{"codigo":"080904","nam":"Santa Cruz La Vega","na2":"SAN FRANCISCO CHINAMECA"}
+,{"codigo":"080905","nam":"San José La Montaña","na2":"SAN FRANCISCO CHINAMECA"}
+,{"codigo":"0810","nam":"San Juan Nonualco","na2":"SAN JUAN NONUALCO"}
+,{"codigo":"081000","nam":"Area Urbana","na2":"SAN JUAN NONUALCO"}
+,{"codigo":"081001","nam":"El Golfo","na2":"SAN JUAN NONUALCO"}
+,{"codigo":"081002","nam":"El Pajal","na2":"SAN JUAN NONUALCO"}
+,{"codigo":"081003","nam":"La Laguneta","na2":"SAN JUAN NONUALCO"}
+,{"codigo":"081004","nam":"La Longaniza","na2":"SAN JUAN NONUALCO"}
+,{"codigo":"081005","nam":"Las Delicias","na2":"SAN JUAN NONUALCO"}
+,{"codigo":"081006","nam":"Los Zacatillos","na2":"SAN JUAN NONUALCO"}
+,{"codigo":"081007","nam":"Las Piedronas","na2":"SAN JUAN NONUALCO"}
+,{"codigo":"081008","nam":"El Salto","na2":"SAN JUAN NONUALCO"}
+,{"codigo":"081009","nam":"El Chile","na2":"SAN JUAN NONUALCO"}
+,{"codigo":"081010","nam":"Tehuiste Abajo","na2":"SAN JUAN NONUALCO"}
+,{"codigo":"081011","nam":"Tehuiste Arriba","na2":"SAN JUAN NONUALCO"}
+,{"codigo":"081012","nam":"Tierra Colorada","na2":"SAN JUAN NONUALCO"}
+,{"codigo":"0811","nam":"San Juan Talpa","na2":"SAN JUAN TALPA"}
+,{"codigo":"081100","nam":"Area Urbana","na2":"SAN JUAN TALPA"}
+,{"codigo":"081101","nam":"Comalapa","na2":"SAN JUAN TALPA"}
+,{"codigo":"081102","nam":"Tobalón","na2":"SAN JUAN TALPA"}
+,{"codigo":"081103","nam":"Veracruz","na2":"SAN JUAN TALPA"}
+,{"codigo":"0812","nam":"San Juan Tepezontes","na2":"SAN JUAN TEPEZONTES"}
+,{"codigo":"081200","nam":"Area Urbana","na2":"SAN JUAN TEPEZONTES"}
+,{"codigo":"081201","nam":"La Cruz","na2":"SAN JUAN TEPEZONTES"}
+,{"codigo":"081202","nam":"La Esperanza","na2":"SAN JUAN TEPEZONTES"}
+,{"codigo":"081203","nam":"Los Laureles","na2":"SAN JUAN TEPEZONTES"}
+,{"codigo":"0813","nam":"San Luis Talpa","na2":"SAN LUIS TALPA"}
+,{"codigo":"081300","nam":"Area Urbana","na2":"SAN LUIS TALPA"}
+,{"codigo":"081301","nam":"Amatecampo","na2":"SAN LUIS TALPA"}
+,{"codigo":"081302","nam":"Cuchilla De Comalapa","na2":"SAN LUIS TALPA"}
+,{"codigo":"081303","nam":"El Pimiental","na2":"SAN LUIS TALPA"}
+,{"codigo":"081304","nam":"El Porvenir","na2":"SAN LUIS TALPA"}
+,{"codigo":"081305","nam":"Nuevo Edén","na2":"SAN LUIS TALPA"}
+,{"codigo":"081306","nam":"San Francisco Amatepec","na2":"SAN LUIS TALPA"}
+,{"codigo":"081307","nam":"Tecualuya","na2":"SAN LUIS TALPA"}
+,{"codigo":"081308","nam":"Zambombera","na2":"SAN LUIS TALPA"}
+,{"codigo":"0814","nam":"San Miguel Tepezontes","na2":"SAN MIGUEL TEPEZONTES"}
+,{"codigo":"081400","nam":"Area Urbana","na2":"SAN MIGUEL TEPEZONTES"}
+,{"codigo":"081401","nam":"San Bartolo","na2":"SAN MIGUEL TEPEZONTES"}
+,{"codigo":"081402","nam":"Soledad Las Flores","na2":"SAN MIGUEL TEPEZONTES"}
+,{"codigo":"0815","nam":"San Pedro Masahuat","na2":"SAN PEDRO MASAHUAT"}
+,{"codigo":"081500","nam":"Area Urbana","na2":"SAN PEDRO MASAHUAT"}
+,{"codigo":"081501","nam":"Barahona","na2":"SAN PEDRO MASAHUAT"}
+,{"codigo":"081502","nam":"Buena Vista","na2":"SAN PEDRO MASAHUAT"}
+,{"codigo":"081504","nam":"El Achiotal","na2":"SAN PEDRO MASAHUAT"}
+,{"codigo":"081505","nam":"El Carmen","na2":"SAN PEDRO MASAHUAT"}
+,{"codigo":"081506","nam":"El Dulce Nombre","na2":"SAN PEDRO MASAHUAT"}
+,{"codigo":"081507","nam":"El Paredón","na2":"SAN PEDRO MASAHUAT"}
+,{"codigo":"081509","nam":"El Porvenir","na2":"SAN PEDRO MASAHUAT"}
+,{"codigo":"081510","nam":"El Sicahuite","na2":"SAN PEDRO MASAHUAT"}
+,{"codigo":"081511","nam":"Las Flores","na2":"SAN PEDRO MASAHUAT"}
+,{"codigo":"081512","nam":"Las Hojas","na2":"SAN PEDRO MASAHUAT"}
+,{"codigo":"081513","nam":"Las Isletas","na2":"SAN PEDRO MASAHUAT"}
+,{"codigo":"081515","nam":"Marcelino","na2":"SAN PEDRO MASAHUAT"}
+,{"codigo":"081516","nam":"San José Luna","na2":"SAN PEDRO MASAHUAT"}
+,{"codigo":"081517","nam":"Santa María La Sabana","na2":"SAN PEDRO MASAHUAT"}
+,{"codigo":"0816","nam":"San Pedro Nonualco","na2":"SAN PEDRO NONUALCO"}
+,{"codigo":"081600","nam":"Area Urbana","na2":"SAN PEDRO NONUALCO"}
+,{"codigo":"081601","nam":"El Lazareto","na2":"SAN PEDRO NONUALCO"}
+,{"codigo":"081602","nam":"El Roble","na2":"SAN PEDRO NONUALCO"}
+,{"codigo":"081603","nam":"Hacienda Vieja","na2":"SAN PEDRO NONUALCO"}
+,{"codigo":"081604","nam":"La Carbonera","na2":"SAN PEDRO NONUALCO"}
+,{"codigo":"081605","nam":"La Comunidad","na2":"SAN PEDRO NONUALCO"}
+,{"codigo":"081606","nam":"Nahuistepeque","na2":"SAN PEDRO NONUALCO"}
+,{"codigo":"081607","nam":"San Ramón","na2":"SAN PEDRO NONUALCO"}
+,{"codigo":"0817","nam":"San Rafael Obrajuelo","na2":"SAN RAFAEL OBRAJUELO"}
+,{"codigo":"081700","nam":"Area Urbana","na2":"SAN RAFAEL OBRAJUELO"}
+,{"codigo":"081701","nam":"El Carao","na2":"SAN RAFAEL OBRAJUELO"}
+,{"codigo":"081702","nam":"La Longaniza","na2":"SAN RAFAEL OBRAJUELO"}
+,{"codigo":"081703","nam":"La Palma","na2":"SAN RAFAEL OBRAJUELO"}
+,{"codigo":"081704","nam":"San Jerónimo","na2":"SAN RAFAEL OBRAJUELO"}
+,{"codigo":"081705","nam":"San José Obrajuelo","na2":"SAN RAFAEL OBRAJUELO"}
+,{"codigo":"081706","nam":"San Pedro Martír","na2":"SAN RAFAEL OBRAJUELO"}
+,{"codigo":"081707","nam":"San Miguel Obrajuelo","na2":"SAN RAFAEL OBRAJUELO"}
+,{"codigo":"0818","nam":"Santa Maria Ostuma","na2":"SANTA MARÍA OSTUMA"}
+,{"codigo":"081800","nam":"Area Urbana","na2":"SANTA MARÍA OSTUMA"}
+,{"codigo":"081801","nam":"Concepción","na2":"SANTA MARÍA OSTUMA"}
+,{"codigo":"081802","nam":"El Chaperno","na2":"SANTA MARÍA OSTUMA"}
+,{"codigo":"081803","nam":"El Transito","na2":"SANTA MARÍA OSTUMA"}
+,{"codigo":"081804","nam":"Loma Larga","na2":"SANTA MARÍA OSTUMA"}
+,{"codigo":"081805","nam":"San Antonio","na2":"SANTA MARÍA OSTUMA"}
+,{"codigo":"081806","nam":"San Isidro","na2":"SANTA MARÍA OSTUMA"}
+,{"codigo":"081807","nam":"San José Carrizal","na2":"SANTA MARÍA OSTUMA"}
+,{"codigo":"0819","nam":"Santiago Nonualco","na2":"SANTIAGO NONUALCO"}
+,{"codigo":"081900","nam":"Area Urbana","na2":"SANTIAGO NONUALCO"}
+,{"codigo":"081901","nam":"Amulunco","na2":"SANTIAGO NONUALCO"}
+,{"codigo":"081902","nam":"Concepción Jalponga","na2":"SANTIAGO NONUALCO"}
+,{"codigo":"081904","nam":"El Sauce","na2":"SANTIAGO NONUALCO"}
+,{"codigo":"081905","nam":"La Cruz Del Mojón","na2":"SANTIAGO NONUALCO"}
+,{"codigo":"081906","nam":"Las Animas","na2":"SANTIAGO NONUALCO"}
+,{"codigo":"081907","nam":"Las Guarumas","na2":"SANTIAGO NONUALCO"}
+,{"codigo":"081909","nam":"San Antonio Abajo","na2":"SANTIAGO NONUALCO"}
+,{"codigo":"081910","nam":"San Antonio Arriba","na2":"SANTIAGO NONUALCO"}
+,{"codigo":"081911","nam":"San Francisco Hacienda","na2":"SANTIAGO NONUALCO"}
+,{"codigo":"081912","nam":"San Francisco El Porfiado","na2":"SANTIAGO NONUALCO"}
+,{"codigo":"081913","nam":"San José Loma","na2":"SANTIAGO NONUALCO"}
+,{"codigo":"081914","nam":"San José Obrajito","na2":"SANTIAGO NONUALCO"}
+,{"codigo":"081915","nam":"San Luis Jalponguita","na2":"SANTIAGO NONUALCO"}
+,{"codigo":"081916","nam":"San Sebastián Abajo","na2":"SANTIAGO NONUALCO"}
+,{"codigo":"081917","nam":"San Sebastián Arriba","na2":"SANTIAGO NONUALCO"}
+,{"codigo":"081918","nam":"Santa Cruz Chacastal","na2":"SANTIAGO NONUALCO"}
+,{"codigo":"081919","nam":"Santa Cruz La Loma","na2":"SANTIAGO NONUALCO"}
+,{"codigo":"081920","nam":"Santa Rita Almendro","na2":"SANTIAGO NONUALCO"}
+,{"codigo":"081921","nam":"Santa Teresa","na2":"SANTIAGO NONUALCO"}
+,{"codigo":"081922","nam":"San José Abajo","na2":"SANTIAGO NONUALCO"}
+,{"codigo":"081923","nam":"San José Arriba","na2":"SANTIAGO NONUALCO"}
+,{"codigo":"0820","nam":"Tapalhuaca","na2":"TAPALHUACA"}
+,{"codigo":"082000","nam":"Area Urbana","na2":"TAPALHUACA"}
+,{"codigo":"082001","nam":"La Basa","na2":"TAPALHUACA"}
+,{"codigo":"082002","nam":"Las Lajas","na2":"TAPALHUACA"}
+,{"codigo":"082003","nam":"San Pedro La Palma","na2":"TAPALHUACA"}
+,{"codigo":"0821","nam":"Zacatecoluca","na2":"ZACATECOLUCA"}
+,{"codigo":"082100","nam":"Area Urbana","na2":"ZACATECOLUCA"}
+,{"codigo":"082101","nam":"Agua Zarca","na2":"ZACATECOLUCA"}
+,{"codigo":"082102","nam":"Amayo","na2":"ZACATECOLUCA"}
+,{"codigo":"082103","nam":"Animas Abajo","na2":"ZACATECOLUCA"}
+,{"codigo":"082104","nam":"Animas Arriba","na2":"ZACATECOLUCA"}
+,{"codigo":"082105","nam":"Azacualpa","na2":"ZACATECOLUCA"}
+,{"codigo":"082106","nam":"Buena Vista Abajo","na2":"ZACATECOLUCA"}
+,{"codigo":"082107","nam":"Buena Vista Arriba","na2":"ZACATECOLUCA"}
+,{"codigo":"082109","nam":"El Amate","na2":"ZACATECOLUCA"}
+,{"codigo":"082110","nam":"El Callejón","na2":"ZACATECOLUCA"}
+,{"codigo":"082111","nam":"El Carmen","na2":"ZACATECOLUCA"}
+,{"codigo":"082112","nam":"El Copinol","na2":"ZACATECOLUCA"}
+,{"codigo":"082113","nam":"El Despoblado","na2":"ZACATECOLUCA"}
+,{"codigo":"082114","nam":"El Espino Abajo","na2":"ZACATECOLUCA"}
+,{"codigo":"082115","nam":"El Espino Arriba","na2":"ZACATECOLUCA"}
+,{"codigo":"082116","nam":"El Meneadero","na2":"ZACATECOLUCA"}
+,{"codigo":"082117","nam":"El Socorro","na2":"ZACATECOLUCA"}
+,{"codigo":"082118","nam":"El Zapote","na2":"ZACATECOLUCA"}
+,{"codigo":"082119","nam":"Hatos De Los Reyes","na2":"ZACATECOLUCA"}
+,{"codigo":"082120","nam":"La Joya","na2":"ZACATECOLUCA"}
+,{"codigo":"082121","nam":"La Lucha","na2":"ZACATECOLUCA"}
+,{"codigo":"082122","nam":"Las Isletas","na2":"ZACATECOLUCA"}
+,{"codigo":"082123","nam":"Las Tablas","na2":"ZACATECOLUCA"}
+,{"codigo":"082124","nam":"Liévano","na2":"ZACATECOLUCA"}
+,{"codigo":"082125","nam":"Los Platanares","na2":"ZACATECOLUCA"}
+,{"codigo":"082126","nam":"Penitente Abajo","na2":"ZACATECOLUCA"}
+,{"codigo":"082127","nam":"Penitente Arriba","na2":"ZACATECOLUCA"}
+,{"codigo":"082128","nam":"Piedra Grande Abajo","na2":"ZACATECOLUCA"}
+,{"codigo":"082129","nam":"Piedra Grande Arriba","na2":"ZACATECOLUCA"}
+,{"codigo":"082130","nam":"Pineda","na2":"ZACATECOLUCA"}
+,{"codigo":"082131","nam":"San Francisco Los Reyes","na2":"ZACATECOLUCA"}
+,{"codigo":"082132","nam":"San José La Montaña","na2":"ZACATECOLUCA"}
+,{"codigo":"082133","nam":"San Josecito","na2":"ZACATECOLUCA"}
+,{"codigo":"082134","nam":"San Lucas","na2":"ZACATECOLUCA"}
+,{"codigo":"082135","nam":"San Marcos De La Cruz","na2":"ZACATECOLUCA"}
+,{"codigo":"082136","nam":"San Rafael","na2":"ZACATECOLUCA"}
+,{"codigo":"082138","nam":"Santa Lucía","na2":"ZACATECOLUCA"}
+,{"codigo":"082139","nam":"Tepechame","na2":"ZACATECOLUCA"}
+,{"codigo":"082140","nam":"Tierra Blanca","na2":"ZACATECOLUCA"}
+,{"codigo":"082141","nam":"Ulapa","na2":"ZACATECOLUCA"}
+,{"codigo":"0822","nam":"San Luis La Herradura","na2":"SAN LUIS LA HERRADURA"}
+,{"codigo":"082200","nam":"Area Urbana","na2":"SAN LUIS LA HERRADURA"}
+,{"codigo":"082201","nam":"El Cordoncillo","na2":"SAN LUIS LA HERRADURA"}
+,{"codigo":"082202","nam":"El Llano","na2":"SAN LUIS LA HERRADURA"}
+,{"codigo":"082203","nam":"El Zapote","na2":"SAN LUIS LA HERRADURA"}
+,{"codigo":"082204","nam":"Guadalupe La Zorra","na2":"SAN LUIS LA HERRADURA"}
+,{"codigo":"082205","nam":"La Anona","na2":"SAN LUIS LA HERRADURA"}
+,{"codigo":"082206","nam":"La Calzada","na2":"SAN LUIS LA HERRADURA"}
+,{"codigo":"082207","nam":"San Antonio Los Blancos","na2":"SAN LUIS LA HERRADURA"}
+,{"codigo":"082208","nam":"El Escobal","na2":"SAN LUIS LA HERRADURA"}
+,{"codigo":"082209","nam":"San Rafael Tasajera","na2":"SAN LUIS LA HERRADURA"}
+,{"codigo":"082210","nam":"San Sebastián El Chingo","na2":"SAN LUIS LA HERRADURA"}
+,{"codigo":"09","nam":"Cabañas","na2":"CABAÑAS"}
+,{"codigo":"0901","nam":"Cinquera","na2":"CINQUERA"}
+,{"codigo":"090100","nam":"Area Urbana","na2":"CINQUERA"}
+,{"codigo":"090101","nam":"Dulce Nombre O La Escopeta","na2":"CINQUERA"}
+,{"codigo":"090102","nam":"El Cacao","na2":"CINQUERA"}
+,{"codigo":"090103","nam":"Huilihuiste","na2":"CINQUERA"}
+,{"codigo":"090104","nam":"San Antonio","na2":"CINQUERA"}
+,{"codigo":"090105","nam":"San Benito","na2":"CINQUERA"}
+,{"codigo":"090106","nam":"San José El Tule","na2":"CINQUERA"}
+,{"codigo":"090107","nam":"San Nicolás","na2":"CINQUERA"}
+,{"codigo":"090108","nam":"Valle Nuevo","na2":"CINQUERA"}
+,{"codigo":"090109","nam":"El Pepeto","na2":"CINQUERA"}
+,{"codigo":"0902","nam":"Guacotecti","na2":"GUACOTECTI"}
+,{"codigo":"090200","nam":"Area Urbana","na2":"GUACOTECTI"}
+,{"codigo":"090201","nam":"Agua Zarca","na2":"GUACOTECTI"}
+,{"codigo":"090202","nam":"El Bañadero","na2":"GUACOTECTI"}
+,{"codigo":"090203","nam":"Tempisque Abajo","na2":"GUACOTECTI"}
+,{"codigo":"090204","nam":"Pie De La Cuesta","na2":"GUACOTECTI"}
+,{"codigo":"0903","nam":"Ilobasco","na2":"ILOBASCO"}
+,{"codigo":"090300","nam":"Area Urbana","na2":"ILOBASCO"}
+,{"codigo":"090301","nam":"Agua Zarca","na2":"ILOBASCO"}
+,{"codigo":"090302","nam":"Azacualpa","na2":"ILOBASCO"}
+,{"codigo":"090303","nam":"Cerro Colorado","na2":"ILOBASCO"}
+,{"codigo":"090305","nam":"Potrero","na2":"ILOBASCO"}
+,{"codigo":"090306","nam":"La Labor","na2":"ILOBASCO"}
+,{"codigo":"090307","nam":"Las Huertas","na2":"ILOBASCO"}
+,{"codigo":"090308","nam":"Los Hoyos","na2":"ILOBASCO"}
+,{"codigo":"090309","nam":"Los Llanitos","na2":"ILOBASCO"}
+,{"codigo":"090310","nam":"Maquilishuat","na2":"ILOBASCO"}
+,{"codigo":"090311","nam":"Oratorio","na2":"ILOBASCO"}
+,{"codigo":"090312","nam":"Nanastepeque","na2":"ILOBASCO"}
+,{"codigo":"090313","nam":"San José Calera","na2":"ILOBASCO"}
+,{"codigo":"090314","nam":"San José","na2":"ILOBASCO"}
+,{"codigo":"090315","nam":"San Francisco Del Monte","na2":"ILOBASCO"}
+,{"codigo":"090316","nam":"San Francisco Iraheta","na2":"ILOBASCO"}
+,{"codigo":"090317","nam":"Santa Cruz","na2":"ILOBASCO"}
+,{"codigo":"090318","nam":"Sitio Viejo","na2":"ILOBASCO"}
+,{"codigo":"0904","nam":"Jutiapa","na2":"JUTIAPA"}
+,{"codigo":"090400","nam":"Area Urbana","na2":"JUTIAPA"}
+,{"codigo":"090401","nam":"Caleras","na2":"JUTIAPA"}
+,{"codigo":"090402","nam":"Carolina","na2":"JUTIAPA"}
+,{"codigo":"090403","nam":"El Platanar","na2":"JUTIAPA"}
+,{"codigo":"090404","nam":"Llano Largo","na2":"JUTIAPA"}
+,{"codigo":"090405","nam":"Palacios","na2":"JUTIAPA"}
+,{"codigo":"090406","nam":"San Sebastián","na2":"JUTIAPA"}
+,{"codigo":"090407","nam":"Santa Bárbara","na2":"JUTIAPA"}
+,{"codigo":"090408","nam":"El Mestizo","na2":"JUTIAPA"}
+,{"codigo":"0905","nam":"San Isidro","na2":"SAN ISIDRO"}
+,{"codigo":"090500","nam":"Area Urbana","na2":"SAN ISIDRO"}
+,{"codigo":"090501","nam":"El Amate","na2":"SAN ISIDRO"}
+,{"codigo":"090502","nam":"Izcatal","na2":"SAN ISIDRO"}
+,{"codigo":"090503","nam":"Llano De La Hacienda","na2":"SAN ISIDRO"}
+,{"codigo":"090504","nam":"Los Jobos","na2":"SAN ISIDRO"}
+,{"codigo":"090505","nam":"Potrero De Batres","na2":"SAN ISIDRO"}
+,{"codigo":"090506","nam":"Potrero Y Tabla","na2":"SAN ISIDRO"}
+,{"codigo":"090507","nam":"San Francisco","na2":"SAN ISIDRO"}
+,{"codigo":"0906","nam":"Sensuntepeque","na2":"SENSUNTEPEQUE"}
+,{"codigo":"090600","nam":"Area Urbana","na2":"SENSUNTEPEQUE"}
+,{"codigo":"090601","nam":"Copinolapa","na2":"SENSUNTEPEQUE"}
+,{"codigo":"090602","nam":"Cunchique","na2":"SENSUNTEPEQUE"}
+,{"codigo":"090603","nam":"Cuyantepeque","na2":"SENSUNTEPEQUE"}
+,{"codigo":"090604","nam":"Chunte","na2":"SENSUNTEPEQUE"}
+,{"codigo":"090605","nam":"El Aguacate","na2":"SENSUNTEPEQUE"}
+,{"codigo":"090606","nam":"El Volcán","na2":"SENSUNTEPEQUE"}
+,{"codigo":"090607","nam":"La Trinidad","na2":"SENSUNTEPEQUE"}
+,{"codigo":"090608","nam":"Las Marías","na2":"SENSUNTEPEQUE"}
+,{"codigo":"090609","nam":"Los Llanitos","na2":"SENSUNTEPEQUE"}
+,{"codigo":"090610","nam":"Llano Grande","na2":"SENSUNTEPEQUE"}
+,{"codigo":"090611","nam":"Nombre De Dios","na2":"SENSUNTEPEQUE"}
+,{"codigo":"090612","nam":"Pie De La Cuesta","na2":"SENSUNTEPEQUE"}
+,{"codigo":"090613","nam":"Río Grande","na2":"SENSUNTEPEQUE"}
+,{"codigo":"090614","nam":"Rojas","na2":"SENSUNTEPEQUE"}
+,{"codigo":"090615","nam":"San Gregorio","na2":"SENSUNTEPEQUE"}
+,{"codigo":"090616","nam":"San Lorenzo","na2":"SENSUNTEPEQUE"}
+,{"codigo":"090617","nam":"San Marcos","na2":"SENSUNTEPEQUE"}
+,{"codigo":"090618","nam":"San Matías","na2":"SENSUNTEPEQUE"}
+,{"codigo":"090619","nam":"San Nicolás","na2":"SENSUNTEPEQUE"}
+,{"codigo":"090620","nam":"Santa Rosa","na2":"SENSUNTEPEQUE"}
+,{"codigo":"090621","nam":"Tronalagua","na2":"SENSUNTEPEQUE"}
+,{"codigo":"0907","nam":"Tejutepeque","na2":"TEJUTEPEQUE"}
+,{"codigo":"090700","nam":"Area Urbana","na2":"TEJUTEPEQUE"}
+,{"codigo":"090701","nam":"Concepción","na2":"TEJUTEPEQUE"}
+,{"codigo":"090702","nam":"El Zapote","na2":"TEJUTEPEQUE"}
+,{"codigo":"090703","nam":"San Antonio Buena Vista","na2":"TEJUTEPEQUE"}
+,{"codigo":"090704","nam":"San Francisco Echeverría","na2":"TEJUTEPEQUE"}
+,{"codigo":"090705","nam":"Santa Olaya","na2":"TEJUTEPEQUE"}
+,{"codigo":"090706","nam":"Santa Rita","na2":"TEJUTEPEQUE"}
+,{"codigo":"0908","nam":"Victoria","na2":"VICTORIA"}
+,{"codigo":"090800","nam":"Area Urbana","na2":"VICTORIA"}
+,{"codigo":"090801","nam":"Azacualpa","na2":"VICTORIA"}
+,{"codigo":"090802","nam":"El Caracol","na2":"VICTORIA"}
+,{"codigo":"090803","nam":"El Zapote","na2":"VICTORIA"}
+,{"codigo":"090804","nam":"La Bermuda","na2":"VICTORIA"}
+,{"codigo":"090805","nam":"La Uvilla","na2":"VICTORIA"}
+,{"codigo":"090806","nam":"Paratao","na2":"VICTORIA"}
+,{"codigo":"090807","nam":"Peña Blanca","na2":"VICTORIA"}
+,{"codigo":"090808","nam":"Rojitas","na2":"VICTORIA"}
+,{"codigo":"090809","nam":"San Antonio","na2":"VICTORIA"}
+,{"codigo":"090810","nam":"San Pedro","na2":"VICTORIA"}
+,{"codigo":"090811","nam":"Santa Marta","na2":"VICTORIA"}
+,{"codigo":"0909","nam":"Villa Dolores","na2":"VILLA DOLORES"}
+,{"codigo":"090900","nam":"Area Urbana","na2":"DOLORES"}
+,{"codigo":"090901","nam":"Cañafistula","na2":"DOLORES"}
+,{"codigo":"090902","nam":"Curaren","na2":"DOLORES"}
+,{"codigo":"090903","nam":"Chapelcoro","na2":"DOLORES"}
+,{"codigo":"090904","nam":"El Rincón","na2":"DOLORES"}
+,{"codigo":"090905","nam":"Niqueresque","na2":"DOLORES"}
+,{"codigo":"090906","nam":"San Carlos","na2":"DOLORES"}
+,{"codigo":"10","nam":"San Vicente","na2":"SAN VICENTE"}
+,{"codigo":"1001","nam":"Apastepeque","na2":"APASTEPEQUE"}
+,{"codigo":"100100","nam":"Area Urbana","na2":"APASTEPEQUE"}
+,{"codigo":"100101","nam":"Calderas","na2":"APASTEPEQUE"}
+,{"codigo":"100102","nam":"Cutumayo","na2":"APASTEPEQUE"}
+,{"codigo":"100103","nam":"El Guayabo","na2":"APASTEPEQUE"}
+,{"codigo":"100104","nam":"Las Minas","na2":"APASTEPEQUE"}
+,{"codigo":"100105","nam":"San Felipe","na2":"APASTEPEQUE"}
+,{"codigo":"100106","nam":"San Jacinto","na2":"APASTEPEQUE"}
+,{"codigo":"100107","nam":"San José Los Almendros","na2":"APASTEPEQUE"}
+,{"codigo":"100108","nam":"San Juan De Merino","na2":"APASTEPEQUE"}
+,{"codigo":"100109","nam":"San Nicolás","na2":"APASTEPEQUE"}
+,{"codigo":"100110","nam":"San Pedro","na2":"APASTEPEQUE"}
+,{"codigo":"1002","nam":"Guadalupe","na2":"GUADALUPE"}
+,{"codigo":"100200","nam":"Area Urbana","na2":"GUADALUPE"}
+,{"codigo":"100201","nam":"Joya De Munguía","na2":"GUADALUPE"}
+,{"codigo":"100202","nam":"San Antonio Los Ranchos","na2":"GUADALUPE"}
+,{"codigo":"100203","nam":"San Benito","na2":"GUADALUPE"}
+,{"codigo":"100204","nam":"San Emigdio El Tablón","na2":"GUADALUPE"}
+,{"codigo":"100205","nam":"San Francisco Agua Agria","na2":"GUADALUPE"}
+,{"codigo":"100206","nam":"San José Carbonera","na2":"GUADALUPE"}
+,{"codigo":"1003","nam":"San Cayetano Istepeque","na2":"SAN CAYETANO ISTEPEQUE"}
+,{"codigo":"100300","nam":"Area Urbana","na2":"SAN CAYETANO ISTEPEQUE"}
+,{"codigo":"100301","nam":"Candelaria","na2":"SAN CAYETANO ISTEPEQUE"}
+,{"codigo":"100302","nam":"Cerro Grande","na2":"SAN CAYETANO ISTEPEQUE"}
+,{"codigo":"1004","nam":"Santa Clara","na2":"SANTA CLARA"}
+,{"codigo":"100400","nam":"Area Urbana","na2":"SANTA CLARA"}
+,{"codigo":"100401","nam":"Agua Helada","na2":"SANTA CLARA"}
+,{"codigo":"100402","nam":"El Tortuguero","na2":"SANTA CLARA"}
+,{"codigo":"100403","nam":"El Rosario","na2":"SANTA CLARA"}
+,{"codigo":"100404","nam":"San Jerónimo","na2":"SANTA CLARA"}
+,{"codigo":"100405","nam":"San Juan De Merino","na2":"SANTA CLARA"}
+,{"codigo":"100406","nam":"Santa Rosa","na2":"SANTA CLARA"}
+,{"codigo":"1005","nam":"Santo Domingo","na2":"SANTO DOMINGO"}
+,{"codigo":"100500","nam":"Area Urbana","na2":"SANTO DOMINGO"}
+,{"codigo":"100501","nam":"El Refugio","na2":"SANTO DOMINGO"}
+,{"codigo":"100502","nam":"Izcanales","na2":"SANTO DOMINGO"}
+,{"codigo":"100503","nam":"Los Rodríguez","na2":"SANTO DOMINGO"}
+,{"codigo":"100504","nam":"Talpetates","na2":"SANTO DOMINGO"}
+,{"codigo":"1006","nam":"San Esteban Catarina","na2":"SAN ESTEBAN CATARINA"}
+,{"codigo":"100600","nam":"Area Urbana","na2":"SAN ESTEBAN CATARINA"}
+,{"codigo":"100601","nam":"Amatitán Abajo","na2":"SAN ESTEBAN CATARINA"}
+,{"codigo":"100602","nam":"Amatitán Arriba","na2":"SAN ESTEBAN CATARINA"}
+,{"codigo":"100603","nam":"Cerro De San Pedro","na2":"SAN ESTEBAN CATARINA"}
+,{"codigo":"100604","nam":"San Esteban","na2":"SAN ESTEBAN CATARINA"}
+,{"codigo":"100605","nam":"San Ildefonso","na2":"SAN ESTEBAN CATARINA"}
+,{"codigo":"100606","nam":"San Jacinto La Burrera","na2":"SAN ESTEBAN CATARINA"}
+,{"codigo":"100607","nam":"Santa Catarina","na2":"SAN ESTEBAN CATARINA"}
+,{"codigo":"1007","nam":"San Ildefonso","na2":"SAN ILDEFONSO"}
+,{"codigo":"100700","nam":"Area Urbana","na2":"SAN ILDEFONSO"}
+,{"codigo":"100701","nam":"Candelaria Lempa","na2":"SAN ILDEFONSO"}
+,{"codigo":"100702","nam":"Guachipilín","na2":"SAN ILDEFONSO"}
+,{"codigo":"100703","nam":"Lajas y Canoas","na2":"SAN ILDEFONSO"}
+,{"codigo":"100704","nam":"San Francisco","na2":"SAN ILDEFONSO"}
+,{"codigo":"100705","nam":"San Lorenzo","na2":"SAN ILDEFONSO"}
+,{"codigo":"100706","nam":"San Pablo Cañales","na2":"SAN ILDEFONSO"}
+,{"codigo":"1008","nam":"San Lorenzo","na2":"SAN LORENZO"}
+,{"codigo":"100800","nam":"Area Urbana","na2":"SAN LORENZO"}
+,{"codigo":"100801","nam":"La Cruz","na2":"SAN LORENZO"}
+,{"codigo":"100802","nam":"Las Animas","na2":"SAN LORENZO"}
+,{"codigo":"100803","nam":"San Francisco","na2":"SAN LORENZO"}
+,{"codigo":"100804","nam":"Santa Lucía","na2":"SAN LORENZO"}
+,{"codigo":"1009","nam":"San Sebastián","na2":"SAN SEBASTIÁN"}
+,{"codigo":"100900","nam":"Area Urbana","na2":"SAN SEBASTIÁN"}
+,{"codigo":"100901","nam":"El Paraiso","na2":"SAN SEBASTIÁN"}
+,{"codigo":"100902","nam":"El Porvenir Aguacayo","na2":"SAN SEBASTIÁN"}
+,{"codigo":"100903","nam":"La Esperanza","na2":"SAN SEBASTIÁN"}
+,{"codigo":"100904","nam":"Las Rosas","na2":"SAN SEBASTIÁN"}
+,{"codigo":"100905","nam":"Los Laureles","na2":"SAN SEBASTIÁN"}
+,{"codigo":"100906","nam":"San Francisco","na2":"SAN SEBASTIÁN"}
+,{"codigo":"100907","nam":"La Labor","na2":"SAN SEBASTIÁN"}
+,{"codigo":"100908","nam":"Santa Elena","na2":"SAN SEBASTIÁN"}
+,{"codigo":"100909","nam":"Santa Teresa","na2":"SAN SEBASTIÁN"}
+,{"codigo":"100910","nam":"Santa Cruz","na2":"SAN SEBASTIÁN"}
+,{"codigo":"1010","nam":"San Vicente","na2":"SAN VICENTE"}
+,{"codigo":"101000","nam":"Area Urbana","na2":"SAN VICENTE"}
+,{"codigo":"101001","nam":"Anton Flores","na2":"SAN VICENTE"}
+,{"codigo":"101002","nam":"Chucuyo","na2":"SAN VICENTE"}
+,{"codigo":"101003","nam":"Dos Quebradas","na2":"SAN VICENTE"}
+,{"codigo":"101004","nam":"El Caracol","na2":"SAN VICENTE"}
+,{"codigo":"101005","nam":"El Marquezado","na2":"SAN VICENTE"}
+,{"codigo":"101006","nam":"El Obrajuelo Lempa","na2":"SAN VICENTE"}
+,{"codigo":"101007","nam":"El Rebelde","na2":"SAN VICENTE"}
+,{"codigo":"101009","nam":"La Soledad","na2":"SAN VICENTE"}
+,{"codigo":"101010","nam":"León De Piedra","na2":"SAN VICENTE"}
+,{"codigo":"101011","nam":"Llanos De Achichilco","na2":"SAN VICENTE"}
+,{"codigo":"101012","nam":"Los Laureles","na2":"SAN VICENTE"}
+,{"codigo":"101013","nam":"Los Pozos","na2":"SAN VICENTE"}
+,{"codigo":"101014","nam":"Parras Lempa","na2":"SAN VICENTE"}
+,{"codigo":"101015","nam":"San Antonio Achichilquito","na2":"SAN VICENTE"}
+,{"codigo":"101016","nam":"San Antonio Caminos","na2":"SAN VICENTE"}
+,{"codigo":"101017","nam":"San Antonio Tras El Cerro","na2":"SAN VICENTE"}
+,{"codigo":"101018","nam":"San Bartolo Ichanmico","na2":"SAN VICENTE"}
+,{"codigo":"101019","nam":"San Diego","na2":"SAN VICENTE"}
+,{"codigo":"101020","nam":"San Francisco Chamoco","na2":"SAN VICENTE"}
+,{"codigo":"101021","nam":"San Jacinto","na2":"SAN VICENTE"}
+,{"codigo":"101022","nam":"San José Río Frío","na2":"SAN VICENTE"}
+,{"codigo":"101023","nam":"San Juan Buena Vista","na2":"SAN VICENTE"}
+,{"codigo":"101024","nam":"San Rafael San Diego","na2":"SAN VICENTE"}
+,{"codigo":"101025","nam":"Santa Gertrudis","na2":"SAN VICENTE"}
+,{"codigo":"101026","nam":"Volcán Opico","na2":"SAN VICENTE"}
+,{"codigo":"1011","nam":"Tecoluca","na2":"TECOLUCA"}
+,{"codigo":"101100","nam":"Area Urbana","na2":"TECOLUCA"}
+,{"codigo":"101101","nam":"Barrio Nuevo","na2":"TECOLUCA"}
+,{"codigo":"101102","nam":"El Arco","na2":"TECOLUCA"}
+,{"codigo":"101103","nam":"El Campanario","na2":"TECOLUCA"}
+,{"codigo":"101104","nam":"El Carao","na2":"TECOLUCA"}
+,{"codigo":"101105","nam":"El Coyolito","na2":"TECOLUCA"}
+,{"codigo":"101106","nam":"El Pacun","na2":"TECOLUCA"}
+,{"codigo":"101107","nam":"El Palomar","na2":"TECOLUCA"}
+,{"codigo":"101108","nam":"El Perical","na2":"TECOLUCA"}
+,{"codigo":"101109","nam":"El Puente","na2":"TECOLUCA"}
+,{"codigo":"101110","nam":"El Socorro","na2":"TECOLUCA"}
+,{"codigo":"101111","nam":"La Esperanza","na2":"TECOLUCA"}
+,{"codigo":"101112","nam":"Las Anonas","na2":"TECOLUCA"}
+,{"codigo":"101113","nam":"Las Mesas","na2":"TECOLUCA"}
+,{"codigo":"101114","nam":"San Andrés Los Achiotes","na2":"TECOLUCA"}
+,{"codigo":"101115","nam":"San Benito","na2":"TECOLUCA"}
+,{"codigo":"101116","nam":"San Carlos","na2":"TECOLUCA"}
+,{"codigo":"101117","nam":"San Fernando","na2":"TECOLUCA"}
+,{"codigo":"101118","nam":"San Francisco Angulo","na2":"TECOLUCA"}
+,{"codigo":"101119","nam":"San José Llano Grande","na2":"TECOLUCA"}
+,{"codigo":"101120","nam":"San Nicolás Lempa","na2":"TECOLUCA"}
+,{"codigo":"101121","nam":"San Ramón Grifal","na2":"TECOLUCA"}
+,{"codigo":"101122","nam":"Santa  Cruz Porrillo","na2":"TECOLUCA"}
+,{"codigo":"101123","nam":"Santa Bárbara","na2":"TECOLUCA"}
+,{"codigo":"101124","nam":"Santa Cruz Paraiso","na2":"TECOLUCA"}
+,{"codigo":"101125","nam":"San Jacinto","na2":"TECOLUCA"}
+,{"codigo":"1012","nam":"Tepetitán","na2":"TEPETITÁN"}
+,{"codigo":"101200","nam":"Area Urbana","na2":"TEPETITÁN"}
+,{"codigo":"101201","nam":"Concepción De Cañas","na2":"TEPETITÁN"}
+,{"codigo":"101202","nam":"La Virgen","na2":"TEPETITÁN"}
+,{"codigo":"101203","nam":"Loma Alta","na2":"TEPETITÁN"}
+,{"codigo":"1013","nam":"Verapaz","na2":"VERAPAZ"}
+,{"codigo":"101300","nam":"Area Urbana","na2":"VERAPAZ"}
+,{"codigo":"101301","nam":"El Carmen","na2":"VERAPAZ"}
+,{"codigo":"101302","nam":"Molineros","na2":"VERAPAZ"}
+,{"codigo":"101303","nam":"San Antonio Jiboa","na2":"VERAPAZ"}
+,{"codigo":"101304","nam":"San Isidro","na2":"VERAPAZ"}
+,{"codigo":"101305","nam":"San Jerónimo Limon","na2":"VERAPAZ"}
+,{"codigo":"101306","nam":"San José Borja","na2":"VERAPAZ"}
+,{"codigo":"101307","nam":"San Juan Buena Vista","na2":"VERAPAZ"}
+,{"codigo":"101308","nam":"San Pedro Agua Caliente","na2":"VERAPAZ"}
+,{"codigo":"11","nam":"Usulután","na2":"USULUTÁN"}
+,{"codigo":"1101","nam":"Alegría","na2":"ALEGRÍA"}
+,{"codigo":"110100","nam":"Area Urbana","na2":"ALEGRÍA"}
+,{"codigo":"110101","nam":"Apastepeque","na2":"ALEGRÍA"}
+,{"codigo":"110102","nam":"El Quebacho","na2":"ALEGRÍA"}
+,{"codigo":"110103","nam":"La Peña","na2":"ALEGRÍA"}
+,{"codigo":"110104","nam":"Las Casitas","na2":"ALEGRÍA"}
+,{"codigo":"110105","nam":"San José La Montañita","na2":"ALEGRÍA"}
+,{"codigo":"110106","nam":"San Juan","na2":"ALEGRÍA"}
+,{"codigo":"110107","nam":"Yomo","na2":"ALEGRÍA"}
+,{"codigo":"110108","nam":"Zapotillo","na2":"ALEGRÍA"}
+,{"codigo":"1102","nam":"Berlín","na2":"BERLÍN"}
+,{"codigo":"110200","nam":"Area Urbana","na2":"BERLÍN"}
+,{"codigo":"110201","nam":"Colon","na2":"BERLÍN"}
+,{"codigo":"110202","nam":"Concepción","na2":"BERLÍN"}
+,{"codigo":"110203","nam":"El Corozal","na2":"BERLÍN"}
+,{"codigo":"110204","nam":"El Tablón","na2":"BERLÍN"}
+,{"codigo":"110205","nam":"La Unión","na2":"BERLÍN"}
+,{"codigo":"110206","nam":"Las Delicias","na2":"BERLÍN"}
+,{"codigo":"110207","nam":"Las Piletas","na2":"BERLÍN"}
+,{"codigo":"110208","nam":"Los Talpetates","na2":"BERLÍN"}
+,{"codigo":"110209","nam":"San Felipe","na2":"BERLÍN"}
+,{"codigo":"110210","nam":"San Francisco","na2":"BERLÍN"}
+,{"codigo":"110211","nam":"San Isidro","na2":"BERLÍN"}
+,{"codigo":"110212","nam":"San José","na2":"BERLÍN"}
+,{"codigo":"110213","nam":"San Juan Loma Alta","na2":"BERLÍN"}
+,{"codigo":"110214","nam":"San Lorenzo","na2":"BERLÍN"}
+,{"codigo":"110215","nam":"Santa Cruz","na2":"BERLÍN"}
+,{"codigo":"110216","nam":"Virginia","na2":"BERLÍN"}
+,{"codigo":"1103","nam":"California","na2":"CALIFORNIA"}
+,{"codigo":"110300","nam":"Area Urbana","na2":"CALIFORNIA"}
+,{"codigo":"110301","nam":"El Pozón","na2":"CALIFORNIA"}
+,{"codigo":"110302","nam":"El Tigre","na2":"CALIFORNIA"}
+,{"codigo":"110303","nam":"El Volcán","na2":"CALIFORNIA"}
+,{"codigo":"110304","nam":"El Nísperal","na2":"CALIFORNIA"}
+,{"codigo":"1104","nam":"Concepción Batres","na2":"CONCEPCIÓN BATRES"}
+,{"codigo":"110400","nam":"Area Urbana","na2":"CONCEPCIÓN BATRES"}
+,{"codigo":"110401","nam":"El Cañal","na2":"CONCEPCIÓN BATRES"}
+,{"codigo":"110402","nam":"El Paraisal","na2":"CONCEPCIÓN BATRES"}
+,{"codigo":"110403","nam":"El Porvenir","na2":"CONCEPCIÓN BATRES"}
+,{"codigo":"110404","nam":"Hacienda Nueva","na2":"CONCEPCIÓN BATRES"}
+,{"codigo":"110405","nam":"La Anchila","na2":"CONCEPCIÓN BATRES"}
+,{"codigo":"110406","nam":"La Danta","na2":"CONCEPCIÓN BATRES"}
+,{"codigo":"110407","nam":"San Felipe","na2":"CONCEPCIÓN BATRES"}
+,{"codigo":"110408","nam":"San Ildefonso","na2":"CONCEPCIÓN BATRES"}
+,{"codigo":"110409","nam":"San Antonio","na2":"CONCEPCIÓN BATRES"}
+,{"codigo":"110410","nam":"Los Desmontes","na2":"CONCEPCIÓN BATRES"}
+,{"codigo":"1105","nam":"El Triunfo","na2":"EL TRIUNFO"}
+,{"codigo":"110500","nam":"Area Urbana","na2":"EL TRIUNFO"}
+,{"codigo":"110501","nam":"El Jícarito","na2":"EL TRIUNFO"}
+,{"codigo":"110502","nam":"El Palón","na2":"EL TRIUNFO"}
+,{"codigo":"110503","nam":"La Palmera","na2":"EL TRIUNFO"}
+,{"codigo":"110504","nam":"San Antonio","na2":"EL TRIUNFO"}
+,{"codigo":"1106","nam":"Ereguayquín","na2":"EREGUAYQUÍN"}
+,{"codigo":"110600","nam":"Area Urbana","na2":"EREGUAYQUÍN"}
+,{"codigo":"110601","nam":"Analco","na2":"EREGUAYQUÍN"}
+,{"codigo":"110602","nam":"El Maculis","na2":"EREGUAYQUÍN"}
+,{"codigo":"110603","nam":"La Ceiba","na2":"EREGUAYQUÍN"}
+,{"codigo":"110604","nam":"Los Encuentros","na2":"EREGUAYQUÍN"}
+,{"codigo":"110605","nam":"Piedra Ancha","na2":"EREGUAYQUÍN"}
+,{"codigo":"1107","nam":"Estanzuelas","na2":"ESTANZUELAS"}
+,{"codigo":"110700","nam":"Area Urbana","na2":"ESTANZUELAS"}
+,{"codigo":"110701","nam":"Condadillo","na2":"ESTANZUELAS"}
+,{"codigo":"110702","nam":"El Caragual","na2":"ESTANZUELAS"}
+,{"codigo":"110703","nam":"El Escarbadero","na2":"ESTANZUELAS"}
+,{"codigo":"110704","nam":"El Ojushte","na2":"ESTANZUELAS"}
+,{"codigo":"110705","nam":"El Tecomatal","na2":"ESTANZUELAS"}
+,{"codigo":"110706","nam":"La Cruz","na2":"ESTANZUELAS"}
+,{"codigo":"110708","nam":"San Pedro","na2":"ESTANZUELAS"}
+,{"codigo":"110709","nam":"Sitio San Antonio","na2":"ESTANZUELAS"}
+,{"codigo":"1108","nam":"Jiquilisco","na2":"JIQUILISCO"}
+,{"codigo":"110800","nam":"Area Urbana","na2":"JIQUILISCO"}
+,{"codigo":"110801","nam":"Aguacayo","na2":"JIQUILISCO"}
+,{"codigo":"110802","nam":"Bolívar","na2":"JIQUILISCO"}
+,{"codigo":"110803","nam":"Cabos Negros","na2":"JIQUILISCO"}
+,{"codigo":"110804","nam":"California","na2":"JIQUILISCO"}
+,{"codigo":"110805","nam":"Ceiba Gacha","na2":"JIQUILISCO"}
+,{"codigo":"110806","nam":"El Carmen","na2":"JIQUILISCO"}
+,{"codigo":"110807","nam":"Elcarrizal","na2":"JIQUILISCO"}
+,{"codigo":"110808","nam":"El Castaño","na2":"JIQUILISCO"}
+,{"codigo":"110809","nam":"El Coyolito","na2":"JIQUILISCO"}
+,{"codigo":"110810","nam":"El Marillo","na2":"JIQUILISCO"}
+,{"codigo":"110811","nam":"El Paraiso","na2":"JIQUILISCO"}
+,{"codigo":"110812","nam":"El Roquinte","na2":"JIQUILISCO"}
+,{"codigo":"110813","nam":"Hule Chacho","na2":"JIQUILISCO"}
+,{"codigo":"110814","nam":"Isla De Méndez","na2":"JIQUILISCO"}
+,{"codigo":"110815","nam":"La Canoa","na2":"JIQUILISCO"}
+,{"codigo":"110816","nam":"La Concordia","na2":"JIQUILISCO"}
+,{"codigo":"110817","nam":"La Cruzadilla De San Juan","na2":"JIQUILISCO"}
+,{"codigo":"110818","nam":"La Montaña","na2":"JIQUILISCO"}
+,{"codigo":"110819","nam":"La Nuria","na2":"JIQUILISCO"}
+,{"codigo":"110820","nam":"La Tirana","na2":"JIQUILISCO"}
+,{"codigo":"110821","nam":"Las Delicias","na2":"JIQUILISCO"}
+,{"codigo":"110822","nam":"Las Flores","na2":"JIQUILISCO"}
+,{"codigo":"110823","nam":"Las Mesitas","na2":"JIQUILISCO"}
+,{"codigo":"110824","nam":"Los Campos","na2":"JIQUILISCO"}
+,{"codigo":"110825","nam":"Los Limones","na2":"JIQUILISCO"}
+,{"codigo":"110826","nam":"Los Tres Chorros","na2":"JIQUILISCO"}
+,{"codigo":"110827","nam":"Los Planes","na2":"JIQUILISCO"}
+,{"codigo":"110828","nam":"Puertos Los Avalos","na2":"JIQUILISCO"}
+,{"codigo":"110829","nam":"Salinas El Potrero","na2":"JIQUILISCO"}
+,{"codigo":"110830","nam":"Salinas De Sisiguayo","na2":"JIQUILISCO"}
+,{"codigo":"110831","nam":"San Antonio Potrerillos","na2":"JIQUILISCO"}
+,{"codigo":"110832","nam":"San José O La Carrera","na2":"JIQUILISCO"}
+,{"codigo":"110833","nam":"San Juan De Letrán","na2":"JIQUILISCO"}
+,{"codigo":"110834","nam":"San Juan Del Gozo","na2":"JIQUILISCO"}
+,{"codigo":"110835","nam":"San Judas","na2":"JIQUILISCO"}
+,{"codigo":"110836","nam":"San Marcos Lempa","na2":"JIQUILISCO"}
+,{"codigo":"110837","nam":"San Pedro","na2":"JIQUILISCO"}
+,{"codigo":"110838","nam":"Taburete Jagual","na2":"JIQUILISCO"}
+,{"codigo":"110839","nam":"Taburete Los Claros","na2":"JIQUILISCO"}
+,{"codigo":"110840","nam":"Tierra Blanca O Nueva Esperanza","na2":"JIQUILISCO"}
+,{"codigo":"110841","nam":"Zamorán","na2":"JIQUILISCO"}
+,{"codigo":"1109","nam":"Jucuapa","na2":"JUCUAPA"}
+,{"codigo":"110900","nam":"Area Urbana","na2":"JUCUAPA"}
+,{"codigo":"110901","nam":"El Amatón","na2":"JUCUAPA"}
+,{"codigo":"110902","nam":"El Chagüite","na2":"JUCUAPA"}
+,{"codigo":"110903","nam":"El Níspero","na2":"JUCUAPA"}
+,{"codigo":"110904","nam":"Llano El Chilamate","na2":"JUCUAPA"}
+,{"codigo":"110905","nam":"Llano Grande De Las Piedras","na2":"JUCUAPA"}
+,{"codigo":"110906","nam":"Loma De La Cruz","na2":"JUCUAPA"}
+,{"codigo":"110908","nam":"Tapesquillo Bajo","na2":"JUCUAPA"}
+,{"codigo":"110909","nam":"Tapesquillo Alto","na2":"JUCUAPA"}
+,{"codigo":"1110","nam":"Jucuarán","na2":"JUCUARÁN"}
+,{"codigo":"111000","nam":"Area Urbana","na2":"JUCUARÁN"}
+,{"codigo":"111001","nam":"El Jícaro","na2":"JUCUARÁN"}
+,{"codigo":"111002","nam":"El Jutal","na2":"JUCUARÁN"}
+,{"codigo":"111003","nam":"El Progreso","na2":"JUCUARÁN"}
+,{"codigo":"111004","nam":"El Llano","na2":"JUCUARÁN"}
+,{"codigo":"111005","nam":"El Zapote","na2":"JUCUARÁN"}
+,{"codigo":"111006","nam":"La Cruz","na2":"JUCUARÁN"}
+,{"codigo":"111007","nam":"Samuria","na2":"JUCUARÁN"}
+,{"codigo":"1111","nam":"Mercedes Umaña","na2":"MERCEDES UMAÑA"}
+,{"codigo":"111100","nam":"Area Urbana","na2":"MERCEDES UMAÑA"}
+,{"codigo":"111101","nam":"El Caulote","na2":"MERCEDES UMAÑA"}
+,{"codigo":"111102","nam":"El Jícaro","na2":"MERCEDES UMAÑA"}
+,{"codigo":"111103","nam":"El Jocotillo","na2":"MERCEDES UMAÑA"}
+,{"codigo":"111104","nam":"La Montañita","na2":"MERCEDES UMAÑA"}
+,{"codigo":"111105","nam":"La Puerta","na2":"MERCEDES UMAÑA"}
+,{"codigo":"111106","nam":"Los Horcones","na2":"MERCEDES UMAÑA"}
+,{"codigo":"111107","nam":"Los Talnetes","na2":"MERCEDES UMAÑA"}
+,{"codigo":"111108","nam":"San Benito","na2":"MERCEDES UMAÑA"}
+,{"codigo":"111109","nam":"Santa Anita","na2":"MERCEDES UMAÑA"}
+,{"codigo":"111110","nam":"El Caragual","na2":"MERCEDES UMAÑA"}
+,{"codigo":"1112","nam":"Nueva Granada","na2":"NUEVA GRANADA"}
+,{"codigo":"111200","nam":"Area Urbana","na2":"NUEVA GRANADA"}
+,{"codigo":"111201","nam":"Azacualpia De Gualcho","na2":"NUEVA GRANADA"}
+,{"codigo":"111202","nam":"Azacualpia De Joco","na2":"NUEVA GRANADA"}
+,{"codigo":"111203","nam":"El Amatillo","na2":"NUEVA GRANADA"}
+,{"codigo":"111204","nam":"Jocomontique","na2":"NUEVA GRANADA"}
+,{"codigo":"111205","nam":"La Isleta","na2":"NUEVA GRANADA"}
+,{"codigo":"111206","nam":"La Palomia","na2":"NUEVA GRANADA"}
+,{"codigo":"111207","nam":"Las Llaves","na2":"NUEVA GRANADA"}
+,{"codigo":"111208","nam":"Lepaz","na2":"NUEVA GRANADA"}
+,{"codigo":"111209","nam":"Nuevo Carrizal","na2":"NUEVA GRANADA"}
+,{"codigo":"111210","nam":"Potrero De Joco","na2":"NUEVA GRANADA"}
+,{"codigo":"111211","nam":"San José","na2":"NUEVA GRANADA"}
+,{"codigo":"1113","nam":"Ozatlán","na2":"OZATLÁN"}
+,{"codigo":"111300","nam":"Area Urbana","na2":"OZATLÁN"}
+,{"codigo":"111301","nam":"El Delirio","na2":"OZATLÁN"}
+,{"codigo":"111302","nam":"El Palmital","na2":"OZATLÁN"}
+,{"codigo":"111303","nam":"Joya Del Pilar","na2":"OZATLÁN"}
+,{"codigo":"111304","nam":"La Breña","na2":"OZATLÁN"}
+,{"codigo":"111305","nam":"La Poza","na2":"OZATLÁN"}
+,{"codigo":"111306","nam":"Las Trancas","na2":"OZATLÁN"}
+,{"codigo":"111307","nam":"San José O La Carrera","na2":"OZATLÁN"}
+,{"codigo":"111308","nam":"Paso De Gualache","na2":"OZATLÁN"}
+,{"codigo":"1114","nam":"Puerto El Triunfo","na2":"PUERTO EL TRIUNFO"}
+,{"codigo":"111400","nam":"Area Urbana","na2":"PUERTO EL TRIUNFO"}
+,{"codigo":"111401","nam":"Corral De Mulas","na2":"PUERTO EL TRIUNFO"}
+,{"codigo":"111402","nam":"El Espíritu Santo","na2":"PUERTO EL TRIUNFO"}
+,{"codigo":"111403","nam":"El Sitio Santa Lucía","na2":"PUERTO EL TRIUNFO"}
+,{"codigo":"111404","nam":"Madresal","na2":"PUERTO EL TRIUNFO"}
+,{"codigo":"111405","nam":"Chaguantique","na2":"PUERTO EL TRIUNFO"}
+,{"codigo":"111406","nam":"Ceiba Doblada","na2":"PUERTO EL TRIUNFO"}
+,{"codigo":"1115","nam":"San Agustín","na2":"SAN AGUSTÍN"}
+,{"codigo":"111500","nam":"Area Urbana","na2":"SAN AGUSTÍN"}
+,{"codigo":"111501","nam":"Buenos Aires","na2":"SAN AGUSTÍN"}
+,{"codigo":"111502","nam":"El Cedro","na2":"SAN AGUSTÍN"}
+,{"codigo":"111503","nam":"El Corozo","na2":"SAN AGUSTÍN"}
+,{"codigo":"111504","nam":"El Jícaro","na2":"SAN AGUSTÍN"}
+,{"codigo":"111505","nam":"El Jocote","na2":"SAN AGUSTÍN"}
+,{"codigo":"111506","nam":"Eucaliptos","na2":"SAN AGUSTÍN"}
+,{"codigo":"111507","nam":"Galingagua","na2":"SAN AGUSTÍN"}
+,{"codigo":"111508","nam":"Jobal Arrozales","na2":"SAN AGUSTÍN"}
+,{"codigo":"111509","nam":"La Ceiba","na2":"SAN AGUSTÍN"}
+,{"codigo":"111510","nam":"La Mora","na2":"SAN AGUSTÍN"}
+,{"codigo":"111511","nam":"La Quesera","na2":"SAN AGUSTÍN"}
+,{"codigo":"111512","nam":"Linares Caulotal","na2":"SAN AGUSTÍN"}
+,{"codigo":"111513","nam":"Los Arrozales","na2":"SAN AGUSTÍN"}
+,{"codigo":"111514","nam":"Los Planes","na2":"SAN AGUSTÍN"}
+,{"codigo":"111515","nam":"Nombre De Dios","na2":"SAN AGUSTÍN"}
+,{"codigo":"111516","nam":"Tres Calles","na2":"SAN AGUSTÍN"}
+,{"codigo":"111517","nam":"El Rodeo","na2":"SAN AGUSTÍN"}
+,{"codigo":"111518","nam":"Las Delicias","na2":"SAN AGUSTÍN"}
+,{"codigo":"1116","nam":"San Buena Ventura","na2":"SAN BUENA VENTURA"}
+,{"codigo":"111600","nam":"Area Urbana","na2":"SAN BUENAVENTURA"}
+,{"codigo":"111601","nam":"El Aceituno","na2":"SAN BUENAVENTURA"}
+,{"codigo":"111602","nam":"El Semillero","na2":"SAN BUENAVENTURA"}
+,{"codigo":"111603","nam":"La Caridad","na2":"SAN BUENAVENTURA"}
+,{"codigo":"111604","nam":"La Tronconada","na2":"SAN BUENAVENTURA"}
+,{"codigo":"111605","nam":"Las Charcas","na2":"SAN BUENAVENTURA"}
+,{"codigo":"111606","nam":"Los Espinos","na2":"SAN BUENAVENTURA"}
+,{"codigo":"111607","nam":"Llano El Chilamate","na2":"SAN BUENAVENTURA"}
+,{"codigo":"1117","nam":"San Dionisio","na2":"SAN DIONISIO"}
+,{"codigo":"111700","nam":"Area Urbana","na2":"SAN DIONISIO"}
+,{"codigo":"111701","nam":"Iglesia Vieja","na2":"SAN DIONISIO"}
+,{"codigo":"111702","nam":"Mundo Nuevo","na2":"SAN DIONISIO"}
+,{"codigo":"1118","nam":"Santa Elena","na2":"SANTA ELENA"}
+,{"codigo":"111800","nam":"Area Urbana","na2":"SANTA ELENA"}
+,{"codigo":"111801","nam":"El Nanzal","na2":"SANTA ELENA"}
+,{"codigo":"111802","nam":"El Nísperal","na2":"SANTA ELENA"}
+,{"codigo":"111803","nam":"El Rebalse","na2":"SANTA ELENA"}
+,{"codigo":"111804","nam":"El Volcán","na2":"SANTA ELENA"}
+,{"codigo":"111805","nam":"Joya Ancha Abajo","na2":"SANTA ELENA"}
+,{"codigo":"111806","nam":"Joya Ancha Arriba","na2":"SANTA ELENA"}
+,{"codigo":"111807","nam":"Las Cruces","na2":"SANTA ELENA"}
+,{"codigo":"111808","nam":"El Amate","na2":"SANTA ELENA"}
+,{"codigo":"111809","nam":"Piedra De Agua","na2":"SANTA ELENA"}
+,{"codigo":"111810","nam":"Plan Grande","na2":"SANTA ELENA"}
+,{"codigo":"1119","nam":"San Francisco Javier","na2":"SAN FRANCISCO JAVIER"}
+,{"codigo":"111900","nam":"Area Urbana","na2":"SAN FRANCISCO JAVIER"}
+,{"codigo":"111902","nam":"El Tablón","na2":"SAN FRANCISCO JAVIER"}
+,{"codigo":"111903","nam":"El Zungano","na2":"SAN FRANCISCO JAVIER"}
+,{"codigo":"111904","nam":"Jobal Hornos","na2":"SAN FRANCISCO JAVIER"}
+,{"codigo":"111905","nam":"La Cruz","na2":"SAN FRANCISCO JAVIER"}
+,{"codigo":"111906","nam":"La Peña","na2":"SAN FRANCISCO JAVIER"}
+,{"codigo":"111907","nam":"Los Horcones","na2":"SAN FRANCISCO JAVIER"}
+,{"codigo":"111908","nam":"Los Hornos","na2":"SAN FRANCISCO JAVIER"}
+,{"codigo":"111909","nam":"Los Ríos","na2":"SAN FRANCISCO JAVIER"}
+,{"codigo":"1120","nam":"Santa María","na2":"SANTA MARÍA"}
+,{"codigo":"112000","nam":"Area Urbana","na2":"SANTA MARÍA"}
+,{"codigo":"112001","nam":"Mejicapa","na2":"SANTA MARÍA"}
+,{"codigo":"112002","nam":"San Francisco","na2":"SANTA MARÍA"}
+,{"codigo":"112003","nam":"La Ceiba","na2":"SANTA MARÍA"}
+,{"codigo":"112004","nam":"El Obrajuelo","na2":"SANTA MARÍA"}
+,{"codigo":"1121","nam":"Santiago De María","na2":"SANTIAGO DE MARÍA"}
+,{"codigo":"112100","nam":"Area Urbana","na2":"SANTIAGO DE MARÍA"}
+,{"codigo":"112101","nam":"Batres","na2":"SANTIAGO DE MARÍA"}
+,{"codigo":"112102","nam":"El Marquezado","na2":"SANTIAGO DE MARÍA"}
+,{"codigo":"112103","nam":"El Tigre","na2":"SANTIAGO DE MARÍA"}
+,{"codigo":"112104","nam":"Las Flores","na2":"SANTIAGO DE MARÍA"}
+,{"codigo":"112105","nam":"Las Playitas","na2":"SANTIAGO DE MARÍA"}
+,{"codigo":"112106","nam":"Loma De Los González","na2":"SANTIAGO DE MARÍA"}
+,{"codigo":"112107","nam":"Llano Grande De Las Piedras","na2":"SANTIAGO DE MARÍA"}
+,{"codigo":"112108","nam":"Loma De La Cruz","na2":"SANTIAGO DE MARÍA"}
+,{"codigo":"1122","nam":"Tecapán","na2":"TECAPÁN"}
+,{"codigo":"112200","nam":"Area Urbana","na2":"TECAPÁN"}
+,{"codigo":"112201","nam":"Cerro Verde","na2":"TECAPÁN"}
+,{"codigo":"112202","nam":"El Jícaro","na2":"TECAPÁN"}
+,{"codigo":"112203","nam":"Paso De Gualache","na2":"TECAPÁN"}
+,{"codigo":"112204","nam":"Los Chapetones","na2":"TECAPÁN"}
+,{"codigo":"112205","nam":"Los Horcones","na2":"TECAPÁN"}
+,{"codigo":"1123","nam":"Usulután","na2":"USULUTÁN"}
+,{"codigo":"112300","nam":"Area Urbana","na2":"USULUTÁN"}
+,{"codigo":"112301","nam":"Capitán Lazo","na2":"USULUTÁN"}
+,{"codigo":"112302","nam":"El Cerrito","na2":"USULUTÁN"}
+,{"codigo":"112303","nam":"El Ojushte","na2":"USULUTÁN"}
+,{"codigo":"112304","nam":"El Trillo","na2":"USULUTÁN"}
+,{"codigo":"112305","nam":"La Joya De Tomasito","na2":"USULUTÁN"}
+,{"codigo":"112306","nam":"La Laguna","na2":"USULUTÁN"}
+,{"codigo":"112307","nam":"La Peña","na2":"USULUTÁN"}
+,{"codigo":"112308","nam":"La Presa","na2":"USULUTÁN"}
+,{"codigo":"112309","nam":"Las Salinas","na2":"USULUTÁN"}
+,{"codigo":"112310","nam":"Los Desmontes","na2":"USULUTÁN"}
+,{"codigo":"112311","nam":"Obrajuelo","na2":"USULUTÁN"}
+,{"codigo":"112312","nam":"Ojo De Agua","na2":"USULUTÁN"}
+,{"codigo":"112313","nam":"Palo Galán","na2":"USULUTÁN"}
+,{"codigo":"112314","nam":"Santa Bárbara","na2":"USULUTÁN"}
+,{"codigo":"112315","nam":"Talpetate","na2":"USULUTÁN"}
+,{"codigo":"112316","nam":"Las Trancas","na2":"USULUTÁN"}
+,{"codigo":"112317","nam":"San Francisco","na2":"USULUTÁN"}
+,{"codigo":"12","nam":"San Miguel","na2":"SAN MIGUEL"}
+,{"codigo":"1201","nam":"Carolina","na2":"CAROLINA"}
+,{"codigo":"120100","nam":"Area Urbana","na2":"CAROLINA"}
+,{"codigo":"120101","nam":"La Ceibita","na2":"CAROLINA"}
+,{"codigo":"120102","nam":"La Orilla","na2":"CAROLINA"}
+,{"codigo":"120103","nam":"Miracapa","na2":"CAROLINA"}
+,{"codigo":"120104","nam":"Rosas Nacaspilo","na2":"CAROLINA"}
+,{"codigo":"120105","nam":"Soledad Terrero","na2":"CAROLINA"}
+,{"codigo":"1202","nam":"Ciudad Barrios","na2":"CIUDAD BARRIOS"}
+,{"codigo":"120200","nam":"Area Urbana","na2":"CIUDAD BARRIOS"}
+,{"codigo":"120201","nam":"Belén","na2":"CIUDAD BARRIOS"}
+,{"codigo":"120202","nam":"Guanaste","na2":"CIUDAD BARRIOS"}
+,{"codigo":"120203","nam":"La Montañita","na2":"CIUDAD BARRIOS"}
+,{"codigo":"120204","nam":"Llano El Angel","na2":"CIUDAD BARRIOS"}
+,{"codigo":"120205","nam":"Nuevo Porvenir","na2":"CIUDAD BARRIOS"}
+,{"codigo":"120206","nam":"San Cristóbal","na2":"CIUDAD BARRIOS"}
+,{"codigo":"120207","nam":"San Juan","na2":"CIUDAD BARRIOS"}
+,{"codigo":"120208","nam":"San Luisito","na2":"CIUDAD BARRIOS"}
+,{"codigo":"120209","nam":"San Matías","na2":"CIUDAD BARRIOS"}
+,{"codigo":"120210","nam":"Teponahuaste","na2":"CIUDAD BARRIOS"}
+,{"codigo":"120211","nam":"Torrecilla","na2":"CIUDAD BARRIOS"}
+,{"codigo":"1203","nam":"Comacarán","na2":"COMACARÁN"}
+,{"codigo":"120300","nam":"Area Urbana","na2":"COMACARÁN"}
+,{"codigo":"120301","nam":"Candelaria","na2":"COMACARÁN"}
+,{"codigo":"120302","nam":"El Colorado","na2":"COMACARÁN"}
+,{"codigo":"120303","nam":"El Hormiguero","na2":"COMACARÁN"}
+,{"codigo":"120304","nam":"El Jícaral","na2":"COMACARÁN"}
+,{"codigo":"120305","nam":"Platanarillo","na2":"COMACARÁN"}
+,{"codigo":"1204","nam":"Chapeltique","na2":"CHAPELTIQUE"}
+,{"codigo":"120400","nam":"Area Urbana","na2":"CHAPELTIQUE"}
+,{"codigo":"120401","nam":"Cercas De Piedras","na2":"CHAPELTIQUE"}
+,{"codigo":"120402","nam":"Gualama","na2":"CHAPELTIQUE"}
+,{"codigo":"120403","nam":"La Trinidad","na2":"CHAPELTIQUE"}
+,{"codigo":"120404","nam":"Los Amates","na2":"CHAPELTIQUE"}
+,{"codigo":"120405","nam":"San Jerónimo","na2":"CHAPELTIQUE"}
+,{"codigo":"120406","nam":"San Pedro","na2":"CHAPELTIQUE"}
+,{"codigo":"1205","nam":"Chinameca","na2":"CHINAMECA"}
+,{"codigo":"120500","nam":"Area Urbana","na2":"CHINAMECA"}
+,{"codigo":"120501","nam":"Chambala","na2":"CHINAMECA"}
+,{"codigo":"120502","nam":"Copinol Primero","na2":"CHINAMECA"}
+,{"codigo":"120503","nam":"Copinol Segundo","na2":"CHINAMECA"}
+,{"codigo":"120504","nam":"El Boquerón","na2":"CHINAMECA"}
+,{"codigo":"120505","nam":"El Conacastal","na2":"CHINAMECA"}
+,{"codigo":"120506","nam":"El Jocote","na2":"CHINAMECA"}
+,{"codigo":"120507","nam":"Jocote Dulce","na2":"CHINAMECA"}
+,{"codigo":"120508","nam":"La Cruz Primera","na2":"CHINAMECA"}
+,{"codigo":"120509","nam":"La Cruz Segunda","na2":"CHINAMECA"}
+,{"codigo":"120510","nam":"La Peña","na2":"CHINAMECA"}
+,{"codigo":"120511","nam":"Las Marías","na2":"CHINAMECA"}
+,{"codigo":"120512","nam":"Las Mesas","na2":"CHINAMECA"}
+,{"codigo":"120513","nam":"Ojo De Agua","na2":"CHINAMECA"}
+,{"codigo":"120514","nam":"Oromontique","na2":"CHINAMECA"}
+,{"codigo":"120515","nam":"Planes Primero","na2":"CHINAMECA"}
+,{"codigo":"120516","nam":"Planes Tercero","na2":"CHINAMECA"}
+,{"codigo":"120517","nam":"San Antonio","na2":"CHINAMECA"}
+,{"codigo":"120518","nam":"San Pedro Arenales","na2":"CHINAMECA"}
+,{"codigo":"120519","nam":"Zaragoza","na2":"CHINAMECA"}
+,{"codigo":"1206","nam":"Chirilagua","na2":"CHIRILAGUA"}
+,{"codigo":"120600","nam":"Area Urbana","na2":"CHIRILAGUA"}
+,{"codigo":"120601","nam":"Chilanguera","na2":"CHIRILAGUA"}
+,{"codigo":"120602","nam":"El Capulín","na2":"CHIRILAGUA"}
+,{"codigo":"120603","nam":"Guadalupe","na2":"CHIRILAGUA"}
+,{"codigo":"120604","nam":"Hoja De Sal","na2":"CHIRILAGUA"}
+,{"codigo":"120605","nam":"La Estrechura","na2":"CHIRILAGUA"}
+,{"codigo":"120606","nam":"Nueva Concepción","na2":"CHIRILAGUA"}
+,{"codigo":"120607","nam":"San José Gualozo","na2":"CHIRILAGUA"}
+,{"codigo":"120608","nam":"San Pedro","na2":"CHIRILAGUA"}
+,{"codigo":"120609","nam":"Tierra Blanca","na2":"CHIRILAGUA"}
+,{"codigo":"120610","nam":"El Cuco","na2":"CHIRILAGUA"}
+,{"codigo":"1207","nam":"El Tránsito","na2":"EL TRÁNSITO"}
+,{"codigo":"120700","nam":"Area Urbana","na2":"EL TRÁNSITO"}
+,{"codigo":"120701","nam":"Calle Nueva","na2":"EL TRÁNSITO"}
+,{"codigo":"120702","nam":"Llano Del Coyol","na2":"EL TRÁNSITO"}
+,{"codigo":"120703","nam":"Moropala","na2":"EL TRÁNSITO"}
+,{"codigo":"120704","nam":"Primavera","na2":"EL TRÁNSITO"}
+,{"codigo":"120705","nam":"El Cañal","na2":"EL TRÁNSITO"}
+,{"codigo":"1208","nam":"Lolotique","na2":"LOLOTIQUE"}
+,{"codigo":"120800","nam":"Area Urbana","na2":"LOLOTIQUE"}
+,{"codigo":"120801","nam":"Amaya","na2":"LOLOTIQUE"}
+,{"codigo":"120802","nam":"Concepción","na2":"LOLOTIQUE"}
+,{"codigo":"120803","nam":"El Jícaro","na2":"LOLOTIQUE"}
+,{"codigo":"120804","nam":"El Nancito","na2":"LOLOTIQUE"}
+,{"codigo":"120805","nam":"El Palón","na2":"LOLOTIQUE"}
+,{"codigo":"120806","nam":"Las Ventas","na2":"LOLOTIQUE"}
+,{"codigo":"120807","nam":"San Francisco","na2":"LOLOTIQUE"}
+,{"codigo":"120808","nam":"Santa Bárbara","na2":"LOLOTIQUE"}
+,{"codigo":"120809","nam":"Valencia","na2":"LOLOTIQUE"}
+,{"codigo":"1209","nam":"Moncagua","na2":"MONCAGUA"}
+,{"codigo":"120900","nam":"Area Urbana","na2":"MONCAGUA"}
+,{"codigo":"120901","nam":"El Cerro","na2":"MONCAGUA"}
+,{"codigo":"120902","nam":"El Jobo","na2":"MONCAGUA"}
+,{"codigo":"120903","nam":"El Papalón","na2":"MONCAGUA"}
+,{"codigo":"120904","nam":"El Platanar","na2":"MONCAGUA"}
+,{"codigo":"120905","nam":"El Rodeo","na2":"MONCAGUA"}
+,{"codigo":"120906","nam":"La Estancia","na2":"MONCAGUA"}
+,{"codigo":"120907","nam":"La Fragua","na2":"MONCAGUA"}
+,{"codigo":"120908","nam":"Los Ejidos","na2":"MONCAGUA"}
+,{"codigo":"120909","nam":"Salamar","na2":"MONCAGUA"}
+,{"codigo":"120910","nam":"Santa Bárbara","na2":"MONCAGUA"}
+,{"codigo":"120911","nam":"Tongolona","na2":"MONCAGUA"}
+,{"codigo":"120912","nam":"Valle Alegre","na2":"MONCAGUA"}
+,{"codigo":"1210","nam":"Nueva Guadalupe","na2":"NUEVA GUADALUPE"}
+,{"codigo":"121000","nam":"Area Urbana","na2":"NUEVA GUADALUPE"}
+,{"codigo":"121001","nam":"Los Planes De San Sebastián","na2":"NUEVA GUADALUPE"}
+,{"codigo":"121002","nam":"Planes Primero","na2":"NUEVA GUADALUPE"}
+,{"codigo":"121003","nam":"Planes Segundo","na2":"NUEVA GUADALUPE"}
+,{"codigo":"121005","nam":"San Luis","na2":"NUEVA GUADALUPE"}
+,{"codigo":"1211","nam":"Nuevo Edén De San Juan","na2":"NUEVO EDÉN DE SAN JUAN"}
+,{"codigo":"121100","nam":"Area Urbana","na2":"NUEVO EDÉN DE SAN JUAN"}
+,{"codigo":"121101","nam":"Cucurucho","na2":"NUEVO EDÉN DE SAN JUAN"}
+,{"codigo":"121102","nam":"Jardín","na2":"NUEVO EDÉN DE SAN JUAN"}
+,{"codigo":"121103","nam":"Laureles","na2":"NUEVO EDÉN DE SAN JUAN"}
+,{"codigo":"121104","nam":"Montecillos","na2":"NUEVO EDÉN DE SAN JUAN"}
+,{"codigo":"121105","nam":"Ojeo","na2":"NUEVO EDÉN DE SAN JUAN"}
+,{"codigo":"121106","nam":"Queseras","na2":"NUEVO EDÉN DE SAN JUAN"}
+,{"codigo":"121107","nam":"San Sebastián","na2":"NUEVO EDÉN DE SAN JUAN"}
+,{"codigo":"1212","nam":"Quelepa","na2":"QUELEPA"}
+,{"codigo":"121200","nam":"Area Urbana","na2":"QUELEPA"}
+,{"codigo":"121201","nam":"El Obrajuelo","na2":"QUELEPA"}
+,{"codigo":"121202","nam":"El Tamboral","na2":"QUELEPA"}
+,{"codigo":"121203","nam":"San Antonio","na2":"QUELEPA"}
+,{"codigo":"121204","nam":"San José","na2":"QUELEPA"}
+,{"codigo":"1213","nam":"San Antonio","na2":"SAN ANTONIO"}
+,{"codigo":"121300","nam":"Area Urbana","na2":"SAN ANTONIO"}
+,{"codigo":"121301","nam":"San Diego","na2":"SAN ANTONIO"}
+,{"codigo":"121302","nam":"San Marcos","na2":"SAN ANTONIO"}
+,{"codigo":"1214","nam":"San Gerardo","na2":"SAN GERARDO"}
+,{"codigo":"121400","nam":"Area Urbana","na2":"SAN GERARDO"}
+,{"codigo":"121401","nam":"La Joya","na2":"SAN GERARDO"}
+,{"codigo":"121402","nam":"Laguna","na2":"SAN GERARDO"}
+,{"codigo":"121403","nam":"Quebracho","na2":"SAN GERARDO"}
+,{"codigo":"121404","nam":"San Jerónimo","na2":"SAN GERARDO"}
+,{"codigo":"1215","nam":"San Jorge","na2":"SAN JORGE"}
+,{"codigo":"121500","nam":"Area Urbana","na2":"SAN JORGE"}
+,{"codigo":"121501","nam":"Candelaria","na2":"SAN JORGE"}
+,{"codigo":"121502","nam":"Joya De Ventura","na2":"SAN JORGE"}
+,{"codigo":"121503","nam":"La Ceiba","na2":"SAN JORGE"}
+,{"codigo":"121504","nam":"La Morita","na2":"SAN JORGE"}
+,{"codigo":"121505","nam":"San Julián","na2":"SAN JORGE"}
+,{"codigo":"121506","nam":"Conacastal","na2":"SAN JORGE"}
+,{"codigo":"1216","nam":"San Luis De La Reina","na2":"SAN LUIS DE LA REINA"}
+,{"codigo":"121600","nam":"Area Urbana","na2":"SAN LUIS DE LA REINA"}
+,{"codigo":"121601","nam":"El Junquillo","na2":"SAN LUIS DE LA REINA"}
+,{"codigo":"121602","nam":"El Ostucal","na2":"SAN LUIS DE LA REINA"}
+,{"codigo":"121603","nam":"San Antonio","na2":"SAN LUIS DE LA REINA"}
+,{"codigo":"121604","nam":"San Juan","na2":"SAN LUIS DE LA REINA"}
+,{"codigo":"1217","nam":"San Miguel","na2":"SAN MIGUEL"}
+,{"codigo":"121700","nam":"Area Urbana","na2":"SAN MIGUEL"}
+,{"codigo":"121701","nam":"Altomiro","na2":"SAN MIGUEL"}
+,{"codigo":"121702","nam":"Anchico","na2":"SAN MIGUEL"}
+,{"codigo":"121703","nam":"Cerro Bonito","na2":"SAN MIGUEL"}
+,{"codigo":"121704","nam":"Concepción Corozal","na2":"SAN MIGUEL"}
+,{"codigo":"121705","nam":"El Amate","na2":"SAN MIGUEL"}
+,{"codigo":"121706","nam":"El Brazo","na2":"SAN MIGUEL"}
+,{"codigo":"121707","nam":"El Delirio","na2":"SAN MIGUEL"}
+,{"codigo":"121708","nam":"El Divisadero","na2":"SAN MIGUEL"}
+,{"codigo":"121709","nam":"El Havillal","na2":"SAN MIGUEL"}
+,{"codigo":"121710","nam":"El Jute","na2":"SAN MIGUEL"}
+,{"codigo":"121711","nam":"El Niño","na2":"SAN MIGUEL"}
+,{"codigo":"121712","nam":"El Papalón","na2":"SAN MIGUEL"}
+,{"codigo":"121713","nam":"El Progreso","na2":"SAN MIGUEL"}
+,{"codigo":"121714","nam":"El Sitio","na2":"SAN MIGUEL"}
+,{"codigo":"121715","nam":"El Tecomatal","na2":"SAN MIGUEL"}
+,{"codigo":"121716","nam":"El Volcán","na2":"SAN MIGUEL"}
+,{"codigo":"121717","nam":"Jalacatal","na2":"SAN MIGUEL"}
+,{"codigo":"121718","nam":"La Canoa","na2":"SAN MIGUEL"}
+,{"codigo":"121719","nam":"La Puerta","na2":"SAN MIGUEL"}
+,{"codigo":"121720","nam":"La Trinidad","na2":"SAN MIGUEL"}
+,{"codigo":"121721","nam":"Las Delicias","na2":"SAN MIGUEL"}
+,{"codigo":"121722","nam":"Las Lomitas","na2":"SAN MIGUEL"}
+,{"codigo":"121723","nam":"Mira Flores","na2":"SAN MIGUEL"}
+,{"codigo":"121724","nam":"Monte Grande","na2":"SAN MIGUEL"}
+,{"codigo":"121725","nam":"San Andrés","na2":"SAN MIGUEL"}
+,{"codigo":"121726","nam":"San Antonio Chávez","na2":"SAN MIGUEL"}
+,{"codigo":"121727","nam":"San Antonio Silva","na2":"SAN MIGUEL"}
+,{"codigo":"121728","nam":"San Carlos","na2":"SAN MIGUEL"}
+,{"codigo":"121729","nam":"San Jacinto","na2":"SAN MIGUEL"}
+,{"codigo":"121730","nam":"Santa Inés","na2":"SAN MIGUEL"}
+,{"codigo":"1218","nam":"San Rafael Oriente","na2":"SAN RAFAEL ORIENTE"}
+,{"codigo":"121800","nam":"Area Urbana","na2":"SAN RAFAEL ORIENTE"}
+,{"codigo":"121801","nam":"Los Zelaya","na2":"SAN RAFAEL ORIENTE"}
+,{"codigo":"121802","nam":"Piedra Azul","na2":"SAN RAFAEL ORIENTE"}
+,{"codigo":"121803","nam":"Rodeo De Pedron","na2":"SAN RAFAEL ORIENTE"}
+,{"codigo":"121804","nam":"Santa Clara","na2":"SAN RAFAEL ORIENTE"}
+,{"codigo":"1219","nam":"Sesori","na2":"SESORI"}
+,{"codigo":"121900","nam":"Area Urbana","na2":"SESORI"}
+,{"codigo":"121901","nam":"Charlaca","na2":"SESORI"}
+,{"codigo":"121902","nam":"El Espíritu Santo","na2":"SESORI"}
+,{"codigo":"121903","nam":"El Tablón","na2":"SESORI"}
+,{"codigo":"121904","nam":"Las Mesas","na2":"SESORI"}
+,{"codigo":"121905","nam":"Managuara","na2":"SESORI"}
+,{"codigo":"121906","nam":"Mazatepeque","na2":"SESORI"}
+,{"codigo":"121907","nam":"Minitas","na2":"SESORI"}
+,{"codigo":"121908","nam":"Petacones","na2":"SESORI"}
+,{"codigo":"121909","nam":"San Jacinto","na2":"SESORI"}
+,{"codigo":"121910","nam":"San Sebastián","na2":"SESORI"}
+,{"codigo":"121911","nam":"Santa Rosa","na2":"SESORI"}
+,{"codigo":"1220","nam":"Uluazapa","na2":"ULUAZAPA"}
+,{"codigo":"122000","nam":"Area Urbana","na2":"ULUAZAPA"}
+,{"codigo":"122001","nam":"Juan Yánez","na2":"ULUAZAPA"}
+,{"codigo":"122002","nam":"Los Pilones","na2":"ULUAZAPA"}
+,{"codigo":"122003","nam":"Río Vargas","na2":"ULUAZAPA"}
+,{"codigo":"13","nam":"Morazán","na2":"MORAZÁN"}
+,{"codigo":"1301","nam":"Arambala","na2":"ARAMBALA"}
+,{"codigo":"130100","nam":"Area Urbana","na2":"ARAMBALA"}
+,{"codigo":"130101","nam":"Pueblo Viejo","na2":"ARAMBALA"}
+,{"codigo":"130102","nam":"Tierra Colorada","na2":"ARAMBALA"}
+,{"codigo":"130103","nam":"El Carrizal","na2":"ARAMBALA"}
+,{"codigo":"1302","nam":"Cacaopera","na2":"CACAOPERA"}
+,{"codigo":"130200","nam":"Area Urbana","na2":"CACAOPERA"}
+,{"codigo":"130201","nam":"Agua Blanca","na2":"CACAOPERA"}
+,{"codigo":"130202","nam":"Calavera","na2":"CACAOPERA"}
+,{"codigo":"130203","nam":"Guachipilín","na2":"CACAOPERA"}
+,{"codigo":"130204","nam":"Junquillo","na2":"CACAOPERA"}
+,{"codigo":"130205","nam":"La Estancia","na2":"CACAOPERA"}
+,{"codigo":"130206","nam":"Ocotillo","na2":"CACAOPERA"}
+,{"codigo":"130207","nam":"Sunsulapa","na2":"CACAOPERA"}
+,{"codigo":"1303","nam":"Corinto","na2":"CORINTO"}
+,{"codigo":"130300","nam":"Area Urbana","na2":"CORINTO"}
+,{"codigo":"130301","nam":"Corralito","na2":"CORINTO"}
+,{"codigo":"130302","nam":"Hondable","na2":"CORINTO"}
+,{"codigo":"130303","nam":"La Laguna","na2":"CORINTO"}
+,{"codigo":"130304","nam":"San Felipe","na2":"CORINTO"}
+,{"codigo":"130305","nam":"Varilla Negra","na2":"CORINTO"}
+,{"codigo":"1304","nam":"Chilanga","na2":"CHILANGA"}
+,{"codigo":"130400","nam":"Area Urbana","na2":"CHILANGA"}
+,{"codigo":"130401","nam":"El Chaparral","na2":"CHILANGA"}
+,{"codigo":"130402","nam":"El Pedernal","na2":"CHILANGA"}
+,{"codigo":"130403","nam":"Joya Del Matazano","na2":"CHILANGA"}
+,{"codigo":"130404","nam":"Lajitas","na2":"CHILANGA"}
+,{"codigo":"130405","nam":"Piedra Parada","na2":"CHILANGA"}
+,{"codigo":"1305","nam":"Delicias De Concepción","na2":"DELICIAS DE CONCEPCIÓN"}
+,{"codigo":"130500","nam":"Area Urbana","na2":"DELICIAS DE CONCEPCIÓN"}
+,{"codigo":"130501","nam":"El Volcán","na2":"DELICIAS DE CONCEPCIÓN"}
+,{"codigo":"130502","nam":"La Cuchilla","na2":"DELICIAS DE CONCEPCIÓN"}
+,{"codigo":"1306","nam":"El Divisadero","na2":"EL DIVISADERO"}
+,{"codigo":"130600","nam":"Area Urbana","na2":"EL DIVISADERO"}
+,{"codigo":"130601","nam":"Llano De Santiago","na2":"EL DIVISADERO"}
+,{"codigo":"130602","nam":"Loma Larga","na2":"EL DIVISADERO"}
+,{"codigo":"130603","nam":"Loma Tendida","na2":"EL DIVISADERO"}
+,{"codigo":"130604","nam":"Nombre De Jesús","na2":"EL DIVISADERO"}
+,{"codigo":"130605","nam":"San Pedro Río Seco","na2":"EL DIVISADERO"}
+,{"codigo":"130606","nam":"Santa Anita","na2":"EL DIVISADERO"}
+,{"codigo":"130607","nam":"Villa Modelo","na2":"EL DIVISADERO"}
+,{"codigo":"1307","nam":"El Rosario","na2":"EL ROSARIO"}
+,{"codigo":"130700","nam":"Area Urbana","na2":"EL ROSARIO"}
+,{"codigo":"130701","nam":"La Laguna","na2":"EL ROSARIO"}
+,{"codigo":"130702","nam":"Ojo De Agua","na2":"EL ROSARIO"}
+,{"codigo":"1308","nam":"Gualococti","na2":"GUALOCOCTI"}
+,{"codigo":"130800","nam":"Area Urbana","na2":"GUALOCOCTI"}
+,{"codigo":"130801","nam":"La Joya","na2":"GUALOCOCTI"}
+,{"codigo":"130802","nam":"San Lucas","na2":"GUALOCOCTI"}
+,{"codigo":"1309","nam":"Guatajiaga","na2":"GUATAJIAGA"}
+,{"codigo":"130900","nam":"Area Urbana","na2":"GUATAJIAGUA"}
+,{"codigo":"130901","nam":"El Volcán","na2":"GUATAJIAGUA"}
+,{"codigo":"130902","nam":"Los Abelines","na2":"GUATAJIAGUA"}
+,{"codigo":"130903","nam":"Manguera","na2":"GUATAJIAGUA"}
+,{"codigo":"130904","nam":"Pajigua","na2":"GUATAJIAGUA"}
+,{"codigo":"130905","nam":"San Bartolo","na2":"GUATAJIAGUA"}
+,{"codigo":"130906","nam":"El Sirigual","na2":"GUATAJIAGUA"}
+,{"codigo":"1310","nam":"Joateca","na2":"JOATECA"}
+,{"codigo":"131000","nam":"Area Urbana","na2":"JOATECA"}
+,{"codigo":"131001","nam":"El Zapotal","na2":"JOATECA"}
+,{"codigo":"131002","nam":"Paturla","na2":"JOATECA"}
+,{"codigo":"131003","nam":"Volcancillo","na2":"JOATECA"}
+,{"codigo":"1311","nam":"Jocoaitique","na2":"JOCOAITIQUE"}
+,{"codigo":"131100","nam":"Area Urbana","na2":"JOCOAITIQUE"}
+,{"codigo":"131101","nam":"El Rodeo","na2":"JOCOAITIQUE"}
+,{"codigo":"131102","nam":"El Volcancillo","na2":"JOCOAITIQUE"}
+,{"codigo":"1312","nam":"Jocoro","na2":"JOCORO"}
+,{"codigo":"131200","nam":"Area Urbana","na2":"JOCORO"}
+,{"codigo":"131201","nam":"Flamenco","na2":"JOCORO"}
+,{"codigo":"131202","nam":"Guachipilín","na2":"JOCORO"}
+,{"codigo":"131203","nam":"Lagunetas","na2":"JOCORO"}
+,{"codigo":"131204","nam":"Las Marías","na2":"JOCORO"}
+,{"codigo":"131205","nam":"Los Laureles","na2":"JOCORO"}
+,{"codigo":"131206","nam":"San Felipe","na2":"JOCORO"}
+,{"codigo":"131207","nam":"San José","na2":"JOCORO"}
+,{"codigo":"131208","nam":"San Juan","na2":"JOCORO"}
+,{"codigo":"1313","nam":"Lolotiquillo","na2":"LOLOTIQUILLO"}
+,{"codigo":"131300","nam":"Area Urbana","na2":"LOLOTIQUILLO"}
+,{"codigo":"131301","nam":"Gualindo","na2":"LOLOTIQUILLO"}
+,{"codigo":"131302","nam":"La Manzanilla","na2":"LOLOTIQUILLO"}
+,{"codigo":"131303","nam":"Sunsulapa","na2":"LOLOTIQUILLO"}
+,{"codigo":"1314","nam":"Meanguera","na2":"MEANGUERA"}
+,{"codigo":"131400","nam":"Area Urbana","na2":"MEANGUERA"}
+,{"codigo":"131401","nam":"Cerro Pando","na2":"MEANGUERA"}
+,{"codigo":"131402","nam":"Guacamaya","na2":"MEANGUERA"}
+,{"codigo":"131403","nam":"La Joya","na2":"MEANGUERA"}
+,{"codigo":"131404","nam":"Soledad","na2":"MEANGUERA"}
+,{"codigo":"1315","nam":"Osicala","na2":"OSICALA"}
+,{"codigo":"131500","nam":"Area Urbana","na2":"OSICALA"}
+,{"codigo":"131501","nam":"Agua Zarca","na2":"OSICALA"}
+,{"codigo":"131502","nam":"Cerro Coyol","na2":"OSICALA"}
+,{"codigo":"131503","nam":"Huilihuiste","na2":"OSICALA"}
+,{"codigo":"131504","nam":"La Montaña","na2":"OSICALA"}
+,{"codigo":"131505","nam":"Llano Alegre","na2":"OSICALA"}
+,{"codigo":"1316","nam":"Perquín","na2":"PERQUÍN"}
+,{"codigo":"131600","nam":"Area Urbana","na2":"PERQUÍN"}
+,{"codigo":"131601","nam":"Casa Blanca","na2":"PERQUÍN"}
+,{"codigo":"131602","nam":"Pueblo Viejo","na2":"PERQUÍN"}
+,{"codigo":"131603","nam":"Sabanetas","na2":"PERQUÍN"}
+,{"codigo":"1317","nam":"San Carlos","na2":"SAN CARLOS"}
+,{"codigo":"131700","nam":"Area Urbana","na2":"SAN CARLOS"}
+,{"codigo":"131701","nam":"La Jagua","na2":"SAN CARLOS"}
+,{"codigo":"131702","nam":"San Diego","na2":"SAN CARLOS"}
+,{"codigo":"131703","nam":"San Marcos","na2":"SAN CARLOS"}
+,{"codigo":"131704","nam":"Valle Nuevo","na2":"SAN CARLOS"}
+,{"codigo":"1318","nam":"San Fernando","na2":"SAN FERNANDO"}
+,{"codigo":"131800","nam":"Area Urbana","na2":"SAN FERNANDO"}
+,{"codigo":"131801","nam":"Azacualpa","na2":"SAN FERNANDO"}
+,{"codigo":"131802","nam":"Cañaverales","na2":"SAN FERNANDO"}
+,{"codigo":"1319","nam":"San Francisco Gotera","na2":"SAN FRANCISCO GOTERA"}
+,{"codigo":"131900","nam":"Area Urbana","na2":"SAN FRANCISCO GOTERA"}
+,{"codigo":"131901","nam":"Cacahuatalejo","na2":"SAN FRANCISCO GOTERA"}
+,{"codigo":"131902","nam":"El Norte","na2":"SAN FRANCISCO GOTERA"}
+,{"codigo":"131903","nam":"El Rosario","na2":"SAN FRANCISCO GOTERA"}
+,{"codigo":"131904","nam":"El Triunfo","na2":"SAN FRANCISCO GOTERA"}
+,{"codigo":"131905","nam":"San Francisquito","na2":"SAN FRANCISCO GOTERA"}
+,{"codigo":"131906","nam":"San José","na2":"SAN FRANCISCO GOTERA"}
+,{"codigo":"1320","nam":"San Isidro","na2":"SAN ISIDRO"}
+,{"codigo":"132000","nam":"Area Urbana","na2":"SAN ISIDRO"}
+,{"codigo":"132001","nam":"El Rosario","na2":"SAN ISIDRO"}
+,{"codigo":"132002","nam":"Piedra Parada","na2":"SAN ISIDRO"}
+,{"codigo":"1321","nam":"San Simón","na2":"SAN SIMÓN"}
+,{"codigo":"132100","nam":"Area Urbana","na2":"SAN SIMÓN"}
+,{"codigo":"132101","nam":"El Carrizal","na2":"SAN SIMÓN"}
+,{"codigo":"132102","nam":"El Cerro","na2":"SAN SIMÓN"}
+,{"codigo":"132103","nam":"Las Quebradas","na2":"SAN SIMÓN"}
+,{"codigo":"132104","nam":"Potrero Adentro","na2":"SAN SIMÓN"}
+,{"codigo":"132105","nam":"Valle Grande","na2":"SAN SIMÓN"}
+,{"codigo":"1322","nam":"Sensembra","na2":"SENSEMBRA"}
+,{"codigo":"132200","nam":"Area Urbana","na2":"SENSEMBRA"}
+,{"codigo":"132201","nam":"El Limon","na2":"SENSEMBRA"}
+,{"codigo":"132202","nam":"El Rodeo","na2":"SENSEMBRA"}
+,{"codigo":"132203","nam":"Loma Del Chile","na2":"SENSEMBRA"}
+,{"codigo":"1323","nam":"Sociedad","na2":"SOCIEDAD"}
+,{"codigo":"132300","nam":"Area Urbana","na2":"SOCIEDAD"}
+,{"codigo":"132301","nam":"Animas","na2":"SOCIEDAD"}
+,{"codigo":"132302","nam":"Candelaria","na2":"SOCIEDAD"}
+,{"codigo":"132303","nam":"Calpules","na2":"SOCIEDAD"}
+,{"codigo":"132304","nam":"El Bejucal","na2":"SOCIEDAD"}
+,{"codigo":"132305","nam":"El Peñón","na2":"SOCIEDAD"}
+,{"codigo":"132306","nam":"El Tablón","na2":"SOCIEDAD"}
+,{"codigo":"132307","nam":"La Joya","na2":"SOCIEDAD"}
+,{"codigo":"132308","nam":"Labranza","na2":"SOCIEDAD"}
+,{"codigo":"1324","nam":"Torola","na2":"TOROLA"}
+,{"codigo":"132400","nam":"Area Urbana","na2":"TOROLA"}
+,{"codigo":"132401","nam":"Agua Zarca","na2":"TOROLA"}
+,{"codigo":"132402","nam":"Cerritos","na2":"TOROLA"}
+,{"codigo":"132403","nam":"El Progreso","na2":"TOROLA"}
+,{"codigo":"132404","nam":"Tijeretas","na2":"TOROLA"}
+,{"codigo":"1325","nam":"Yamabal","na2":"YAMABAL"}
+,{"codigo":"132500","nam":"Area Urbana","na2":"YAMABAL"}
+,{"codigo":"132501","nam":"La Isleta","na2":"YAMABAL"}
+,{"codigo":"132502","nam":"Loma Del Chile","na2":"YAMABAL"}
+,{"codigo":"132503","nam":"San Juan De La Cruz","na2":"YAMABAL"}
+,{"codigo":"132504","nam":"El Volcán","na2":"YAMABAL"}
+,{"codigo":"1326","nam":"Yoloaiquín","na2":"YOLOAIQUÍN"}
+,{"codigo":"132600","nam":"Area Urbana","na2":"YOLOAIQUÍN"}
+,{"codigo":"132601","nam":"El Aceituno","na2":"YOLOAIQUÍN"}
+,{"codigo":"132602","nam":"El Volcán","na2":"YOLOAIQUÍN"}
+,{"codigo":"14","nam":"La Unión","na2":"LA UNIÓN"}
+,{"codigo":"1401","nam":"Anamorós","na2":"ANAMORÓS"}
+,{"codigo":"140100","nam":"Area Urbana","na2":"ANAMOROS"}
+,{"codigo":"140101","nam":"Agua Blanca","na2":"ANAMOROS"}
+,{"codigo":"140102","nam":"Carbonal","na2":"ANAMOROS"}
+,{"codigo":"140103","nam":"Cordoncillo","na2":"ANAMOROS"}
+,{"codigo":"140104","nam":"El Cedro","na2":"ANAMOROS"}
+,{"codigo":"140105","nam":"Huertas Viejas","na2":"ANAMOROS"}
+,{"codigo":"140106","nam":"Terreritos","na2":"ANAMOROS"}
+,{"codigo":"140107","nam":"Tizate","na2":"ANAMOROS"}
+,{"codigo":"140108","nam":"Tulima","na2":"ANAMOROS"}
+,{"codigo":"140109","nam":"Talpetate","na2":"ANAMOROS"}
+,{"codigo":"140110","nam":"Calpules","na2":"ANAMOROS"}
+,{"codigo":"1402","nam":"Bolívar","na2":"BOLÍVAR"}
+,{"codigo":"140200","nam":"Area Urbana","na2":"BOLIVAR"}
+,{"codigo":"140201","nam":"Albornoz","na2":"BOLIVAR"}
+,{"codigo":"140202","nam":"Candelaria Albornoz","na2":"BOLIVAR"}
+,{"codigo":"140203","nam":"Eltransito","na2":"BOLIVAR"}
+,{"codigo":"140204","nam":"Guadalupe","na2":"BOLIVAR"}
+,{"codigo":"140205","nam":"La Paz","na2":"BOLIVAR"}
+,{"codigo":"140206","nam":"La Rinconoda","na2":"BOLIVAR"}
+,{"codigo":"140207","nam":"Nueva Guadalupe","na2":"BOLIVAR"}
+,{"codigo":"140208","nam":"Santa Lucía","na2":"BOLÍVAR"}
+,{"codigo":"140209","nam":"Las Marías","na2":"BOLIVAR"}
+,{"codigo":"140210","nam":"Los Hatillos","na2":"BOLIVAR"}
+,{"codigo":"1403","nam":"Concepción De Oriente","na2":"CONCEPCIÓN DE ORIENTE"}
+,{"codigo":"140300","nam":"Area Urbana","na2":"CONCEPCIÓN DE ORIENTE"}
+,{"codigo":"140301","nam":"El Guayabo","na2":"CONCEPCIÓN DE ORIENTE"}
+,{"codigo":"140302","nam":"El Molino","na2":"CONCEPCIÓN DE ORIENTE"}
+,{"codigo":"140303","nam":"El Zapote","na2":"CONCEPCIÓN DE ORIENTE"}
+,{"codigo":"140304","nam":"Guaripe","na2":"CONCEPCIÓN DE ORIENTE"}
+,{"codigo":"1404","nam":"Conchagua","na2":"CONCHAGUA"}
+,{"codigo":"140400","nam":"Area Urbana","na2":"CONCHAGUA"}
+,{"codigo":"140401","nam":"Cerro El Jiote","na2":"CONCHAGUA"}
+,{"codigo":"140402","nam":"Conchagüita","na2":"CONCHAGUA"}
+,{"codigo":"140403","nam":"El Cacao","na2":"CONCHAGUA"}
+,{"codigo":"140404","nam":"El Ciprés","na2":"CONCHAGUA"}
+,{"codigo":"140405","nam":"El Faro","na2":"CONCHAGUA"}
+,{"codigo":"140406","nam":"El Pilón","na2":"CONCHAGUA"}
+,{"codigo":"140407","nam":"Los Angeles","na2":"CONCHAGUA"}
+,{"codigo":"140408","nam":"Güisquil","na2":"CONCHAGUA"}
+,{"codigo":"140409","nam":"Maquigue","na2":"CONCHAGUA"}
+,{"codigo":"140410","nam":"Piedra Blanca","na2":"CONCHAGUA"}
+,{"codigo":"140411","nam":"Piedra Rayada","na2":"CONCHAGUA"}
+,{"codigo":"140412","nam":"Yologual","na2":"CONCHAGUA"}
+,{"codigo":"1405","nam":"El Carmen","na2":"EL CARMEN"}
+,{"codigo":"140500","nam":"Area Urbana","na2":"EL CARMEN"}
+,{"codigo":"140501","nam":"Alto El Roble","na2":"EL CARMEN"}
+,{"codigo":"140502","nam":"El Caulotillo","na2":"EL CARMEN"}
+,{"codigo":"140503","nam":"El Gavilán","na2":"EL CARMEN"}
+,{"codigo":"140504","nam":"El Piche","na2":"EL CARMEN"}
+,{"codigo":"140505","nam":"El Tejar","na2":"EL CARMEN"}
+,{"codigo":"140506","nam":"El Zapotal","na2":"EL CARMEN"}
+,{"codigo":"140507","nam":"La Cañada","na2":"EL CARMEN"}
+,{"codigo":"140508","nam":"Las Pitas","na2":"EL CARMEN"}
+,{"codigo":"140509","nam":"Los Conejos","na2":"EL CARMEN"}
+,{"codigo":"140510","nam":"Olomega","na2":"EL CARMEN"}
+,{"codigo":"140511","nam":"Salagua","na2":"EL CARMEN"}
+,{"codigo":"140512","nam":"Los Amates","na2":"EL CARMEN"}
+,{"codigo":"140513","nam":"Terrero Blanco","na2":"EL CARMEN"}
+,{"codigo":"140514","nam":"El Jícaro","na2":"EL CARMEN"}
+,{"codigo":"140515","nam":"El Tihuilotal","na2":"EL CARMEN"}
+,{"codigo":"140516","nam":"La Quesadilla","na2":"EL CARMEN"}
+,{"codigo":"1406","nam":"El Sauce","na2":"EL SAUCE"}
+,{"codigo":"140600","nam":"Area Urbana","na2":"EL SAUCE"}
+,{"codigo":"140601","nam":"Canaire","na2":"EL SAUCE"}
+,{"codigo":"140602","nam":"El Rincón","na2":"EL SAUCE"}
+,{"codigo":"140603","nam":"El Talpetate","na2":"EL SAUCE"}
+,{"codigo":"140604","nam":"San Juan Gualare","na2":"EL SAUCE"}
+,{"codigo":"140605","nam":"Santa Rosita","na2":"EL SAUCE"}
+,{"codigo":"140606","nam":"El Algodón","na2":"EL SAUCE"}
+,{"codigo":"140607","nam":"Los Mojones","na2":"EL SAUCE"}
+,{"codigo":"140608","nam":"Talpetate","na2":"EL SAUCE"}
+,{"codigo":"140609","nam":"Boquín","na2":"EL SAUCE"}
+,{"codigo":"1407","nam":"Intipucá","na2":"INTIPUCÁ"}
+,{"codigo":"140700","nam":"Area Urbana","na2":"INTIPUCÁ"}
+,{"codigo":"140701","nam":"Chichipate","na2":"INTIPUCÁ"}
+,{"codigo":"140702","nam":"El Carao","na2":"INTIPUCÁ"}
+,{"codigo":"140703","nam":"La Leona","na2":"INTIPUCÁ"}
+,{"codigo":"140704","nam":"El Coyolito","na2":"INTIPUCÁ"}
+,{"codigo":"1408","nam":"La Unión","na2":"LA UNIÓN"}
+,{"codigo":"140800","nam":"Area Urbana","na2":"LA UNIÓN"}
+,{"codigo":"140801","nam":"Agua Caliente","na2":"LA UNIÓN"}
+,{"codigo":"140802","nam":"Agua Escondida","na2":"LA UNIÓN"}
+,{"codigo":"140803","nam":"Amapalita","na2":"LA UNIÓN"}
+,{"codigo":"140804","nam":"El Jícaro","na2":"LA UNIÓN"}
+,{"codigo":"140805","nam":"Isla Chuchito","na2":"LA UNIÓN"}
+,{"codigo":"140806","nam":"Isla Ilca","na2":"LA UNIÓN"}
+,{"codigo":"140807","nam":"Isla Martín Pérez","na2":"LA UNIÓN"}
+,{"codigo":"140808","nam":"Isla Perico","na2":"LA UNIÓN"}
+,{"codigo":"140809","nam":"Isla Periquito","na2":"LA UNIÓN"}
+,{"codigo":"140810","nam":"Isla Zacatillo","na2":"LA UNIÓN"}
+,{"codigo":"140811","nam":"La Quezadilla","na2":"LA UNIÓN"}
+,{"codigo":"140812","nam":"Las Chachas","na2":"LA UNIÓN"}
+,{"codigo":"140813","nam":"Loma Larga","na2":"LA UNIÓN"}
+,{"codigo":"140814","nam":"Sirama","na2":"LA UNIÓN"}
+,{"codigo":"140815","nam":"Tihuilotal","na2":"LA UNIÓN"}
+,{"codigo":"140816","nam":"Llano De Los Patos","na2":"LA UNIÓN"}
+,{"codigo":"140817","nam":"El Tamarindo","na2":"LA UNIÓN"}
+,{"codigo":"140818","nam":"La Leona","na2":"LA UNIÓN"}
+,{"codigo":"140819","nam":"Isla Conejo","na2":"PASAQUINA"}
+,{"codigo":"1409","nam":"Lislique","na2":"LISLIQUE"}
+,{"codigo":"140900","nam":"Area Urbana","na2":"LISLIQUE"}
+,{"codigo":"140901","nam":"Agua Fría","na2":"LISLIQUE"}
+,{"codigo":"140902","nam":"El Derrumbado","na2":"LISLIQUE"}
+,{"codigo":"140903","nam":"El Terrero","na2":"LISLIQUE"}
+,{"codigo":"140904","nam":"Guajiniquil","na2":"LISLIQUE"}
+,{"codigo":"140905","nam":"Higueras","na2":"LISLIQUE"}
+,{"codigo":"140906","nam":"Las Pilas","na2":"LISLIQUE"}
+,{"codigo":"140907","nam":"Agua Blanca","na2":"LISLIQUE"}
+,{"codigo":"140908","nam":"Huertas Viejas","na2":"LISLIQUE"}
+,{"codigo":"140909","nam":"El Cedro","na2":"LISLIQUE"}
+,{"codigo":"1410","nam":"Meanguera Del Golfo","na2":"MEANGUERA DEL GOLFO"}
+,{"codigo":"141000","nam":"Area Urbana","na2":"MEANGUERA DEL GOLFO"}
+,{"codigo":"141001","nam":"Isla Conchagüita","na2":"MEANGUERA DEL GOLFO"}
+,{"codigo":"141002","nam":"El Salvador","na2":"MEANGUERA DEL GOLFO"}
+,{"codigo":"141003","nam":"Guerrero","na2":"MEANGUERA DEL GOLFO"}
+,{"codigo":"141006","nam":"Isla Meangüerita","na2":"MEANGUERA DEL GOLFO"}
+,{"codigo":"1411","nam":"Nueva Esparta","na2":"NUEVA ESPARTA"}
+,{"codigo":"141100","nam":"Area Urbana","na2":"NUEVA ESPARTA"}
+,{"codigo":"141101","nam":"El Portillo","na2":"NUEVA ESPARTA"}
+,{"codigo":"141102","nam":"Honduritas","na2":"NUEVA ESPARTA"}
+,{"codigo":"141103","nam":"Las Marías","na2":"NUEVA ESPARTA"}
+,{"codigo":"141104","nam":"Monteca","na2":"NUEVA ESPARTA"}
+,{"codigo":"141105","nam":"Ocotillo","na2":"NUEVA ESPARTA"}
+,{"codigo":"141106","nam":"Talpetate","na2":"NUEVA ESPARTA"}
+,{"codigo":"141107","nam":"El Cedro","na2":"NUEVA ESPARTA"}
+,{"codigo":"141108","nam":"Agua Fría","na2":"NUEVA ESPARTA"}
+,{"codigo":"141109","nam":"Mala Laja","na2":"NUEVA ESPARTA"}
+,{"codigo":"1412","nam":"Pasaquina","na2":"PASAQUINA"}
+,{"codigo":"141200","nam":"Area Urbana","na2":"PASAQUINA"}
+,{"codigo":"141201","nam":"Cerro Pelón","na2":"PASAQUINA"}
+,{"codigo":"141202","nam":"El Rebalse","na2":"PASAQUINA"}
+,{"codigo":"141203","nam":"El Tablón","na2":"PASAQUINA"}
+,{"codigo":"141204","nam":"Horcones","na2":"PASAQUINA"}
+,{"codigo":"141205","nam":"Piedras Blancas","na2":"PASAQUINA"}
+,{"codigo":"141206","nam":"San Eduardo","na2":"PASAQUINA"}
+,{"codigo":"141207","nam":"San Felipe","na2":"PASAQUINA"}
+,{"codigo":"141208","nam":"Santa Clara","na2":"PASAQUINA"}
+,{"codigo":"141209","nam":"Valle Afuera","na2":"PASAQUINA"}
+,{"codigo":"141210","nam":"Pasaquinita","na2":"PASAQUINA"}
+,{"codigo":"141211","nam":"El Talpetate","na2":"PASAQUINA"}
+,{"codigo":"1413","nam":"Polorós","na2":"POLORÓS"}
+,{"codigo":"141300","nam":"Area Urbana","na2":"POLOROS"}
+,{"codigo":"141301","nam":"Boquín","na2":"POLOROS"}
+,{"codigo":"141302","nam":"Carpintero","na2":"POLOROS"}
+,{"codigo":"141303","nam":"El Pueblo","na2":"POLOROS"}
+,{"codigo":"141304","nam":"El Rodeo","na2":"POLOROS"}
+,{"codigo":"141305","nam":"Ocote","na2":"POLOROS"}
+,{"codigo":"141306","nam":"Lajitas","na2":"POLOROS"}
+,{"codigo":"141307","nam":"Mala Laja","na2":"POLOROS"}
+,{"codigo":"141308","nam":"El Guayabo","na2":"POLOROS"}
+,{"codigo":"141309","nam":"Honduritas","na2":"POLOROS"}
+,{"codigo":"1414","nam":"San Alejo","na2":"SAN ALEJO"}
+,{"codigo":"141400","nam":"Area Urbana","na2":"SAN ALEJO"}
+,{"codigo":"141401","nam":"Agua Fría","na2":"SAN ALEJO"}
+,{"codigo":"141402","nam":"Bobadilla","na2":"SAN ALEJO"}
+,{"codigo":"141403","nam":"Ceibillas","na2":"SAN ALEJO"}
+,{"codigo":"141404","nam":"Cerco De Piedra","na2":"SAN ALEJO"}
+,{"codigo":"141405","nam":"El Caragon","na2":"SAN ALEJO"}
+,{"codigo":"141406","nam":"El Copalío","na2":"SAN ALEJO"}
+,{"codigo":"141407","nam":"El Tamarindo","na2":"SAN ALEJO"}
+,{"codigo":"141408","nam":"El Tizatillo","na2":"SAN ALEJO"}
+,{"codigo":"141409","nam":"Hato Nuevo","na2":"SAN ALEJO"}
+,{"codigo":"141410","nam":"Las Queseras","na2":"SAN ALEJO"}
+,{"codigo":"141411","nam":"Los Jiotes","na2":"SAN ALEJO"}
+,{"codigo":"141412","nam":"Mogotillo","na2":"SAN ALEJO"}
+,{"codigo":"141413","nam":"San Jerónimo","na2":"SAN ALEJO"}
+,{"codigo":"141414","nam":"Santa Cruz","na2":"SAN ALEJO"}
+,{"codigo":"141415","nam":"Terrero Blanco","na2":"SAN ALEJO"}
+,{"codigo":"141416","nam":"Los Amates","na2":"SAN ALEJO"}
+,{"codigo":"141417","nam":"Las Marías","na2":"SAN ALEJO"}
+,{"codigo":"141418","nam":"Maderas","na2":"SAN ALEJO"}
+,{"codigo":"1415","nam":"San José","na2":"SAN JOSÉ"}
+,{"codigo":"141500","nam":"Area Urbana","na2":"SAN JOSÉ"}
+,{"codigo":"141501","nam":"Chaguitillo","na2":"SAN JOSÉ"}
+,{"codigo":"141502","nam":"El Sombrerito","na2":"SAN JOSÉ"}
+,{"codigo":"141503","nam":"El Zapote","na2":"SAN JOSÉ"}
+,{"codigo":"141504","nam":"La Joya","na2":"SAN JOSÉ"}
+,{"codigo":"1416","nam":"Santa Rosa De Lima","na2":"SANTA ROSA DE LIMA"}
+,{"codigo":"141600","nam":"Area Urbana","na2":"SANTA ROSA DE LIMA"}
+,{"codigo":"141601","nam":"Copetillos","na2":"SANTA ROSA DE LIMA"}
+,{"codigo":"141602","nam":"El Algodón","na2":"SANTA ROSA DE LIMA"}
+,{"codigo":"141603","nam":"El Portillo","na2":"SANTA ROSA DE LIMA"}
+,{"codigo":"141604","nam":"La Chorrera","na2":"SANTA ROSA DE LIMA"}
+,{"codigo":"141605","nam":"Las Cañas","na2":"SANTA ROSA DE LIMA"}
+,{"codigo":"141606","nam":"Los Mojones","na2":"SANTA ROSA DE LIMA"}
+,{"codigo":"141607","nam":"Pasaquinita","na2":"SANTA ROSA DE LIMA"}
+,{"codigo":"141608","nam":"San Sebastián","na2":"SANTA ROSA DE LIMA"}
+,{"codigo":"141609","nam":"El Cordoncillo","na2":"SANTA ROSA DE LIMA"}
+,{"codigo":"141610","nam":"Candelaria Albornoz","na2":"SANTA ROSA DE LIMA"}
+,{"codigo":"1417","nam":"Yayantique","na2":"YAYANTIQUE"}
+,{"codigo":"141700","nam":"Area Urbana","na2":"YAYANTIQUE"}
+,{"codigo":"141701","nam":"Centeno","na2":"YAYANTIQUE"}
+,{"codigo":"141702","nam":"El Pastor","na2":"YAYANTIQUE"}
+,{"codigo":"141703","nam":"El Socorro","na2":"YAYANTIQUE"}
+,{"codigo":"141704","nam":"Los Amates","na2":"YAYANTIQUE"}
+,{"codigo":"1418","nam":"Yucuaiquín","na2":"YUCUAIQUÍN"}
+,{"codigo":"141800","nam":"Area Urbana","na2":"YUCUAIQUÍN"}
+,{"codigo":"141801","nam":"Candelaria","na2":"YUCUAIQUÍN"}
+,{"codigo":"141802","nam":"Ciricuario","na2":"YUCUAIQUÍN"}
+,{"codigo":"141803","nam":"El Carmen","na2":"YUCUAIQUÍN"}
+,{"codigo":"141804","nam":"La Cañada","na2":"YUCUAIQUÍN"}
+,{"codigo":"141805","nam":"Las Cruces","na2":"YUCUAIQUÍN"}
+,{"codigo":"141806","nam":"Las Marías","na2":"YUCUAIQUÍN"}
+,{"codigo":"141807","nam":"Los Hatillos","na2":"YUCUAIQUIN"}
+,{"codigo":"141809","nam":"Valle Nuevo","na2":"YUCUAIQUÍN"}
+,{"codigo":"141810","nam":"El Transito","na2":"YUCUAIQUÍN"}
+,{"codigo":"141811","nam":"Santa Lucía","na2":"YUCUAIQUÍN"}
+]}

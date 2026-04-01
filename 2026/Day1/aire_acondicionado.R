@@ -1,4 +1,5 @@
 library(tidyverse)
+library(janitor)
 
 
 hogares <- read.csv("../../../censo_2024/Bases-Finales-CPV2024SV-CSV/Base de Datos de Hogares - CPV 2024 SV.csv")
@@ -20,12 +21,36 @@ recode_deptos <- c(
   "14" = "La Unión"
 )
 
+codigos_distritos <- read.csv("catalogo-de-municipios-y-distritos.csv", 
+                    fileEncoding = "latin1",
+                    sep = ";") |> 
+  clean_names()
+
+
 ac_dep <- hogares |> 
   group_by(DEPTO, H02_5_HOG_AC) |> 
   summarise(n = n(), .groups = "drop") |> 
   drop_na() |> 
   mutate(
     DEPTO = recode(DEPTO, !!!recode_deptos),
+    H02_5_HOG_AC = recode(H02_5_HOG_AC,
+                          `1` = "Sí",
+                          `2` = "No",
+                          `9` = "NS/NR"
+    ),
+    H02_5_HOG_AC = factor(H02_5_HOG_AC,
+                          levels = c("Sí", "No", "NS/NR")
+    )
+  )
+
+ac_dist <- hogares |> 
+  group_by(DISTODESC, H02_5_HOG_AC) |> 
+  summarise(n = n(), .groups = "drop") |> 
+  drop_na() |> 
+  mutate(
+    DISTODESC = recode_values(DISTODESC, 
+                              from = codigos_distritos$codigo_distritos, 
+                              to = codigos_distritos$distritos),
     H02_5_HOG_AC = recode(H02_5_HOG_AC,
                           `1` = "Sí",
                           `2` = "No",
