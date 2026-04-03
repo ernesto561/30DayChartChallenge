@@ -8,6 +8,41 @@ showtext_auto()
 
 showtext_opts(dpi = 300) 
 
+
+theme_day1 <- function(base_size = 22, base_family = "roboto") {
+  theme_minimal(base_size = base_size, base_family = base_family) %+replace% 
+    theme(
+      plot.title.position = "plot",
+      plot.title = element_markdown(
+        face = "bold", 
+        size = rel(1.2), 
+        hjust = 0, 
+        margin = margin(b = 10)
+      ),
+      plot.subtitle = element_text(
+        size = rel(0.9), 
+        hjust = 0, 
+        margin = margin(b = 20)
+      ),
+      legend.position = "top",
+      legend.location = "plot",
+      legend.justification = "left",
+      legend.title = element_text(size = rel(0.8)),
+      legend.text = element_text(size = rel(0.8)),
+      legend.margin = margin(l = 0, b = 15),
+      axis.title.x.top = element_text(
+        size = rel(1), 
+        margin = margin(b = 10)
+      ),
+      plot.caption = element_text(
+        size = rel(0.7), 
+        hjust = 1, 
+        margin = margin(t = 15)
+      ),
+      panel.grid = element_blank()
+    )
+}
+
 hogares <- read.csv("../../../censo_2024/Bases-Finales-CPV2024SV-CSV/Base de Datos de Hogares - CPV 2024 SV.csv")
 
 recode_deptos <- c(
@@ -117,19 +152,12 @@ ggplot(ac_dep, aes(
     breaks = c(0, 0.20, 0.40, 0.60, 0.80, 1), 
     labels = c("0", "20%", "40%", "60%", "80%", "100%")) +
   scale_y_discrete(expand = c(0,0)) +
-  theme_minimal(base_size = 22, base_family = "roboto") + 
-  labs(x = "Porcentaje de hogares", y = "Distrito",
+  labs(x = "Porcentaje de hogares", y = "Departamento",
        fill = "¿Posee aire acondicionado?", 
-       title = "San Miguel tiene el mayor porcentaje de hogares con aire acondicionado") +
-  theme(
-    plot.title.position = "plot", 
-    legend.location = "plot",
-    legend.position = "top",
-    legend.justification = "left", 
-    legend.direction = "horizontal",
-    legend.margin = margin(l = 0, b = 10),
-    panel.grid = element_blank()
-  )
+       title = "San Miguel tiene el mayor <span style='color:#2E5A88;'>porcentaje de hogares con aire acondicionado</span>",
+       subtitle = "Porcentaje de hogares con aire acondicionado por cada departamento.\nResultados del Censo de Población y Vivienda 2024. Fuente: Banco Central de Reserva",
+       caption = "\n#30DayChartChallenge, Day 1\nPart-to-Whole\nMario Reyes") +
+  theme_day1()
 
 ggsave("aire_acondicionado_censo_2024_depto.png", width = 13, height = 10, dpi = 300)
 
@@ -147,21 +175,11 @@ ggplot(ac_dist_final, aes(
     breaks = c(0, 0.20, 0.40, 0.60, 0.80, 1), 
     labels = c("0", "20%", "40%", "60%", "80%", "100%")) +
   scale_y_discrete(expand = c(0,0)) +
-  theme_minimal(base_size = 22, base_family = "roboto") + 
   labs(x = "Porcentaje de hogares", y = "Distrito",
        fill = "¿Posee aire acondicionado?", 
        title = "Antiguo Cuscatlán tiene el mayor <span style='color:#2E5A88;'>porcentaje de hogares con aire acondicionado</span>",
        subtitle = "Top 10 Distritos de El Salvador con mayor porcentaje de hogares con aire acondicionado.\nResultados del Censo de Población y Vivienda 2024. Fuente: Banco Central de Reserva",
        caption = "\n#30DayChartChallenge, Day 1\nPart-to-Whole\nMario Reyes") +
-  theme(
-    plot.title = element_markdown(face = "bold"),
-    plot.title.position = "plot", 
-    legend.location = "plot",
-    legend.position = "top",
-    legend.justification = "left", 
-    legend.direction = "horizontal",
-    legend.margin = margin(l = 0, b = 10),
-    panel.grid = element_blank()
-  )
+  theme_day1()
 
 ggsave("aire_acondicionado_censo_2024_dist.png", width = 14, height = 10, dpi = 300)
