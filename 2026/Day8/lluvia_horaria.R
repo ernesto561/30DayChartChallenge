@@ -2,12 +2,17 @@ library(dplyr)
 library(ggplot2)
 library(lubridate)
 library(showtext)
+library(ggtext)
 library(geomtextpath)
 library(glue)
 
 font_add_google("Roboto", "roboto")
 showtext_auto()
 showtext_opts(dpi = 300) 
+
+titulo <- "En Santa Tecla, el <span style='color:#2F5F7D;'><b>46% de la lluvia</b></span> cae<br>entre las 6 p.m. y medianoche"
+subtitulo <- "Porcentaje de lluvia por hora del día"
+
 
 lluvia_horaria <- read.csv("procafe/proc_hourly.csv")
 lluvia_horas <- lluvia_horaria |> 
@@ -17,18 +22,22 @@ lluvia_horas <- lluvia_horaria |>
   summarise(sum_hora = sum(hourly_rain, na.rm = TRUE)) |>
   mutate(pct = sum_hora / sum(sum_hora) * 100)
 
-clr_bg      <- "#FAFAF6"
-clr_text    <- "#1A1A18"
-clr_text2   <- "#6B6B65"
+lluvia_horas <- lluvia_horas |>
+  mutate(
+    color_barra = if_else(hora >= 18, "#457B9D", "#7BAFD4")
+  )
+
+bg      <- "white"
+text_color1    <- "#1A1A18"
+text_color12   <- "#6B6B65"
 clr_accent  <- "steelblue"
 clr_accent2 <- "#3D4F9F"
-clr_grid    <- "#E0E0D8"
+col_grid    <- "#E0E0D8"
 
 max_pct <- ceiling(max(lluvia_horas$pct, na.rm = TRUE))
 
-# Porcentaje acumulado horas > 18
 pct_tarde <- lluvia_horas |> 
-  filter(hora > 18) |> 
+  filter(hora >= 18) |> 
   pull(pct) |> 
   sum() |> 
   round(0)
@@ -42,11 +51,15 @@ arrow_segment_df <- tibble(
 )
 
 p <- ggplot(lluvia_horas, aes(x = hora, y = pct)) +  
-  geom_col(width = 0.75, fill = clr_accent) +
+  geom_col(
+    aes(fill = color_barra),
+    width = 0.75
+  ) +
+  scale_fill_identity()  +
   geom_textsegment(
     data = arrow_segment_df, 
     mapping = aes(x = x, y = y, xend = xend, yend = yend, label = label),
-    color = "cornflowerblue",
+    color = "#2F5F7D",
     family = "roboto",
     size = 6,
     arrow = arrow(length = unit(0.2, "cm"), type = "closed"), 
@@ -61,38 +74,51 @@ p <- ggplot(lluvia_horas, aes(x = hora, y = pct)) +
     expand = c(0, 0),
     breaks = seq(0, max_pct, 5),
     limits = c(0, max_pct),
-    labels = scales::label_percent(scale = 1),
+    # En scale_y_continuous agrega un label con espacio forzado
+    labels = function(x) scales::label_percent(scale = 1)(x) |> stringr::str_pad(width = 6, side = "right"),
     oob    = scales::oob_keep
   ) +
   coord_radial(
     start         = -2 * pi * (0.5 / 24),
     end           =  2 * pi - 2 * pi * (0.5 / 24),
     inner.radius  = 0.25,
-    rotate_angle  = FALSE,
+    rotate.angle  = FALSE,
     r.axis.inside = 3,
     clip          = "off"
   ) +
   guides(theta = "axis_textpath") +
   labs(
-    title    = "El 40% de la lluvia total cae entre las 18:00 y medianoche",
-    subtitle = "Porcentaje de lluvia por hora del día",
-    caption  = "Fuente: MARN"
+    title    = titulo,
+    subtitle = subtitulo,
+    caption  = "\n#30DayChartChallenge, Day 8: Circular\nMario Reyes\nFuente: MARN, estación Procafé 2005-2022"
   ) +
-  theme_void(base_family = "roboto", base_size = 14) +
+  theme_void(base_family = "roboto", base_size = 22) +
   theme(
-    legend.position  = "none",
-    plot.background  = element_rect(fill = clr_bg, color = NA),
-    panel.grid.major.x = element_line(color = clr_grid, linewidth = 0.5, linetype = "dashed"),
+    legend.position    = "none",
+    plot.background    = element_rect(fill = bg, color = NA),
+    panel.grid.major.x = element_line(color = col_grid, linewidth = 1, linetype = "dashed"),
     panel.grid.minor.x = element_blank(),
     panel.grid.major.y = element_line(color = "gray50", linewidth = 0.3),
     panel.grid.minor.y = element_blank(),
-    axis.text.x = element_text(face = "bold", margin = margin(t = 10)),
-    axis.text.y = element_text(size = 8, color = clr_text2),
+    axis.text.x  = element_text(face = "bold", size = 18, margin = margin(t = 10)),
+    axis.text.y = element_text(
+      size  = 12, 
+      color = text_color12, 
+      hjust = 1      
+    ),
     plot.title.position = "plot",
-    plot.title    = element_text(face = "bold", size = 36, hjust = 0),
-    plot.subtitle = element_text(size = 25, hjust = 0, margin = margin(t = 10, b = 50)),
-    plot.caption  = element_text(size = 12, hjust = 1, margin = margin(t = 30, b = 6.5)),
-    plot.margin   = margin(t = 16, r = 60, b = 34, l = 60)
+    plot.title = element_markdown(
+      face = "bold",
+      lineheight = 1.1,
+      hjust = 0, 
+      margin     = margin(t = 10, r = 30, b = 10, l = 0)),
+    plot.subtitle = element_text(
+      hjust = 0, 
+      margin = margin(b = 30)
+    ),
+    plot.caption  = element_text(size = 14, hjust = 1, margin = margin(t = 30, b = 6.5)),
+    aspect.ratio  = 1,
+    plot.margin = margin(t = 16, r = 0, b = 20, l = -5)  # l negativo compensa
   )
 
-ggsave("lluvia_horaria2.png", p, width = 8, height = 10, dpi = 300)
+ggsave("lluvia_horaria2.png", p, width = 7.5, height = 10, dpi = 300, device = "png", type = "cairo")
