@@ -177,9 +177,9 @@ ggplot(ac_dist_final, aes(
   scale_y_discrete(expand = c(0,0)) +
   labs(x = "Porcentaje de hogares", y = "Distrito",
        fill = "¿Posee aire acondicionado?", 
-       title = "Antiguo Cuscatlán tiene el mayor <span style='color:#2E5A88;'>porcentaje de hogares con aire acondicionado</span>",
-       subtitle = "Top 10 Distritos de El Salvador con mayor porcentaje de hogares con aire acondicionado.\nResultados del Censo de Población y Vivienda 2024. Fuente: Banco Central de Reserva",
+       title = "Antiguo Cuscatlán tiene el mayor <span style='color:#2E5A88;'>porcentaje de hogares <br>con aire acondicionado</span>",
+       subtitle = "Distritos de El Salvador con mayor porcentaje de hogares con aire acondicionado. \nFuente: Censo de Población y Vivienda 2024, Banco Central de Reserva",
        caption = "\n#30DayChartChallenge, Day 1\nPart-to-Whole\nMario Reyes") +
   theme_day1()
 
-ggsave("aire_acondicionado_censo_2024_dist.png", width = 14, height = 10, dpi = 300)
+ggsave("aire_acondicionado_censo_2024_dist.png", width = 10.3, height = 10.5, dpi = 300)
