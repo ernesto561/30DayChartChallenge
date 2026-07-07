@@ -93,7 +93,7 @@ p +
     ),
     colour   = "white",
     fontface = "bold",
-    size     = 6,
+    size     = 8,
     na.rm    = TRUE
   ) +
   scale_x_continuous(
@@ -109,7 +109,7 @@ p +
     x        = "Área",
     y        = "Tenencia"
   ) +
-  theme_marimekko_mod(base_size = 24) +
-  theme(plot.margin = margin(t = 2, r = 2, b = 2, l = 2, unit = "cm"))
+  theme_marimekko_mod(base_size = 27) +
+  theme(plot.margin = margin(t = 1, r = 2, b = 1, l = 1, unit = "cm"))
   
-ggsave("tenencia_vivienda.png", width = 13.5, height = 14, dpi = 300)
+ggsave("tenencia_vivienda.png", width = 15.5, height = 15.5, dpi = 300)
