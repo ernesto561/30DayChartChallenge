@@ -109,6 +109,7 @@ p +
     x        = "Área",
     y        = "Tenencia"
   ) +
-  theme_marimekko_mod(base_size = 24)
+  theme_marimekko_mod(base_size = 24) +
+  theme(plot.margin = margin(t = 2, r = 2, b = 2, l = 2, unit = "cm"))
   
-ggsave("tenencia_vivienda.png", width = 13.1, height = 14, dpi = 300)
+ggsave("tenencia_vivienda.png", width = 13.5, height = 14, dpi = 300)
