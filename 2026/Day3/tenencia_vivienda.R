@@ -93,7 +93,7 @@ p +
     ),
     colour   = "white",
     fontface = "bold",
-    size     = 5,
+    size     = 6,
     na.rm    = TRUE
   ) +
   scale_x_continuous(
@@ -104,11 +104,11 @@ p +
   ) +
   labs(
     title    = "El porcentaje de vivienda propia en El Salvador es mayor en el área rural",
-    subtitle = "El 68% de viviendas rurales son propias (pagadas o en proceso) vs. 64.5% en zonas urbanas.\nAdemás, 7 de cada 10 viviendas del país se encuentran en la zona urbana.\nFuente: Censo de Población y Vivienda 2024, Banco Central de Reserva.\nNo se muestran porcentajes menores a 5%.",
+    subtitle = "El 68% de viviendas rurales son propias (pagadas o en proceso) vs.64.5% en zonas urbanas.\nAdemás, 7 de cada 10 viviendas del país se encuentran en la zona urbana.\nFuente: Censo de Población y Vivienda 2024, Banco Central de Reserva.\nNo se muestran porcentajes menores a 5%.",
     caption  = "\n#30DayChartChallenge, Day 3\nMosaic\nMario Reyes",
     x        = "Área",
     y        = "Tenencia"
   ) +
-  theme_marimekko_mod(base_size = 21)
+  theme_marimekko_mod(base_size = 24)
   
-ggsave("tenencia_vivienda.png", width = 14, height = 10, dpi = 300)
+ggsave("tenencia_vivienda.png", width = 13.1, height = 14, dpi = 300)
