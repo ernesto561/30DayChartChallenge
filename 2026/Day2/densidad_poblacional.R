@@ -99,10 +99,9 @@ ggplot(df_icons, aes(x = x_pos, y = reorder(DISTODESC, dens))) +
             family = "fa-solid", 
             size = 10) +
   
-  # Definimos el color manualmente para que coincida con tu diseño
+  
   scale_color_manual(name = NULL, values = c("= 1,000 hab/km²" = "steelblue")) +
   
-  # IMPORTANTE: Configurar la guía para que muestre el ícono en la leyenda
   guides(
     color = guide_legend(override.aes = list(label = "\uf183", family = "fa-solid", size = 8))
   ) +
@@ -115,4 +114,4 @@ ggplot(df_icons, aes(x = x_pos, y = reorder(DISTODESC, dens))) +
   ) +
   theme_day2()
 
-ggsave("dens_pop_dist.png", width = 15, height = 10, dpi = 300)
+ggsave("dens_pop_dist.png", width = 10, height = 10, dpi = 300)
